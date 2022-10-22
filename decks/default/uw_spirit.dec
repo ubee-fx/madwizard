@@ -1,0 +1,74 @@
+!uw,Spirit
+!blue and white spirits
+
+# special
+2,1 {
+Luminous Angel
+Iridescent Angel
+Oyobi, Who Split the Heavens
+}
+3,3 {
+Drogskol Captain
+}
+
+# core spirits
+12,2 {
+Battleground Geist
+Latch Seeker
+Sky Spirit
+Geist-Honored Monk
+Gallows Warden
+Mausoleum Guard
+Hanged Executioner
+Selfless Spirit
+Drumbellower
+}
+
+# spirit or arcane
+3,1 {
+filter:type=Creature,subtype=Spirit,color=u,color=w,anycolor,text=spirit or arcane
+}
+
+# other spirits
+8,1 {
+filter:type=Creature,subtype=Spirit,color=u,color=w,anycolor
+filter:type=Creature,color=u,color=w,anycolor,text=changeling
+}
+
+# spells
+8,1 {
+Afterlife
+Eye of Nowhere
+Reach Through Mists
+Quiet Purity
+Dramatic Rescue
+Fall of the Gavel
+Kiss of the Amesha
+Offering to Asha
+Sphinx's Revelation
+Absorb
+Curse of Chains
+Angelic Shield
+Moonsilver Spear
+Midnight Haunting
+Promise of Bunrei
+Spirit Mantle
+Spirit Link
+Arcane Flight
+Geist Snatch
+}
+
+# 24 lands
+7,7 {
+Plains
+}
+7,7 {
+Island
+}
+2,1 {
+Sandstone Bridge
+Kabira Crossroads
+}
+8,2 {
+filter:type=Land,mana=u,mana=w
+}

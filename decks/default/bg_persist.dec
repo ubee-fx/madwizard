@@ -1,0 +1,37 @@
+!bg,Persist
+!black and green persist
+
+# 2 vampire
+2,1 {
+Necropolis Regent
+Drana, Liberator of Malakir
+}
+
+# 18 persist
+10,2 {
+filter:color=b,color=g,anycolor,text=persist
+}
+8,2 {
+filter:color=b,color=g,color=w,color=r,anycolor,multicolor,text=persist
+}
+
+# 10 counter
+10,2 {
+filter:color=b,color=g,anycolor,text=+1/+1 counter,text=target creature
+}
+
+# 6 other spells
+6,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,anytype,anycolor,maxcost=4,text=destroy
+}
+
+# 24 lands
+8,8 {
+Swamp
+}
+8,8 {
+Forest
+}
+8,2 {
+filter:type=Land,mana=b,mana=g
+}

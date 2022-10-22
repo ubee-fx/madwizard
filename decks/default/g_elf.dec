@@ -1,0 +1,40 @@
+!g,Elf
+!mono green elves
+
+# 2 main elf creatures
+2,2 {
+Elvish Archdruid
+}
+
+# 8 mana elf creatures
+8,2 {
+filter:type=Creature,subtype=Elf,color=g,text=add
+}
+
+# 8 other elf creatures
+8,2 {
+filter:type=Creature,subtype=Elf,color=g
+}
+
+# 6 large creatures
+6,1 {
+filter:type=Creature,color=g,minCost=6
+}
+
+# 4 X creatures
+4,2 {
+filter:type=Creature,color=g,colorless,hasx
+}
+
+# 8 other spells
+8,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=g,anytype,mincost=4
+}
+
+# 23 lands
+1,1 {
+Gaea's Cradle
+}
+23,23 {
+Forest
+}

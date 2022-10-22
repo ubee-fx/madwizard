@@ -1,0 +1,54 @@
+!uw,Flying
+!blue and white flyers
+
+# 2 legendary
+2,1 {
+Kangee, Sky Warden
+Isperia, Supreme Judge
+}
+
+# 6 other main
+6,2 {
+Favorable Winds
+Gravitational Shift
+Deluge
+}
+
+# 10 creature main
+10,2 {
+Empyrean Eagle
+Sprite Noble
+Spirit of the Spires
+Thunderclap Wyvern
+Windstorm Drake
+Skycat Sovereign
+Archon of Redemption
+Cloudblazer
+Thraben Watcher
+}
+
+# 6 multi
+6,1 {
+filter:type=Creature,color=u,color=w,multicolor,ability=flying
+}
+
+# 6 mono white
+6,1 {
+filter:type=Creature,color=w,monocolor,ability=flying
+}
+
+# 6 mono blue
+6,1 {
+filter:type=Creature,color=u,monocolor,ability=flying
+}
+
+# 24 lands
+8,8 {
+Plains
+}
+8,8 {
+Island
+}
+8,2 {
+filter:type=Land,mana=u,mana=w
+}

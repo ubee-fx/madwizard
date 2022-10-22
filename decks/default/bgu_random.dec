@@ -1,0 +1,53 @@
+!bgu,Random BGU
+!random black, green and blue multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Maze Abomination
+Maze Glider
+Creakwood Liege
+Murkfiend Liege
+Glen Elendra Liege
+Vorosh, the Hunter
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=b,color=g,color=u,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,color=u,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=b,color=g,color=u,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Forest
+}
+4,4 {
+Island
+}
+3,2 {
+filter:type=Land,mana=b,mana=g
+}
+3,2 {
+filter:type=Land,mana=g,mana=u
+}
+3,2 {
+filter:type=Land,mana=b,mana=u
+}
+3,3 {
+filter:type=Land,mana=b,mana=g,mana=u
+}

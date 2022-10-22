@@ -1,0 +1,91 @@
+!gw,Enchantment
+!green and white enchantment
+
+# 4 core
+4,1 {
+Ethereal Armor
+All That Glitters
+Helm of the Gods
+Sigil of the Empty Throne
+Celestial Ancient
+Archon of Sun's Grace
+Heliod, God of the Sun
+Nettlecyst
+Sythis, Harvest's Hand
+Arasta of the Endless Web
+}
+
+# 16 creatures
+16,2 {
+Avacyn's Pilgrim
+Noble Hierarch
+Sylvan Caryatid
+Graceblade Artisan
+Kor Spiritdancer
+Yavimaya Enchantress
+Satyr Enchanter
+Mesa Enchantress
+Blessed Spirits
+Nyx-Fleece Ram
+Argothian Enchantress
+Nylea's Forerunner
+Nyxborn Colossus
+Nyxborn Courser
+Captivating Unicorn
+Favored of Iroas
+Pious Wayfarer
+Nexus Wardens
+Setessan Skirmisher
+Generous Visitor
+Spirited Companion
+Fang of Shigeki
+Eidolon of Inspiration
+Dawnhart Geist
+Verduran Enchantress
+Thran Golem
+}
+
+# 16 enchantments
+16,1 {
+Guard Duty
+Hyena Umbra
+Angelic Gift
+Chosen by Heliod
+Eland Umbra
+Spirit Mantle
+Battle Mastery
+Griffin Guide
+Unquestioned Authority
+Angelic Destiny
+Dictate of Heliod
+Mammoth Umbra
+Privileged Position
+True Conviction
+Rancor
+Spider Umbra
+Boar Umbra
+Elephant Guide
+Enchantress's Presence
+Oakenform
+Mantle of the Wolf
+Asceticism
+Collective Blessing
+Primeval Bounty
+Epic Proportions
+Prodigious Growth
+Unflinching Courage
+Daybreak Coronet
+}
+
+# 24 lands
+8,8 {
+Plains
+}
+
+8,8 {
+Forest
+}
+
+8,2 {
+filter:type=Land,mana=g,mana=w
+}

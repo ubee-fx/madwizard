@@ -1,0 +1,84 @@
+!r,Red
+!mono red with burn and dragons
+
+# 13 creatures
+8,2 {
+Dragonmaster Outcast
+Chandra's Spitfire
+Guttersnipe
+Lavaborn Muse
+Viashino Fangtail
+Flametongue Kavu
+Thermo-Alchemist
+Prodigal Pyromancer
+Cinder Pyromancer
+Viashino Pyromancer
+Fire Servant
+Murderous Redcap
+Kessig Flamebreather
+}
+5,1 {
+Hazoret the Fervent
+Ryusei, the Falling Star
+Rorix Bladewing
+Furyborn Hellkite
+Terror of Mount Velus
+Utvara Hellkite
+Falkenrath Marauders
+Rage Thrower
+Red Dragon
+Balefire Dragon
+Flameblast Dragon
+Thunderblust
+Cinder Elemental
+Witty Roastmaster
+Young Pyromancer
+Thundermare
+}
+
+# 24 spells
+18,2 {
+Shock
+Lava Spike
+Flame Slash
+Lightning Bolt
+Lightning Strike
+Lightning Blast
+Bombard
+Puncture Blast
+Flame Lash
+Gut Shot
+Burst Lightning
+Char
+Reverberate
+Incinerate
+Ghostfire
+Reality Hemorrhage
+Smash to Smithereens
+}
+6,2 {
+Pyroclasm
+Volcanic Fallout
+Storm's Wrath
+Earthquake
+Blaze
+Inescapable Blaze
+}
+
+# 1 artifacts
+1,1 {
+Mox Ruby
+Pyrite Spellbomb
+Flamecast Wheel
+Tower of Calamities
+Staff of Nin
+Lightning Spear
+}
+
+# 22 lands
+20,20 {
+Mountain
+}
+2,2 {
+Sunscorched Desert
+}

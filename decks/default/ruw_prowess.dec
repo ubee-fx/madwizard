@@ -1,0 +1,124 @@
+!ruw,Prowess
+!red, blue and white prowess
+
+# 2 legendary
+2,1 {
+Niv-Mizzet, Dracogenius
+Talrand, Sky Summoner
+Balmor, Battlemage Captain
+Tura Kennerüd, Skyknight
+}
+
+# 3 main prowess
+3,3 {
+Monastery Mentor
+}
+
+# 4 multi prowess
+4,1 {
+Gelectrode
+Sprite Dragon
+Stormchaser Mage
+Wee Dragonauts
+Mercurial Geists
+Fluxcharger
+Sage of the Inward Eye
+Cunning Breezedancer
+Flying Crane Technique
+}
+
+# 9 prowess
+9,1 {
+filter:type=Creature,color=r,color=u,color=w,anycolor,text=prowess
+}
+
+# 3 instant or sorcery
+3,1 {
+Izzet Chronarch
+Electrostatic Field
+Kiln Fiend
+Thermo-Alchemist
+Young Pyromancer
+Aven Wind Mage
+Guttersnipe
+Smelt-Ward Minotaur
+Weaver of Lightning
+Archaeomancer
+Living Lightning
+Murmuring Mystic
+Pyre Hound
+Mnemonic Wall
+Shipwreck Dowser
+Festival Crasher
+Electrostatic Infantry
+Frenzied Devils
+}
+
+# 6 white spells
+6,1 {
+Chaplain's Blessing
+Charge
+Defiant Strike
+Mortal's Ardor
+Qilin's Blessing
+Seize the Initiative
+Veteran's Reflexes
+Wings of the Cosmos
+}
+
+# 5 red spells
+5,1 {
+Assault Strobe
+Blazing Volley
+Banners Raised
+Brute Force
+Bull Rush
+Expedite
+Fervent Strike
+Infuriate
+Kindled Fury
+Lightning Bolt
+Precise Strike
+Renegade Tactics
+Rush of Adrenaline
+Shock
+}
+
+# 4 blue spells
+4,1 {
+Fleeting Distraction
+Hydrosurge
+Jump
+Twisted Image
+Vault Skyward
+Unsummon
+Vapor Snag
+Void Snare
+Slip Through Space
+}
+
+# 24 lands
+6,6 {
+Island
+}
+6,6 {
+Mountain
+}
+3,3 {
+Plains
+}
+3,3 {
+Mystic Monastery
+}
+6,1 {
+Glacial Fortress
+Seachrome Coast
+Spirebluff Canal
+Sulfur Falls
+Clifftop Retreat
+Inspiring Vantage
+Prairie Stream
+Plateau
+Tundra
+Volcanic Island
+}

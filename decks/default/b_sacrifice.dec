@@ -1,0 +1,125 @@
+!b,Sacrifice
+!mono black sacrifice
+
+1,1 {
+Josu Vess, Lich Knight
+Kokusho, the Evening Star
+}
+
+# 8 sacrifice creatures
+8,2 {
+Plagued Rusalka
+Bloodflow Connoisseur
+Bloodthrone Vampire
+Nantuko Husk
+Phyrexian Broodlings
+Phyrexian Ghoul
+Soulreaper of Mogis
+Carrion Feeder
+Vampire Aristocrat
+Devouring Swarm
+Gutless Ghoul
+Thallid Soothsayer
+Stronghold Assassin
+Fallen Angel
+Wake of Vultures
+Skeletal Kathari
+Corrupted Harvester
+Gnawing Zombie
+Death Cultist
+Lampad of Death's Vigil
+Blight Keeper
+Chain Devil
+}
+# 8 trigger creatures
+8,2 {
+Deathgreeter
+Blood Artist
+Zulaport Cutthroat
+Falkenrath Noble
+Gristle Grinner
+Scavenger Drake
+Swarm of Bloodflies
+Harvester of Souls
+Massacre Wurm
+Butcher of Malakir
+Malakir Cullblade
+}
+# 4 trigger creatures
+4,1 {
+Abyssal Gatekeeper
+Black Cat
+Blistergrub
+Dark Revenant
+Deadbridge Shaman
+Death's-Head Buzzard
+Elvish Doomsayer
+Endless Cockroaches
+Festering Goblin
+Festering Mummy
+Grim Physician
+Guul Draz Mucklord
+Havoc Demon
+Hornet Harasser
+Infectious Host
+Lawless Broker
+Nocturnal Feeder
+Novice Occultist
+Polluted Dead
+Rottenheart Ghoul
+Screeching Buzzard
+Shambling Goblin
+Soulcage Fiend
+Spinal Centipede
+Spirit of Malevolence
+Tattered Mummy
+Undead Executioner
+Splatter Goblin
+}
+# token creatures
+6,2 {
+Deathbloom Thallid
+Discordant Piper
+Doomed Dissenter
+Drider
+Grave Titan
+Maalfeld Twins
+Priest of the Blood Rite
+Skeletal Vampire
+Weirding Shaman
+Debtors' Transport
+Orzhov Enforcer
+Orzhov Racketeers
+Sling-Gang Lieutenant
+Filigree Crawler
+Myr Sire
+Nuisance Engine
+Searchlight Companion
+Wurmcoil Engine
+}
+
+# 4 spells
+4,2 {
+Cruel Edict
+Vile Rebirth
+Reanimate
+Violet Pall
+}
+
+# 6 Enchantment
+6,2 {
+Attrition
+Dark Prophecy
+Grave Pact
+Dictate of Erebos
+Open the Graves
+Quest for the Gravelord
+Bitterblossom
+Bastion of Remembrance
+Eldrazi Monument
+}
+
+# 23 lands
+23,23 {
+Swamp
+}

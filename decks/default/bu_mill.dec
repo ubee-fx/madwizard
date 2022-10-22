@@ -1,0 +1,56 @@
+!bu,Mill
+!black and blue mill
+
+# 4 core
+4,1 {
+Szadek, Lord of Secrets
+Nemesis of Reason
+Geralf's Mindcrusher
+Sphinx Mindbreaker
+Fleet Swallower
+Riddlekeeper
+}
+
+# 15 mill creatures
+15,2 {
+filter:type=Creature,color=b,color=u,anycolor,text=mills
+}
+
+# 4 graveyard
+4,2 {
+Mortivore
+Debtors' Knell
+filter:color=b,anycolor,text=put,text=from a graveyard,text=onto the battlefield
+}
+
+# 6 spells
+6,2 {
+Psychic Strike
+Undermine
+Recoil
+Tome Scour
+Glimpse the Unthinkable
+}
+
+# 4 enchantment and artifact
+4,2 {
+filter:type=Artifact,type=Enchantment,color=b,color=u,colorless,anytype,anycolor,text=mills
+}
+
+# 3 equipment
+3,2 {
+Bonehoard
+Mask of Riddles
+Sword of Body and Mind
+}
+
+# 24 lands
+8,8 {
+Swamp
+}
+8,8 {
+Island
+}
+8,2 {
+filter:type=Land,mana=b,mana=u
+}

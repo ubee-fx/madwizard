@@ -1,0 +1,71 @@
+!w,Cat
+!mono white cats with enchantments
+
+# 1 legendary
+1,1 {
+Jazal Goldmane
+}
+
+# 12 core
+12,3 {
+Savannah Lions
+Regal Caracal
+King of the Pride
+Healer of the Pride
+Leonin Warleader
+}
+
+# 16 cats
+16,1 {
+Garrison Cat
+Pride Guardian
+Sanctuary Cat
+Steppe Lynx
+Trained Caracal
+Ajani's Sunstriker
+Enlightened Ascetic
+Felidar Cub
+Leonin Skyhunter
+Leonin Snarecaster
+Maned Serval
+Oreskos Swiftclaw
+Pouncing Lynx
+Prowling Caracal
+Savai Sabertooth
+Savannah Sage
+Silvercoat Lion
+Whitemane Lion
+Graceful Cat
+Kemba's Skyguard
+Skyhunter Prowler
+Skyhunter Skirmisher
+Leonin Battlemage
+Prowling Felidar
+Skyhunter Patrol
+Zarichi Tiger
+Guardian Lions
+Jedit's Dragoons
+Mesa Lynx
+}
+
+# 8 enchantments and other
+8,1 {
+Cathars' Crusade
+Dictate of Heliod
+True Conviction
+Valor in Akros
+Builder's Blessing
+Glorious Anthem
+Seal of Cleansing
+Honor of the Pure
+Sunspring Expedition
+Gerrard's Battle Cry
+Ajani's Welcome
+Victory's Envoy
+Always Watching
+}
+
+# 23 lands
+23,23 {
+Plains
+}

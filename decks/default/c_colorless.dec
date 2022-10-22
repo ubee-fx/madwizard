@@ -1,0 +1,24 @@
+u,Colorless
+!random colorless cards
+
+# 30 spells
+30,2 {
+filter:type=Artifact,type=Creature,anytype,colorless,notext=devoid
+Transguild Courier
+Scour from Existence
+}
+
+# 6 equipment
+6,1 {
+filter:subtype=Equipment,equipment,colorless,notext=devoid
+}
+
+# 1 artifact
+1,1 {
+Sol Ring
+}
+
+# 23 lands
+23,3 {
+filter:type=Land,colorless
+}

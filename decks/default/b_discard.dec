@@ -1,0 +1,86 @@
+!b,Discard
+!black discard and graveyard recursion
+
+# 5 special
+5,1 {
+Sheoldred, Whispering One
+Griselbrand
+Pestilence Demon
+Visara the Dreadful
+Kokusho, the Evening Star
+Rotting Regisaur
+Baleful Force
+Debtors' Knell
+Bad Moon
+}
+
+# 12 main
+12,2 {
+Hypnotic Specter
+Liliana's Specter
+Abyssal Specter
+Guul Draz Specter
+Order of Yawgmoth
+Doomed Necromancer
+Nullpriest of Oblivion
+Mortivore
+Cairn Wanderer
+Beacon of Unrest
+Puppeteer Clique
+Reanimate
+}
+
+# 3 draw
+3,1 {
+Night's Whisper
+Succumb to Temptation
+Ancient Craving
+Ambition's Cost
+}
+
+# 5 raise
+5,1 {
+Disentomb
+Phyrexian Reclamation
+Raise Dead
+Vile Rebirth
+Cadaver Imp
+Recover
+Gravedigger
+Graveshifter
+Zombify
+Revenant
+Woebearer
+}
+
+# 12 discard
+12,1 {
+Orzhov Racketeers
+Black Cat
+Burglar Rat
+Elderfang Disciple
+Elvish Doomsayer
+Miasmic Mummy
+Ravenous Rats
+Cunning Lethemancer
+Deadbridge Shaman
+Mind Rot
+Necrogen Mists
+Sibsig Icebreakers
+Slate Street Ruffian
+Waking Nightmare
+Rottenheart Ghoul
+Screeching Buzzard
+Fugue
+Demon's Jester
+Slaughterhouse Bouncer
+Specter's Shroud
+Sword of Feast and Famine
+Virus Beetle
+Corrupt Court Official
+}
+
+# 23 lands
+23,23 {
+Swamp
+}

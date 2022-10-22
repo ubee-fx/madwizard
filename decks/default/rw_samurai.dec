@@ -1,0 +1,49 @@
+!rw,Samurai
+!red and white samurai
+
+# 20 creatures
+8,3 {
+filter:type=Creature,color=r,color=w,anycolor,text=samurai or warrior
+}
+
+6,2 {
+filter:type=Creature,color=r,text=bushido
+}
+
+6,2 {
+filter:type=Creature,color=w,text=bushido
+}
+
+# 12 spells
+12,3 {
+filter:type=Instant,color=r,color=w,anycolor,text=double strike
+filter:type=Instant,color=r,color=w,anycolor,text=gains flying
+filter:type=Instant,color=r,color=w,anycolor,text=gains trample
+filter:type=Instant,color=r,color=w,anycolor,text=damage,text=you gain
+}
+
+# 2 enchantments
+2,2 {
+Angelic Exaltation
+Nahiri's Machinations
+}
+
+# 2 equipment
+2,2 {
+Sigil of Valor
+}
+
+# 24 lands
+6,8 {
+Plains
+}
+6,8 {
+Mountain
+}
+2,1 {
+Sandstone Bridge
+Kabira Crossroads
+}
+10,2 {
+filter:type=Land,mana=r,mana=w
+}

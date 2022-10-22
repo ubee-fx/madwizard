@@ -1,0 +1,88 @@
+!b,Black
+!mono black control with finishers, deathtouch and removal
+
+# 16 creatures
+10,2 {
+Orzhov Enforcer
+Hired Poisoner
+Vampire of the Dire Moon
+Gifted Aetherborn
+Giant Scorpion
+Vampire Nighthawk
+Blister Beetle
+Royal Assassin
+Nekrataal
+Ravenous Chupacabra
+Keening Banshee
+Skinrender
+Phyrexian Obliterator
+Phyrexian Gargantua
+Calculating Lich
+Blacklance Paragon
+Battlefly Swarm
+}
+6,1 {
+Carnifex Demon
+Grave Titan
+Harvester of Souls
+Massacre Wurm
+Midnight Banshee
+Dread
+Visara the Dreadful
+Havoc Demon
+Demon of Loathing
+Butcher of Malakir
+Nefarox, Overlord of Grixis
+Sheoldred, Whispering One
+Griselbrand
+Black Dragon
+Necropolis Regent
+Ascendant Evincar
+Kaervek, the Spiteful
+}
+
+# 15 spells
+14,2 {
+Disfigure
+Wring Flesh
+Grasp of Darkness
+Last Gasp
+Death Stroke
+Doom Blade
+Reave Soul
+Smother
+Go for the Throat
+Murder
+Asphyxiate
+Assassinate
+Languish
+Damnation
+Hideous End
+Vraska's Contempt
+Lash of Malice
+Eyes of the Beholder
+Dismember
+Defenestrate
+Infernal Grasp
+Cruel Edict
+Black Sun's Zenith
+Oblivion Strike
+Complete Disregard
+}
+1,1 {
+Sorin's Vengeance
+}
+
+# 6 Enchantment
+6,2 {
+Dead Weight
+Mire's Grasp
+Quest for the Gravelord
+Revenge of Ravens
+No Mercy
+}
+
+# 23 lands
+23,23 {
+Swamp
+}

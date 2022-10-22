@@ -1,0 +1,56 @@
+!bgr,Random BGR
+!random black, green and red multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Maze Abomination
+Ignoble Hierarch
+Maze Rusher
+Boartusk Liege
+Creakwood Liege
+Broodmate Dragon
+Hellkite Overlord
+Madrush Cyclops
+Sprouting Thrinax
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=b,color=g,color=r,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,color=r,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=b,color=g,color=r,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Forest
+}
+4,4 {
+Mountain
+}
+3,2 {
+filter:type=Land,mana=b,mana=g
+}
+3,2 {
+filter:type=Land,mana=g,mana=r
+}
+3,2 {
+filter:type=Land,mana=b,mana=r
+}
+3,3 {
+filter:type=Land,mana=b,mana=g,mana=r
+}

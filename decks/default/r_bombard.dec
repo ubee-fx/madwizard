@@ -1,0 +1,44 @@
+!r,Bombard
+!mono red sacrifice
+
+# main
+6,1 {
+Krenko, Mob Boss
+Purphoros, God of the Forge
+Kiki-Jiki, Mirror Breaker
+Siege-Gang Commander
+Barrage of Expendables
+Goblin Bombardment
+}
+
+# sacrifice
+8,2 {
+filter:type=Creature,type=Enchantment,color=r,anytype,anycolor,text=sacrifice a creature,text=damage to target player
+filter:type=Creature,type=Enchantment,color=r,anytype,anycolor,text=sacrifice a creature,text=damage to any target
+}
+
+# tokens
+20,2 {
+filter:type=Creature,type=Enchantment,color=r,anytype,anycolor,text=enters,text=token,notext=tokens
+filter:type=Creature,type=Enchantment,type=Instant,type=Sorcery,color=r,anytype,anycolor,text=tokens
+}
+
+# enter damage
+2,2 {
+filter:type=Creature,color=r,anycolor,text=enters,text=damage to target player,notext=token
+filter:type=Creature,color=r,anycolor,text=enters,text=damage to any target,notext=token
+}
+
+# another dies
+2,2 {
+filter:type=Creature,color=r,text=whenever,text=another creature dies,text=damage to target player
+filter:type=Creature,color=r,text=whenever,text=another creature dies,text=damage to any target
+}
+
+# 22 lands
+20,20 {
+Mountain
+}
+2,2 {
+Sunscorched Desert
+}

@@ -1,0 +1,54 @@
+!bru,Random BRU
+!random black, red and blue multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Maze Rusher
+Maze Abomination
+Maze Glider
+Glen Elendra Liege
+Grixis Grimblade
+Sewn-Eye Drake
+Slave of Bolas
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=b,color=r,color=u,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=r,color=u,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=b,color=r,color=u,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Mountain
+}
+4,4 {
+Island
+}
+3,2 {
+filter:type=Land,mana=b,mana=r
+}
+3,2 {
+filter:type=Land,mana=b,mana=u
+}
+3,2 {
+filter:type=Land,mana=r,mana=u
+}
+3,3 {
+filter:type=Land,mana=b,mana=r,mana=u
+}

@@ -1,0 +1,52 @@
+!gw,Life
+!green and white life
+
+# 2 core white
+2,1 {
+Angelic Accord
+Valkyrie Harbinger
+Crested Sunmare
+Resplendent Angel
+}
+
+# 18 creatures
+6,2 {
+filter:type=Creature,color=g,text=life
+}
+8,2 {
+filter:type=Creature,color=w,text=life
+}
+4,2 {
+filter:type=Creature,color=g,color=w,multicolor,text=life
+}
+
+# 6 spells
+6,2 {
+filter:type=Instant,type=Sorcery,color=g,color=w,anytype,anycolor,text=life
+}
+
+# 6 enchantments
+6,2 {
+filter:type=Enchantment,color=g,color=w,anycolor,text=life
+}
+
+# 2 multi-color spells
+2,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=g,color=w,anytype,multicolor,text=life
+}
+
+# 2 artifacts
+2,1 {
+filter:type=Artifact,color=g,color=w,colorless,anycolor,text=life
+}
+
+# 24 lands
+8,8 {
+Forest
+}
+8,8 {
+Plains
+}
+8,4 {
+filter:type=Land,mana=g,mana=w,text=gain,text=life
+}

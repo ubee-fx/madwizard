@@ -1,0 +1,57 @@
+!w,Token
+!mono white token
+
+# 1 special creature
+1,1 {
+Kongming, "Sleeping Dragon"
+Pianna, Nomad Captain
+Oketra the True
+}
+# 7 main creatures
+7,2 {
+Angel of Invention
+Serra Redeemer
+Victory's Envoy
+Benalish Marshal
+Goldnight Commander
+Intrepid Adversary
+Inspiring Unicorn
+Crusader of Odric
+}
+# 3 trigger life creatures
+3,2 {
+filter:type=Creature,color=w,text=creature enters,text=gain,text=life
+}
+# 8 token creatures
+8,2 {
+filter:type=Creature,color=w,text=enters,text=create,text=token
+filter:type=Creature,color=w,text=fabricate
+}
+
+# 10 token spells
+10,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,anytype,color=w,text=create,text=token,notext=gained
+}
+
+# 4 pump enchantments
+4,2 {
+Castle
+Builder's Blessing
+Glorious Anthem
+Honor of the Pure
+Dictate of Heliod
+Eldrazi Monument
+}
+
+# 4 trigger enchantments
+4,2 {
+Cathars' Crusade
+Valor in Akros
+Ajani's Welcome
+Mantle of Leadership
+}
+
+# 23 lands
+23,23 {
+Plains
+}

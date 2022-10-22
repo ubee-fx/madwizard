@@ -1,0 +1,52 @@
+!gru,Random GRU
+!random green, red and blue multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Maze Rusher
+Maze Glider
+Murkfiend Liege
+Boartusk Liege
+Bear's Companion
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=g,color=r,color=u,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=g,color=r,color=u,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=g,color=r,color=u,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Forest
+}
+4,4 {
+Mountain
+}
+4,4 {
+Island
+}
+3,2 {
+filter:type=Land,mana=g,mana=r
+}
+3,2 {
+filter:type=Land,mana=r,mana=u
+}
+3,2 {
+filter:type=Land,mana=g,mana=u
+}
+3,3 {
+filter:type=Land,mana=g,mana=r,mana=u
+}

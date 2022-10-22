@@ -1,0 +1,75 @@
+!r,Dragon
+!mono red dragons aggro
+
+# 2 special
+2,1 {
+Rorix Bladewing
+Ryusei, the Falling Star
+Utvara Hellkite
+Balefire Dragon
+Terror of Mount Velus
+}
+
+# 18 core
+18,2 {
+Universal Automaton
+Dragonmaster Outcast
+Slumbering Dragon
+Dragon Hatchling
+Kargan Dragonrider
+Archwing Dragon
+Dragonloft Idol
+Furnace Whelp
+Rakdos Pit Dragon
+Thundermaw Hellkite
+Shivan Devastator
+Mordant Dragon
+Crucible of Fire
+Dragon's Hoard
+Taurean Mauler
+}
+
+# 8 other dragons
+8,1 {
+filter:type=Creature,subtype=Dragon,color=r
+}
+
+# 6 spells
+6,1 {
+Dragon Fodder
+Bathe in Dragonfire
+Brute Force
+Infuriate
+Brute Strength
+Fists of the Anvil
+Sure Strike
+Uncanny Speed
+Screaming Fury
+Slaughter Cry
+Uncaged Fury
+Cleaver Riot
+Banners Raised
+Burn Bright
+Path of Anger's Flame
+Trumpet Blast
+Kindled Fury
+Antagonize
+}
+
+# 3 other
+3,1 {
+Dragon Roost
+Dragon's Claw
+Dragon-Style Twins
+Two-Headed Cerberus
+Hound of Griselbrand
+Berserkers' Onslaught
+Rage Reflection
+Boots of Speed
+Hammerhand
+}
+
+# 23 lands
+23,23 {
+Mountain
+}

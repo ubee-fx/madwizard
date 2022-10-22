@@ -1,0 +1,48 @@
+!gw,Bogles
+!green and white Bogles deck
+
+# 14 creatures
+8,4 {
+Gladecover Scout
+Slippery Bogle
+}
+6,3 {
+Kor Spiritdancer
+Silhana Ledgewalker
+}
+
+# 22 enchantments
+22,3 {
+Daybreak Coronet
+Ethereal Armor
+Hyena Umbra
+Spider Umbra
+Boar Umbra
+Rancor
+Spirit Link
+Spirit Mantle
+Unflinching Courage
+Nimbus Wings
+Angelic Gift
+Keen Sense
+Squire's Devotion
+}
+
+# 4 spells
+4,4 {
+Swords to Plowshares
+}
+
+# 20 lands
+1,1 {
+Dryad Arbor
+}
+3,3 {
+Forest
+}
+4,4 {
+Plains
+}
+12,3 {
+filter:type=Land,mana=g,mana=w
+}

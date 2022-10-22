@@ -1,0 +1,54 @@
+!bw,Control
+!black and white control
+
+# special
+4,1 {
+Death Grasp
+Seraph of the Scales
+No Mercy
+Dread
+Quest for the Gravelord
+Debtors' Knell
+Beacon of Unrest
+Assault Intercessor
+}
+
+# 6 destroy
+6,1 {
+filter:type=Creature,color=w,color=b,anycolor,text=destroy all,text=creatures
+filter:type=Creature,color=w,color=b,anycolor,text=destroy target creature
+filter:type=Creature,color=w,color=b,anycolor,text=destroy target permanent
+filter:type=Creature,color=w,color=b,anycolor,text=exile target creature,notext=graveyard
+filter:type=Creature,color=w,color=b,anycolor,text=exile target permanent,notext=graveyard
+}
+
+# 8 indestructible
+8,1 {
+filter:type=Creature,color=w,color=b,anycolor,ability=indestructible
+filter:type=Creature,colorless,ability=indestructible
+}
+
+# 12 instant
+12,2 {
+filter:type=Sorcery,type=Instant,anytype,color=w,color=b,text=destroy target
+filter:type=Sorcery,type=Instant,anytype,color=w,color=b,text=exile target
+}
+
+# 6 destroy all
+6,2 {
+Nevinyrral's Disk
+Wrath of God
+Damnation
+Culling Sun
+}
+
+# 24 lands
+8,8 {
+Plains
+}
+8,8 {
+Swamp
+}
+8,2 {
+filter:type=Land,mana=b,mana=w
+}

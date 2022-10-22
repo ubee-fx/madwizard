@@ -1,0 +1,55 @@
+!bgw,Random BGW
+!random black, green and white multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Hero of Precinct One
+Maze Abomination
+Knight of New Alara
+Creakwood Liege
+Deathbringer Liege
+Siege Rhino
+Teneb, the Harvester
+Abzan Ascendancy
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=b,color=g,color=w,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,color=w,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=b,color=g,color=w,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Forest
+}
+4,4 {
+Plains
+}
+3,2 {
+filter:type=Land,mana=b,mana=g
+}
+3,2 {
+filter:type=Land,mana=g,mana=w
+}
+3,2 {
+filter:type=Land,mana=b,mana=w
+}
+3,3 {
+filter:type=Land,mana=b,mana=g,mana=w
+}

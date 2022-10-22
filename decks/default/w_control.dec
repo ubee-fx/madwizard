@@ -1,0 +1,116 @@
+!w,White
+!mono white control
+
+# 12 creatures
+2,1 {
+Gideon's Lawkeeper
+Goldmeadow Harrier
+Benalish Trapper
+Auriok Champion
+Devout Lightcaster
+Hanged Executioner
+Magus of the Disk
+}
+2,1 {
+Wall of Omens
+Resolute Watchdog
+Perimeter Captain
+Pride Guardian
+Angelic Wall
+Roc Egg
+Fortified Rampart
+Dazzling Ramparts
+Wall of Swords
+Clockwork Drawbridge
+}
+8,1 {
+Archon of Justice
+Herald of Faith
+Serra Angel
+Serra's Guardian
+Baneslayer Angel
+Battlegrace Angel
+Pristine Angel
+Deathless Angel
+Sunblast Angel
+Akroma, Angel of Wrath
+Avacyn, Angel of Hope
+Elesh Norn, Grand Cenobite
+Seraph of the Sword
+Lyra Dawnbringer
+}
+
+# 4 damage spells
+4,1 {
+Sunlance
+Slash of Talons
+Righteous Blow
+Divine Arrow
+Gideon's Reproach
+Impeccable Timing
+Dragon's Presence
+Wanderer's Intervention
+Wave of Reckoning
+Safe Passage
+}
+
+# 7 destroy spells
+7,1 {
+Disenchant
+Immolating Glare
+Swift Response
+Take Vengeance
+Afterlife
+Generous Gift
+Kill Shot
+Rebuke
+Solemn Offering
+Divine Verdict
+Neck Snap
+Silverstrike
+Bright Reprisal
+Reduce to Memory
+Sanctify
+}
+
+# 4 exile and top spells
+4,1 {
+Swords to Plowshares
+Revoke Existence
+Crib Swap
+Excommunicate
+Excoriate
+Banishment Decree
+Blessed Light
+Angelic Edict
+Second Thoughts
+Iona's Judgment
+Secure the Scene
+Expel
+}
+
+# 4 destroy all spells
+4,2 {
+Wrath of God
+Day of Judgment
+Final Judgment
+Planar Cleansing
+Mass Calcify
+}
+
+# 6 enchantments
+6,2 {
+Spirit Link
+Pacifism
+Cage of Hands
+Dreadful Apathy
+Luminous Bonds
+Recumbent Bliss
+Pious Interdiction
+Authority of the Consuls
+}
+
+# 23 lands
+23,23 {
+Plains
+}

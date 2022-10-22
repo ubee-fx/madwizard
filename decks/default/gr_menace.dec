@@ -1,0 +1,62 @@
+!gr,Menace
+!green and red menace and gods
+
+# 2 special
+2,1 {
+Mage Slayer
+Fires of Yavimaya
+}
+
+# 3 gods
+3,1 {
+Nylea, God of the Hunt
+Purphoros, God of the Forge
+Xenagos, God of Revels
+}
+
+# 9 multi-color creatures
+9,2 {
+filter:type=Creature,color=r,color=g
+}
+
+# 6 menace creatures
+6,2 {
+filter:type=Creature,color=r,color=g,anycolor,text=menace,notext=sliver
+}
+
+# 5 multi-color spells
+5,2 {
+filter:type=Instant,type=Sorcery,anytype,color=r,color=g
+}
+
+# 5 token spells
+5,2 {
+filter:type=Instant,type=Sorcery,anytype,anycolor,color=r,color=g,text=tokens
+}
+
+# 4 menace enchantments
+4,2 {
+filter:type=Enchantment,color=r,color=g,anycolor,text=creatures,text=menace
+}
+
+# 2 colored equipment
+2,1 {
+filter:subtype=Equipment,color=r,color=g,anycolor,equipment
+}
+
+# 24 lands
+8,8 {
+Mountain
+}
+
+7,7 {
+Forest
+}
+
+1,1 {
+filter:type=Land,mana=r
+}
+
+8,2 {
+filter:type=Land,mana=g,mana=r
+}

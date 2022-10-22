@@ -1,0 +1,47 @@
+!w,Flicker
+!mono white flicker
+
+# 24 creatures
+2,1 {
+Kitchen Finks
+Archon of Redemption
+Githzerai Monk
+Serra Redeemer
+}
+7,2 {
+filter:type=Creature,color=w,text=enters,text=you gain,text=life,notext=another,notext=kicked
+}
+6,2 {
+filter:type=Creature,color=w,text=enters,text=draw,notext=counter,notext=kicked
+filter:type=Creature,colorless,text=enters,text=draw,notext=counter,notext=kicked
+}
+4,1 {
+filter:type=Creature,color=w,text=enters,text=token,notext=land,notext=other,notext=kicked
+filter:type=Creature,colorless,text=enters,text=token,notext=land,notext=other,notext=kicked
+}
+3,1 {
+filter:type=Creature,color=w,text=enters,text=return,notext=land,notext=kicked
+}
+2,2 {
+filter:type=Creature,color=w,text=enters,text=may destroy target,notext=counter,notext=kicked
+}
+
+# 2 enchantments
+3,2 {
+Ajani's Welcome
+Cathars' Crusade
+}
+
+# 10 spells
+8,4 {
+Turn to Mist
+Ghostway
+}
+2,2 {
+Swords to Plowshares
+}
+
+# 23 lands
+23,23 {
+Plains
+}

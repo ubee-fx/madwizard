@@ -1,0 +1,42 @@
+!g,Counters
+!mono green +1/+1 counters aggro
+
+# 8 main
+4,2 {
+Clamavus
+Inspiring Call
+}
+4,1 {
+Ascendant Acolyte
+Avatar of the Resolute
+Heroes' Bane
+Fangren Firstborn
+Ridgescale Tusker
+Stonecoil Serpent
+Mistcutter Hydra
+Managorger Hydra
+Kalonian Hydra
+}
+
+# 16 creatures
+16,2 {
+filter:type=Creature,color=g,text=+1/+1 counter
+filter:type=Creature,colorless,text=+1/+1 counter
+}
+
+# 10 other
+10,2 {
+filter:type=Sorcery,type=Instant,type=Enchantment,anytype,color=g,text=+1/+1 counter
+filter:type=Sorcery,type=Instant,anytype,color=g,text=creatures you control,text=gain trample,text=end of turn
+filter:type=Enchantment,color=g,text=creatures you control,text=have trample
+}
+
+# 3 equipment
+3,3 {
+filter:subtype=Equipment,color=g,colorless,equipment,text=+1/+1 counter
+}
+
+# 23 lands
+23,23 {
+Forest
+}

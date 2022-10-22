@@ -1,0 +1,56 @@
+!buw,Random BUW
+!random black, blue and white multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Hero of Precinct One
+Maze Abomination
+Deathbringer Liege
+Thistledown Liege
+Punish Ignorance
+Alela, Artful Provocateur
+Sphinx of the Steel Wind
+Tower Gargoyle
+Void Rend
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=b,color=u,color=w,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=u,color=w,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=b,color=u,color=w,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Island
+}
+4,4 {
+Plains
+}
+3,2 {
+filter:type=Land,mana=b,mana=u
+}
+3,2 {
+filter:type=Land,mana=b,mana=w
+}
+3,2 {
+filter:type=Land,mana=u,mana=w
+}
+3,3 {
+filter:type=Land,mana=b,mana=u,mana=w
+}

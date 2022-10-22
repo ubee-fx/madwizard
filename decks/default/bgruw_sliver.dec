@@ -1,0 +1,36 @@
+!bgruw,Sliver
+!random sliver all colors
+
+# 36 spells
+1,1 {
+Timeless Lotus
+}
+2,1 {
+filter:color=b,color=u,color=g,color=r,color=w,multicolor,text=sliver
+}
+24,2 {
+filter:color=b,color=u,color=g,color=r,color=w,anycolor,text=sliver
+}
+4,2 {
+filter:type=Creature,color=b,color=u,color=g,color=r,color=w,anycolor,text=changeling
+}
+4,2 {
+filter:colorless,text=sliver
+}
+1,1 {
+Child of Alara
+Fusion Elemental
+Two-Headed Hellkite
+}
+
+# 24 lands
+10,2 {
+Forest
+Mountain
+Plains
+Island
+Swamp
+}
+14,3 {
+filter:type=Land,text=vivid
+}

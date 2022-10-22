@@ -1,0 +1,56 @@
+!r,Goblin
+!mono red goblins
+
+# 30 creatures
+2,1 {
+Kiki-Jiki, Mirror Breaker
+Krenko, Mob Boss
+Purphoros, God of the Forge
+}
+14,2 {
+Mogg Fanatic
+Fanatical Firebrand
+Goblin Instigator
+Goblin Fireslinger
+Goblin Arsonist
+Goblin Wardriver
+Bloodmark Mentor
+Ember Hauler
+Akki Coalflinger
+Krenko's Enforcer
+Hearthfire Hobgoblin
+Goblin Chieftain
+Taurean Mauler
+Boggart Ram-Gang
+Hulking Bugbear
+Goblin Piledriver
+}
+8,2 {
+Goblin Commando
+Beetleback Chief
+Reckless One
+Clickslither
+Boartusk Liege
+Scuzzback Marauders
+Battle Squadron
+Siege-Gang Commander
+Murderous Redcap
+}
+6,1 {
+filter:type=Creature,color=r,anycolor,text=goblin
+}
+
+# 4 enchantment
+4,2 {
+filter:type=Enchantment,color=r,text=goblin
+}
+
+# 4 spells
+4,2 {
+filter:type=Instant,type=Sorcery,color=r,anytype,text=goblin
+}
+
+# 22 lands
+22,22 {
+Mountain
+}

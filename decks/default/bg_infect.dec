@@ -1,0 +1,111 @@
+!bg,Infect
+!black and green infect and wither
+
+# 2 main creatures
+2,1 {
+Skithiryx, the Blight Dragon
+Phyrexian Juggernaut
+}
+
+# 8 key infect creatures
+8,2 {
+Glistener Elf
+Phyrexian Crusader
+Plague Stinger
+Cystbearer
+Septic Rats
+Phyrexian Vatmother
+}
+
+# 12 infect creatures
+12,2 {
+Vector Asp
+Blight Mamba
+Flensermite
+Ichorclaw Myr
+Necropede
+Plague Myr
+Contagious Nim
+Phyrexian Digester
+Viridian Betrayers
+Viridian Corrupter
+Blackcleave Goblin
+Blightwidow
+Flesh-Eater Imp
+Tel-Jilad Fallen
+Scourge Servant
+Toxic Nim
+}
+
+# 4 wither creatures
+4,1 {
+Twinblade Slasher
+Juvenile Gloomwidow
+Sickle Ripper
+Rendclaw Trow
+Smoldering Butcher
+Wildslayer Elves
+Kulrath Knight
+}
+
+# 3 infect spells
+3,1 {
+Tainted Strike
+Carrion Call
+Trigon of Infestation
+Triumph of the Hordes
+}
+
+# 4 pump spells
+4,1 {
+Coat with Venom
+Giant Growth
+Lash of Thorns
+Aim High
+Unnatural Predation
+Gift of Strength
+Grotesque Mutation
+Larger Than Life
+Phytoburst
+Predator's Strike
+Rush of Vitality
+Savage Surge
+Titanic Growth
+Tread Upon
+Unlikely Aid
+Awaken the Bear
+Confidence from Strength
+Crash the Ramparts
+Spidery Grasp
+Wildsize
+Might of Oaks
+Sudden Strength
+Vines of the Recluse
+Overcome
+Overrun
+Bull's Strength
+Mutagenic Growth
+Massive Might
+}
+
+# 3 enchantments
+3,1 {
+Rancor
+Gaea's Embrace
+Epic Proportions
+Prodigious Growth
+Unholy Strength
+Dark Favor
+Mark of the Vampire
+}
+
+# 24 lands
+8,8 {
+Forest
+}
+8,8 {
+Swamp
+}
+8,2 {
+filter:type=Land,mana=b,mana=g
+}

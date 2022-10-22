@@ -1,0 +1,55 @@
+!w,Soldier
+!white soldiers with pump
+
+# 20 core soldiers
+20,2 {
+Elite Vanguard
+Ballynock Cohort
+Crusader of Odric
+Goldnight Commander
+Rhox Pikemaster
+Captain of the Watch
+Oathsworn Giant
+Mobilization
+Field Marshal
+Haazda Marshal
+Precinct Captain
+Veteran Swordsmith
+Veteran Armorsmith
+Veteran Armorer
+Falconer Adept
+Hero of Bladehold
+Soldier of the Pantheon
+Resolute Reinforcements
+Everdawn Champion
+}
+
+# 10 other soldiers
+10,1 {
+filter:type=Creature,subtype=Soldier,color=w
+}
+
+# 7 spells
+7,2 {
+Charge
+Glorious Charge
+Inspired Charge
+For the Emperor!
+Ethereal Guidance
+Guardians' Pledge
+To Arms!
+Make a Stand
+Righteous Charge
+Release the Dogs
+Sworn Companions
+Raise the Alarm
+Captain's Call
+}
+
+# 23 lands
+21,21 {
+Plains
+}
+2,2 {
+Sandstone Bridge
+}

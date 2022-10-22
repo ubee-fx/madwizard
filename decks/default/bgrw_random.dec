@@ -1,0 +1,60 @@
+!bgrw,Random BGRW
+!random black, green, red and white multicolor
+
+# 8 core spells
+8,2 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Hero of Precinct One
+Knight of New Alara
+Civic Saber
+Blessing of the Nephilim
+Transguild Courier
+}
+
+# 12 three color spells
+12,2 {
+filter:nrcolors=3,color=b,color=g,color=r,color=w,anycolor
+}
+
+# 8 two color spells
+8,2 {
+filter:nrcolors=2,color=b,color=g,color=r,color=w,anycolor
+}
+
+# 4 single color spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,color=r,color=w,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=b,color=g,color=r,color=w,colorless,anycolor,equipment
+}
+
+# 24 lands
+2,2 {
+Swamp
+}
+2,2 {
+Forest
+}
+2,2 {
+Mountain
+}
+2,2 {
+Plains
+}
+4,4 {
+filter:type=Land,mana=b,mana=g,mana=r
+}
+4,4 {
+filter:type=Land,mana=b,mana=g,mana=w
+}
+4,4 {
+filter:type=Land,mana=b,mana=r,mana=w
+}
+4,4 {
+filter:type=Land,mana=g,mana=r,mana=w
+}

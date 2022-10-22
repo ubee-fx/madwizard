@@ -1,0 +1,76 @@
+!rw,Damage
+!red and white damage
+
+# 8 main creatures
+4,4 {
+Stormwild Capridor
+}
+2,2 {
+Stuffy Doll
+}
+2,2 {
+Spitemare
+Boros Reckoner
+}
+
+# 4 enrage creatures
+4,1 {
+Raptor Hatchling
+Needletooth Raptor
+Imperial Ceratops
+Silverclad Ferocidons
+Bellowing Aegisaur
+Frilled Deathspitter
+Sun-Crowned Hunters
+}
+
+# 4 when dies creatures
+4,1 {
+Filigree Familiar
+Perilous Myr
+Circuit Mender
+Roc Egg
+Living Lightning
+Rage Thrower
+}
+
+# 3 damage creatures
+3,1 {
+Bloodfire Kavu
+Caldera Hellion
+Chaos Maw
+Magma Giant
+Bloodfire Colossus
+}
+
+# 15 damage spells
+15,2 {
+Lightning Helix
+Warleader's Helix
+Rain of Embers
+Pyroclasm
+Volcanic Fallout
+Chain Reaction
+Storm's Wrath
+Solar Blaze
+Wave of Reckoning
+Powerstone Minefield
+}
+
+# 2 double damage
+2,1 {
+Fire Servant
+Furnace of Rath
+Dictate of the Twin Gods
+}
+
+# 24 lands
+9,9 {
+Mountain
+}
+6,6 {
+Plains
+}
+9,2 {
+filter:type=Land,mana=r,mana=w
+}

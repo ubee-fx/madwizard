@@ -1,0 +1,40 @@
+!g,Random Green
+!random mono green
+
+# 18 creatures
+18,2 {
+filter:type=Creature,color=g
+}
+
+# 4 sorceries
+4,1 {
+filter:type=Sorcery,color=g
+}
+
+# 4 instants
+4,1 {
+filter:type=Instant,color=g
+}
+
+# 4 enchantments
+4,1 {
+filter:type=Enchantment,color=g
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=g,colorless,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=g,colorless
+}
+
+# 24 lands
+20,20 {
+Forest
+}
+4,2 {
+filter:type=Land,mana=g
+}

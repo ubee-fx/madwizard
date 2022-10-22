@@ -1,0 +1,40 @@
+!w,Random White
+!random mono white
+
+# 18 creatures
+18,2 {
+filter:type=Creature,color=w
+}
+
+# 4 sorceries
+4,1 {
+filter:type=Sorcery,color=w
+}
+
+# 4 instants
+4,1 {
+filter:type=Instant,color=w
+}
+
+# 4 enchantments
+4,1 {
+filter:type=Enchantment,color=w
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=w,colorless,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=w,colorless
+}
+
+# 24 lands
+20,20 {
+Plains
+}
+4,2 {
+filter:type=Land,mana=w
+}

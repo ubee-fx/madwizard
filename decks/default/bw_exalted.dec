@@ -1,0 +1,80 @@
+!bw,Exalted
+!black and white exalted
+
+# core exalted
+6,2 {
+Sublime Archangel
+Angelic Exaltation
+Angelic Benediction
+Sigil of Valor
+}
+
+# exalted
+16,2 {
+filter:type=Creature,color=b,color=w,anycolor,text=exalted
+}
+
+# 7 enchantment
+6,1 {
+Gift of Orzhova
+Unquestioned Authority
+Holy Mantle
+Griffin Guide
+Asha's Favor
+Battle Mastery
+Spirit Mantle
+Nimbus Wings
+Eland Umbra
+Hyena Umbra
+Glaring Aegis
+Divine Favor
+Dark Favor
+Mark of the Vampire
+}
+
+# 4 token spells
+4,2 {
+Call to the Feast
+Captain's Call
+Release the Dogs
+Take Up Arms
+Bitterblossom
+Seraph of the Scales
+}
+
+# 4 spells
+4,1 {
+Zealous Strike
+Skillful Lunge
+Show of Valor
+Moment of Heroism
+Mighty Leap
+Guided Strike
+Aerial Maneuver
+Aegis of the Heavens
+Adamant Will
+Wings of the Cosmos
+Veteran's Reflexes
+Seize the Initiative
+Mortal's Ardor
+Qilin's Blessing
+Defiant Strike
+Lash of Thorns
+Grotesque Mutation
+Rush of Vitality
+Battle-Rage Blessing
+}
+
+# 24 lands
+9,9 {
+Plains
+}
+7,7 {
+Swamp
+}
+6,2 {
+filter:type=Land,mana=b,mana=w
+}
+2,2 {
+Cathedral of War
+}

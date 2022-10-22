@@ -1,0 +1,61 @@
+!w,Equipment
+!white weenie double strike and equipment
+
+# 20 creatures
+18,3 {
+Ornithopter
+Battlefield Raptor
+Kor Duelist
+Fencing Ace
+Sunspear Shikari
+Auriok Edgewright
+Skyhunter Skirmisher
+Mirran Crusader
+Healer's Flock
+Intrepid Adversary
+}
+2,1 {
+Zetalpa, Primal Dawn
+Oketra the True
+Zamriel, Seraph of Steel
+}
+
+# 6 enchantments
+6,2 {
+Honor of the Pure
+Glorious Anthem
+Valor in Akros
+Dictate of Heliod
+Serra's Embrace
+Angelic Destiny
+Mammoth Umbra
+Always Watching
+}
+
+# 10 equipment
+10,2 {
+Bonesplitter
+Trusty Machete
+Vulshok Morningstar
+Basilisk Collar
+Loxodon Warhammer
+Nettlecyst
+Sword of Fire and Ice
+Sword of Feast and Famine
+Hammer of Nazahn
+Maul of the Skyclaves
+Cliffhaven Kitesail
+}
+
+# 2 artifact
+2,2 {
+Mox Pearl
+}
+
+# 22 lands
+18,18 {
+Plains
+}
+4,4 {
+Ancient Den
+}

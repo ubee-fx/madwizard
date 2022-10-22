@@ -1,0 +1,125 @@
+!g,Green
+!mono green aggro with pump and enchantment
+
+# 21 creatures
+4,2 {
+Birds of Paradise
+Llanowar Elves
+Elvish Mystic
+Vine Trellis
+Lotus Cobra
+Dawnhart Rejuvenator
+Fang of Shigeki
+Llanowar Stalker
+}
+4,2 {
+Barkhide Troll
+Elvish Warrior
+Skylasher
+Garruk's Companion
+Strangleroot Geist
+Kalonian Tusker
+Bassara Tower Archer
+Thornweald Archer
+Jade Avenger
+Deathbloom Gardener
+Snarespinner
+Avatar of the Resolute
+Utopia Tree
+}
+5,2 {
+Gloomwidow
+Reclamation Sage
+Great Sable Stag
+Leatherback Baloth
+Thrashing Brontodon
+Troll Ascetic
+Wolfir Avenger
+Cudgel Troll
+Chameleon Colossus
+Penumbra Spider
+Managorger Hydra
+Nylea, God of the Hunt
+Splinterfright
+Magnigoth Sentry
+Brood Weaver
+}
+5,2 {
+Elfhame Wurm
+Silverback Shaman
+Ant Queen
+Acidic Slime
+Ripjaw Raptor
+Gigantosaurus
+Vorapede
+Thragtusk
+Bellowing Tanglewurm
+Ironscale Hydra
+Ohran Frostfang
+Silklash Spider
+Heroes' Bane
+Kalonian Hydra
+}
+3,2 {
+Destructor Dragon
+Rampaging Baloths
+Terra Stomper
+Carnage Tyrant
+Aggressive Mammoth
+Hornet Queen
+Vigor
+Craterhoof Behemoth
+Cragplate Baloth
+Giant Adephage
+}
+
+# 8 spells
+4,3 {
+Giant Growth
+Predator's Strike
+Might of Oaks
+Withstand Death
+Mortal's Resolve
+Titanic Growth
+Wildsize
+Bull's Strength
+Heroic Intervention
+Mutagenic Growth
+Overwhelming Stampede
+Soul's Might
+Massive Might
+Witch's Web
+}
+4,2 {
+Naturalize
+Plummet
+Whirlwind
+Beast Within
+Aerial Predation
+Soul's Majesty
+}
+
+# 8 enchantment
+4,2 {
+Rancor
+Spider Umbra
+Elephant Guide
+Boar Umbra
+}
+4,2 {
+Gaea's Anthem
+Raking Canopy
+Mantle of the Wolf
+Epic Proportions
+Prodigious Growth
+Colossification
+Hedron Matrix
+Unnatural Growth
+Bone Sabres
+Bramble Armor
+}
+
+# 23 lands
+23,23 {
+Forest
+}

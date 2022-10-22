@@ -1,0 +1,96 @@
+!b,Artifact
+!artifacts with black and intimidate
+
+2,2 {
+Nettlecyst
+}
+
+# 10 core artifacts
+10,2 {
+Darksteel Relic
+Bone Saw
+Swiftfoot Boots
+Memnite
+Steel Wall
+Ornithopter
+Ornithopter of Paradise
+Perilous Myr
+Hovermyr
+Leaden Myr
+Filigree Familiar
+Pierce Strider
+Peace Strider
+Stonecoil Serpent
+Sol Ring
+Palladium Myr
+Worn Powerstone
+Circuit Mender
+Cryptothrall
+Chief of the Foundry
+Steel Overseer
+Golem Foundry
+Etched Champion
+}
+
+# 6 colorless
+6,1 {
+Manakin
+Trigon of Corruption
+Onyx Goblet
+Flayer Husk
+War Horn
+Trip Noose
+Geistcatcher's Rig
+Darksteel Juggernaut
+Darksteel Gargoyle
+Wurmcoil Engine
+Akroma's Memorial
+Sword of Fire and Ice
+Darksteel Plate
+Hammer of Nazahn
+Cliffhaven Kitesail
+Cloak of the Bat
+Thran Dynamo
+}
+
+# 10 core black
+10,3 {
+Painsmith
+Nim Lasher
+Nim Shrieker
+Nim Shambler
+}
+
+# 10 black
+10,2 {
+Venomcrawler
+Phyrexian Crusader
+Nim Grotesque
+Smogsteed Rider
+Rush of Vitality
+Unlikely Aid
+Dance of Shadows
+Gruesome Deformity
+Grisly Transformation
+Hideous Visage
+Executioner's Capsule
+Their Name Is Death
+Weaponcraft Enthusiast
+}
+
+# 22 lands
+8,8 {
+Swamp
+}
+4,4 {
+Mox Jet
+}
+4,4 {
+Vault of Whispers
+}
+4,4 {
+Darksteel Citadel
+}
+2,2 {
+Radiant Fountain
+}

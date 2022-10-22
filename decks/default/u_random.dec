@@ -1,0 +1,40 @@
+!u,Random Blue
+!random mono blue
+
+# 18 creatures
+18,2 {
+filter:type=Creature,color=u
+}
+
+# 4 sorceries
+4,1 {
+filter:type=Sorcery,color=u
+}
+
+# 4 instants
+4,1 {
+filter:type=Instant,color=u
+}
+
+# 4 enchantments
+4,1 {
+filter:type=Enchantment,color=u
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=u,colorless,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=u,colorless
+}
+
+# 24 lands
+20,20 {
+Island
+}
+4,2 {
+filter:type=Land,mana=u
+}

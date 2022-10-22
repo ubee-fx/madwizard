@@ -1,0 +1,51 @@
+!rw,Aggro
+!red and white multicolor aggro
+
+# 8 core
+3,1 {
+Bruse Tarl, Boorish Herder
+Gisela, Blade of Goldnight
+Tajic, Blade of the Legion
+Nobilis of War
+Brion Stoutarm
+Avatar of Slaughter
+Bloodcrusher of Khorne
+Urabrask the Hidden
+}
+5,2 {
+Balefire Liege
+Batterskull
+Intrepid Adversary
+Mirror Entity
+}
+
+# 20 multicolor creatures
+20,2 {
+filter:type=Creature,color=r,color=w,multicolor
+}
+
+# 6 spells
+6,2 {
+Double Cleave
+Lightning Helix
+Arrows of Justice
+Warleader's Helix
+}
+
+# 2 enchantments
+2,1 {
+In the Web of War
+Gleam of Battle
+Glory of Warfare
+}
+
+# 24 lands
+7,7 {
+Plains
+}
+7,7 {
+Mountain
+}
+10,2 {
+filter:type=Land,mana=r,mana=w
+}

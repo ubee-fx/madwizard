@@ -1,0 +1,60 @@
+!grw,Random GRW
+!random green, red and white multicolor
+
+# 4 core spells
+4,1 {
+Tome of the Guildpact
+Glass of the Guildpact
+Rampaging Monument
+Druid of the Anima
+Maze Rusher
+Knight of New Alara
+Balefire Liege
+Boartusk Liege
+Titanic Ultimatum
+Gloryscale Viashino
+Marisi's Twinclaws
+Woolly Thoctar
+Retaliator Griffin
+Rith, the Awakener
+Godsire
+Fleetfoot Dancer
+}
+
+# 24 multicolor spells
+24,2 {
+filter:color=g,color=r,color=w,anycolor,multicolor
+}
+
+# 4 monocolored spells
+4,1 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=g,color=r,color=w,anycolor,anytype,monocolor
+}
+
+# 4 equipment
+4,1 {
+filter:subtype=Equipment,color=g,color=r,color=w,colorless,anycolor,equipment
+}
+
+# 24 lands
+4,4 {
+Forest
+}
+4,4 {
+Mountain
+}
+4,4 {
+Plains
+}
+3,2 {
+filter:type=Land,mana=g,mana=r
+}
+3,2 {
+filter:type=Land,mana=r,mana=w
+}
+3,2 {
+filter:type=Land,mana=g,mana=w
+}
+3,3 {
+filter:type=Land,mana=g,mana=r,mana=w
+}

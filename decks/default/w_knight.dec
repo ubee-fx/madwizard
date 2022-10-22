@@ -1,0 +1,55 @@
+!w,Knight
+!white knights
+
+# 32 creatures
+10,3 {
+Benalish Marshal
+Knight Exemplar
+Kinsbaile Cavalier
+Mirran Crusader
+Hero of Bladehold
+Valiant Knight
+}
+16,2 {
+Lionheart Maverick
+Cavalry Drillmaster
+Accorder Paladin
+Knight of Meadowgrain
+Knight of Glory
+Silver Knight
+Spectral Rider
+Leonin Skyhunter
+Sigiled Paladin
+Paladin en-Vec
+White Knight
+Gallant Cavalry
+Inspiring Captain
+Devoted Paladin
+Worthy Knight
+Odric's Outrider
+Venerable Knight
+Garrison Griffin
+Mirror Entity
+}
+6,1 {
+filter:type=Creature,subtype=Knight,color=w
+}
+
+# 2 spells
+2,2 {
+Call the Cavalry
+}
+
+# 4 enchantments
+4,2 {
+Gerrard's Battle Cry
+Knight's Pledge
+Knightly Valor
+Holy Mantle
+Cathars' Crusade
+}
+
+# 22 lands
+22,22 {
+Plains
+}

@@ -1,0 +1,127 @@
+!u,Blue
+!mono blue control with flyers, counter and bounce
+
+# creatures
+8,1 {
+Air Servant
+Air Elemental
+Stormcloud Spirit
+Plasma Elemental
+Skyline Predator
+Soulblade Djinn
+Air Servant
+Mahamoti Djinn
+Riddlemaster Sphinx
+Goliath Sphinx
+Denizen of the Deep
+Tidespout Tyrant
+Wormhole Serpent
+Burrog Befuddler
+Keiga, the Tide Star
+Draining Whelk
+Sphinx of Magosi
+Voracious Greatshark
+Genestealer Locus
+Fleeting Image
+Tidal Kraken
+Guard Gomazoa
+}
+
+# counter
+12,2 {
+Spell Pierce
+Force Spike
+Mana Leak
+Counterspell
+Essence Scatter
+Negate
+Quench
+Remove Soul
+Psychic Barrier
+Cancel
+Convolute
+Exclude
+Runeboggle
+Spiketail Drakeling
+Dismiss
+Last Word
+Mindstatic
+Summoner's Bane
+Remand
+Daring Apprentice
+}
+
+# bounce
+9,2 {
+Man-o'-War
+Aether Adept
+Separatist Voidmage
+Surrakar Banisher
+Angler Drake
+Exclusion Mage
+Mist Raven
+Unsummon
+Void Snare
+Boomerang
+Disperse
+Drown in Shapelessness
+Eye of Nowhere
+Vapor Snag
+Galestrike
+Regress
+Drag Under
+Dissipation Field
+Temporal Eddy
+Aetherize
+Evacuation
+Upheaval
+Inundate
+Temporal Adept
+}
+
+# draw
+4,1 {
+Spectral Sailor
+Mystic Archaeologist
+Mind Spring
+Ancestral Recall
+Divination
+Concentrate
+Inspiration
+Sift
+Jace's Ingenuity
+Tidings
+Overflowing Insight
+Arcanis the Omnipotent
+Archivist
+}
+
+# other
+4,1 {
+Sleep
+Twincast
+Time Warp
+Diminish
+Agoraphobia
+Dwindle
+Chant of the Skifsang
+Dampening Pulse
+Cumber Stone
+Hysterical Blindness
+Mnemonic Wall
+Salvager of Secrets
+Shipwreck Dowser
+Mawcor
+Talrand, Sky Summoner
+Venser, Shaper Savant
+Rapid Hybridization
+Resculpt
+Shocking Grasp
+Network Disruptor
+Invoke the Winds
+}
+
+# 23 lands
+23,23 {
+Island
+}

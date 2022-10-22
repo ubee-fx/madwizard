@@ -1,0 +1,60 @@
+!br,Vampire
+!black and red vampire
+
+# 3 core
+3,3 {
+Stromkirk Captain
+}
+
+# 8 core spells
+8,2 {
+Vampiric Fury
+Mark of the Vampire
+Terminate
+Dreadbore
+Auger Spree
+Scar
+Rakdos's Return
+Blightning
+}
+
+# 8 special
+8,1 {
+Drana, Kalastria Bloodchief
+Drana, Liberator of Malakir
+Mirri the Cursed
+Markov Blademaster
+Necropolis Regent
+Butcher of Malakir
+Skeletal Vampire
+Falkenrath Marauders
+Sorin's Vengeance
+Blood Mist
+Cordial Vampire
+}
+
+# 9 black vampires
+9,1 {
+filter:type=Creature,subtype=Vampire,color=b
+}
+
+# 5 red vampires
+5,1 {
+filter:type=Creature,subtype=Vampire,color=r
+}
+
+# 3 spells
+3,1 {
+filter:type=Instant,type=Sorcery,color=b,color=r,anytype,anycolor,text=and you gain
+}
+
+# 24 lands
+10,10 {
+Swamp
+}
+6,6 {
+Mountain
+}
+8,2 {
+filter:type=Land,mana=b,mana=r
+}
