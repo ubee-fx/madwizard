@@ -1,0 +1,41 @@
+!b,Zombie
+!mono black zombie
+
+# 6 main
+6,2 {
+Grave Titan
+Champion of the Perished
+Lord of the Undead
+Lord of the Accursed
+}
+
+# 15 creatures
+15,2 {
+filter:type=Creature,subtype=Zombie,color=b
+}
+
+# 4 deathtouch
+4,2 {
+filter:type=Instant,type=Sorcery,color=b,anytype,anycolor,text=gain,text=deathtouch
+}
+
+# 4 return
+4,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,anytype,anycolor,text=return target,text=from,text=graveyard,notext=goblin
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,anytype,anycolor,text=put target,text=from,text=graveyard
+}
+
+# 6 token
+6,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,anytype,anycolor,text=zombie,text=token
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,color=b,colorless,equipment
+}
+
+# 23 lands
+23,23 {
+Swamp
+}
