@@ -1,0 +1,41 @@
+!ruw,Three RUW
+!random red blue white
+
+# 12 multicolor spells
+12,2 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=r,color=u,color=w,anycolor,anytype,multicolor
+}
+
+# 8 monocolor spells
+8,2 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=r,color=u,color=w,anycolor,anytype,monocolor
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,color=r,color=u,color=w,colorless,anycolor,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=r,color=u,color=w,colorless,anycolor
+}
+
+# 16 lands
+6,2 {
+Mountain
+Island
+Plains
+}
+3,2 {
+filter:type=Land,mana=r,mana=u
+}
+3,2 {
+filter:type=Land,mana=u,mana=w
+}
+3,2 {
+filter:type=Land,mana=r,mana=w
+}
+1,1 {
+filter:type=Land,mana=r,mana=u,mana=w
+}

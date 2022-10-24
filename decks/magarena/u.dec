@@ -1,0 +1,31 @@
+!u,Mono U
+!random mono blue
+
+# 12 creature spells
+12,2 {
+filter:type=Creature,color=u
+}
+
+# 8 other spells
+8,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,anytype,color=u
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,colorless,equipment,color=u
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=u,colorless
+}
+
+# 16 lands
+15,15 {
+Island
+}
+1,1 {
+filter:type=Land,colorless
+filter:type=Land,mana=u
+}

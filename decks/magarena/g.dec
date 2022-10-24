@@ -1,0 +1,31 @@
+!g,Mono G
+!random mono green
+
+# 12 creature spells
+12,2 {
+filter:type=Creature,color=g
+}
+
+# 8 other spells
+8,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,anytype,color=g
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,colorless,equipment,color=g
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=g,colorless
+}
+
+# 16 lands
+15,15 {
+Forest
+}
+1,1 {
+filter:type=Land,colorless
+filter:type=Land,mana=g
+}

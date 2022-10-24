@@ -1,0 +1,41 @@
+!gru,Three GRU
+!random green red blue
+
+# 12 multicolor spells
+12,2 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=g,color=r,color=u,anycolor,anytype,multicolor
+}
+
+# 8 monocolor spells
+8,2 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=g,color=r,color=u,anycolor,anytype,monocolor
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,color=g,color=r,color=u,colorless,anycolor,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=g,color=r,color=u,colorless,anycolor
+}
+
+# 16 lands
+6,2 {
+Forest
+Mountain
+Island
+}
+3,2 {
+filter:type=Land,mana=g,mana=r
+}
+3,2 {
+filter:type=Land,mana=r,mana=u
+}
+3,2 {
+filter:type=Land,mana=g,mana=u
+}
+1,1 {
+filter:type=Land,mana=g,mana=r,mana=u
+}

@@ -1,0 +1,41 @@
+!bgr,Three BGR
+!random black green red
+
+# 12 multicolor spells
+12,2 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,color=r,anycolor,anytype,multicolor
+}
+
+# 8 monocolor spells
+8,2 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,color=r,anycolor,anytype,monocolor
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,color=b,color=g,color=r,colorless,anycolor,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=b,color=g,color=r,colorless,anycolor
+}
+
+# 16 lands
+6,2 {
+Swamp
+Forest
+Mountain
+}
+3,2 {
+filter:type=Land,mana=b,mana=g
+}
+3,2 {
+filter:type=Land,mana=g,mana=r
+}
+3,2 {
+filter:type=Land,mana=b,mana=r
+}
+1,1 {
+filter:type=Land,mana=b,mana=g,mana=r
+}
