@@ -1,0 +1,41 @@
+!bg,Two BG
+!random black green
+
+# 6 two color creatures
+6,2 {
+filter:type=Creature,color=b,color=g,anycolor,nrcolors=2
+}
+
+# 6 single color creatures
+6,2 {
+filter:type=Creature,color=b,color=g,anycolor,monocolor
+}
+
+# 4 two color other spells
+4,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,anycolor,anytype,nrcolors=2
+}
+
+# 4 single other spells
+4,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,anycolor,anytype,monocolor
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,color=b,color=g,colorless,anycolor,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=b,color=g,colorless,anycolor
+}
+
+# 16 lands
+8,4 {
+Swamp
+Forest
+}
+8,3 {
+filter:type=Land,mana=b,mana=g
+}

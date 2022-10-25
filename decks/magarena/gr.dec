@@ -1,0 +1,41 @@
+!gr,Two GR
+!random two colors
+
+# 6 two color creatures
+6,2 {
+filter:type=Creature,color=g,color=r,anycolor,nrcolors=2
+}
+
+# 6 single color creatures
+6,2 {
+filter:type=Creature,color=g,color=r,anycolor,monocolor
+}
+
+# 4 two color other spells
+4,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=g,color=r,anycolor,anytype,nrcolors=2
+}
+
+# 4 single other spells
+4,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=g,color=r,anycolor,anytype,monocolor
+}
+
+# 2 equipment
+2,1 {
+filter:subtype=Equipment,color=g,color=r,colorless,anycolor,equipment
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=g,color=r,colorless,anycolor
+}
+
+# 16 lands
+8,4 {
+Forest
+Mountain
+}
+8,3 {
+filter:type=Land,mana=g,mana=r
+}
