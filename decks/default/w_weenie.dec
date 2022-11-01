@@ -1,0 +1,70 @@
+!w,Weenie
+!mono white weenie + enchantment + life gain
+
+# 4 main
+4,2 {
+Serra Ascendant
+Serra Avatar
+Resplendent Angel
+Angelic Accord
+}
+
+# 8 one mana creatures
+8,2 {
+Serra Ascendant
+Battlefield Raptor
+Cathedral Sanctifier
+Soldier of the Pantheon
+Soul Warden
+Healer's Hawk
+Pious Wayfarer
+Haazda Marshal
+}
+
+# 6 two mana creatures
+6,2 {
+Kor Spiritdancer
+Dawnhart Geist
+Nyx-Fleece Ram
+Auriok Champion
+Intrepid Adversary
+Knight of Meadowgrain
+Seeker of the Way 
+Lone Missionary
+}
+
+# 12 aura
+12,2 {
+All That Glitters
+Ethereal Armor
+Daybreak Coronet
+Hyena Umbra
+Eland Umbra
+Spirit Link
+Spirit Mantle
+Battle Mastery
+Griffin Guide
+Unquestioned Authority
+}
+
+# 8 other enchantment
+8,2 {
+Luminous Wake
+Pacifism
+Cage of Hands
+Pious Interdiction
+Recumbent Bliss
+Authority of the Consuls
+Ajani's Welcome
+Angelic Accord
+}
+
+
+# 22 lands
+20,20 {
+Plains
+}
+2,2 {
+Kabira Crossroads
+Radiant Fountain
+}
