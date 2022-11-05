@@ -1,3 +1,12 @@
+name=Angelic Marshal
+cost={3}{W}{W}{W}
+type=Creature
+subtype=Angel
+subtype=Soldier
+stats=5/5
+rule=Flying, trample, protection from Demons
+rule=Whenever an Angel you control deals combat damage to an opponent, create a 4/4 white Angel creature token with flying.
+url=custom://angelic_marshal
 name=Centaur Glade
 cost={3}{G}{G}
 type=Enchantment
