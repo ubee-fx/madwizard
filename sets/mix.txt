@@ -1,3 +1,13 @@
+name=Knight of Light
+cost={1}{W}{W}
+type=Creature
+subtype=Angel
+subtype=Knight
+stats=4/3
+rule=Flying, first strike, lifelink, vigilance
+rule=Protection from black and red
+rule={W}{W}: Regenerate Knight of Light.
+url=custom://knight_of_light
 name=Angelic Marshal
 cost={3}{W}{W}{W}
 type=Creature
