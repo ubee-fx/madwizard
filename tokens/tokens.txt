@@ -29,6 +29,7 @@
 1_1_colorless_Servo_artifact_creature_token=https://scryfall.com/card/tafc/11/servo
 1_1_colorless_Shapeshifter_creature_token_with_changeling=https://scryfall.com/card/tclb/22/shapeshifter
 1_1_colorless_Sliver_creature_token=https://scryfall.com/card/tm15/1/sliver
+1_1_colorless_Soldier_artifact_creature_token=https://scryfall.com/card/tbro/8/soldier
 1_1_colorless_Spirit_creature_token=https://scryfall.com/card/t2x2/2/spirit
 1_1_colorless_Thopter_artifact_creature_token_with_flying=https://scryfall.com/card/tvoc/6/thopter
 1_1_green_Elf_Warrior_creature_token=https://scryfall.com/card/tm19/13/elf-warrior
