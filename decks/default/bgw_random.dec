@@ -3,17 +3,12 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Hero of Precinct One
-Maze Abomination
-Knight of New Alara
-Creakwood Liege
-Deathbringer Liege
-Siege Rhino
-Teneb, the Harvester
-Abzan Ascendancy
+filter:color=b,color=g,color=w,anycolor,multicolor,text=Liege
+filter:colorless,color=b,color=g,color=w,anycolor,text=you cast a multicolored
+filter:colorless,color=b,color=g,color=w,anycolor,text=you control another multicolored
+filter:colorless,color=b,color=g,color=w,anycolor,text=multicolored creature you control
+filter:colorless,color=b,color=g,color=w,anycolor,text=multicolored creatures you control
+filter:color=b,color=g,color=w,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells

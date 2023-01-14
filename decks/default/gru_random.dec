@@ -3,14 +3,12 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Maze Rusher
-Maze Glider
-Murkfiend Liege
-Boartusk Liege
-Bear's Companion
+filter:color=g,color=r,color=u,anycolor,multicolor,text=Liege
+filter:colorless,color=g,color=r,color=u,anycolor,text=you cast a multicolored
+filter:colorless,color=g,color=r,color=u,anycolor,text=you control another multicolored
+filter:colorless,color=g,color=r,color=u,anycolor,text=multicolored creature you control
+filter:colorless,color=g,color=r,color=u,anycolor,text=multicolored creatures you control
+filter:color=g,color=r,color=u,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells

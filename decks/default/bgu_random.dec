@@ -3,15 +3,12 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Maze Abomination
-Maze Glider
-Creakwood Liege
-Murkfiend Liege
-Glen Elendra Liege
-Vorosh, the Hunter
+filter:color=b,color=g,color=u,anycolor,multicolor,text=Liege
+filter:colorless,color=b,color=g,color=u,anycolor,text=you cast a multicolored
+filter:colorless,color=b,color=g,color=u,anycolor,text=you control another multicolored
+filter:colorless,color=b,color=g,color=u,anycolor,text=multicolored creature you control
+filter:colorless,color=b,color=g,color=u,anycolor,text=multicolored creatures you control
+filter:color=b,color=g,color=u,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells

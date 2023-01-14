@@ -3,19 +3,13 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Maze Abomination
 Ignoble Hierarch
-Maze Rusher
-Boartusk Liege
-Creakwood Liege
-Broodmate Dragon
-Hellkite Overlord
-Madrush Cyclops
-Sprouting Thrinax
-Thantis, the Warweaver
+filter:color=b,color=g,color=r,anycolor,multicolor,text=Liege
+filter:colorless,color=b,color=g,color=r,anycolor,text=you cast a multicolored
+filter:colorless,color=b,color=g,color=r,anycolor,text=you control another multicolored
+filter:colorless,color=b,color=g,color=r,anycolor,text=multicolored creature you control
+filter:colorless,color=b,color=g,color=r,anycolor,text=multicolored creatures you control
+filter:color=b,color=g,color=r,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells

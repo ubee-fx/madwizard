@@ -1,0 +1,50 @@
+!gu,Mana
+!green and blue mana ramp
+
+# 4 main
+4,1 {
+Tatyova, Benthic Druid
+Murkfiend Liege
+Bear Umbra
+Wilderness Reclamation
+Rite of Replication
+Time Warp
+}
+
+# 8 mana creatures
+8,2 {
+filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add _g_
+filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add _u_
+filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add one mana of any color
+}
+
+# 8 X spells
+8,2 {
+filter:colorless,color=g,color=u,anycolor,hasx
+}
+
+# 8 expensive spells
+8,2 {
+filter:colorless,color=g,color=u,anycolor,minCost=7
+}
+
+# 6 multicolor spells
+6,2 {
+filter:color=g,color=u,multicolor
+}
+
+# 4 mana artifacts
+4,2 {
+filter:type=Artifact,colorless,text=_t_,text=add _c__c_
+}
+
+# 22 lands
+6,6 {
+Forest
+}
+6,6 {
+Island
+}
+10,3 {
+filter:type=Land,mana=g,mana=u
+}

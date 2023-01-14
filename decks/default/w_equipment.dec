@@ -18,6 +18,7 @@ Intrepid Adversary
 Zetalpa, Primal Dawn
 Oketra the True
 Zamriel, Seraph of Steel
+Balan, Wandering Knight
 }
 
 # 4 enchantments
@@ -33,9 +34,8 @@ Always Watching
 }
 
 # 12 equipment
-12,2 {
+8,2 {
 Bonesplitter
-Trusty Machete
 Vulshok Morningstar
 Basilisk Collar
 Loxodon Warhammer
@@ -45,6 +45,9 @@ Sword of Feast and Famine
 Hammer of Nazahn
 Maul of the Skyclaves
 Cliffhaven Kitesail
+}
+4,1 {
+filter:subtype=Equipment,color=w,colorless,equipment
 }
 
 # 2 artifact

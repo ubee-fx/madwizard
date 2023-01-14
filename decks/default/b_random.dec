@@ -36,5 +36,6 @@ filter:type=Artifact,color=b,colorless
 Swamp
 }
 4,2 {
+filter:type=Land,colorless
 filter:type=Land,mana=b
 }

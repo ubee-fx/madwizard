@@ -36,5 +36,6 @@ filter:type=Artifact,color=r,colorless
 Mountain
 }
 4,2 {
+filter:type=Land,colorless
 filter:type=Land,mana=r
 }

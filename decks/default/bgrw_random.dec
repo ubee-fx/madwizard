@@ -3,14 +3,13 @@
 
 # 8 core spells
 8,2 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Hero of Precinct One
-Knight of New Alara
-Civic Saber
-Blessing of the Nephilim
-Transguild Courier
+filter:type=Artifact,color=b,color=g,color=r,color=w,color=u,text=is all colors
+filter:colorless,color=b,color=g,color=r,color=w,anycolor,equipment,text=for each of its colors
+filter:colorless,color=b,color=g,color=r,color=w,anycolor,text=you cast a multicolored
+filter:colorless,color=b,color=g,color=r,color=w,anycolor,text=you control another multicolored
+filter:colorless,color=b,color=g,color=r,color=w,anycolor,text=multicolored creature you control
+filter:colorless,color=b,color=g,color=r,color=w,anycolor,text=multicolored creatures you control
+filter:color=b,color=g,color=r,color=w,multicolor,nrcolors=4
 }
 
 # 12 three color spells

@@ -3,18 +3,12 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Hero of Precinct One
-Maze Rusher
-Maze Glider
-Thistledown Liege
-Balefire Liege
-Lightning Angel
-Mantis Rider
-Sage of the Inward Eye
-Flying Crane Technique
+filter:color=r,color=u,color=w,anycolor,multicolor,text=Liege
+filter:colorless,color=r,color=u,color=w,anycolor,text=you cast a multicolored
+filter:colorless,color=r,color=u,color=w,anycolor,text=you control another multicolored
+filter:colorless,color=r,color=u,color=w,anycolor,text=multicolored creature you control
+filter:colorless,color=r,color=u,color=w,anycolor,text=multicolored creatures you control
+filter:color=r,color=u,color=w,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells

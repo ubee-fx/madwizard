@@ -3,20 +3,13 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
 Noble Hierarch
-Maze Glider
-Knight of New Alara
-Murkfiend Liege
-Thistledown Liege
-Rhox War Monk
-Messenger Falcons
-Jenara, Asura of War
-Rafiq of the Many
-Treva, the Renewer
-Empyrial Archangel
+filter:color=g,color=u,color=w,anycolor,multicolor,text=Liege
+filter:colorless,color=g,color=u,color=w,anycolor,text=you cast a multicolored
+filter:colorless,color=g,color=u,color=w,anycolor,text=you control another multicolored
+filter:colorless,color=g,color=u,color=w,anycolor,text=multicolored creature you control
+filter:colorless,color=g,color=u,color=w,anycolor,text=multicolored creatures you control
+filter:color=g,color=u,color=w,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells

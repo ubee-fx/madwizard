@@ -3,17 +3,12 @@
 
 # 4 core spells
 4,1 {
-Tome of the Guildpact
-Glass of the Guildpact
-Rampaging Monument
-Hero of Precinct One
-Maze Rusher
-Maze Abomination
-Balefire Liege
-Deathbringer Liege
-Ankle Shanker
-Mardu Roughrider
-Oros, the Avenger
+filter:color=b,color=r,color=w,anycolor,multicolor,text=Liege
+filter:colorless,color=b,color=r,color=w,anycolor,text=you cast a multicolored
+filter:colorless,color=b,color=r,color=w,anycolor,text=you control another multicolored
+filter:colorless,color=b,color=r,color=w,anycolor,text=multicolored creature you control
+filter:colorless,color=b,color=r,color=w,anycolor,text=multicolored creatures you control
+filter:color=b,color=r,color=w,multicolor,nrcolors=3
 }
 
 # 24 multicolor spells
