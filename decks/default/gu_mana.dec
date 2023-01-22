@@ -15,6 +15,7 @@ Time Warp
 8,2 {
 filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add _g_
 filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add _u_
+filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add _c__c_
 filter:type=Creature,colorless,color=g,color=u,anycolor,text=_t_,text=add one mana of any color
 }
 
