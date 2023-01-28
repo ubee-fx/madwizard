@@ -11,6 +11,7 @@ Brion Stoutarm
 Avatar of Slaughter
 Bloodcrusher of Khorne
 Urabrask the Hidden
+Fiendish Duo
 }
 5,2 {
 Balefire Liege
@@ -21,7 +22,7 @@ Mirror Entity
 
 # 20 multicolor creatures
 20,2 {
-filter:type=Creature,color=r,color=w,multicolor
+filter:type=Creature,color=r,color=w,multicolor,notext=akiri,notext=sliver
 }
 
 # 6 spells

@@ -30,6 +30,7 @@ filter:type=Creature,color=w,text=enters,text=may destroy target,notext=counter,
 3,2 {
 Ajani's Welcome
 Cathars' Crusade
+Panharmonicon
 }
 
 # 10 spells

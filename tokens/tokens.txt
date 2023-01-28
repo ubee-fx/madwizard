@@ -73,7 +73,7 @@
 1_1_white_and_black_Spirit_creature_token_with_flying=https://scryfall.com/card/tc21/21/spirit
 1_2_green_Spider_creature_token_with_reach=https://scryfall.com/card/t2x2/18/spider
 1_3_green_Spider_enchantment_creature_token_with_reach=https://scryfall.com/card/tjou/5/spider
-2_1_black_Cat_creature_token=
+2_1_black_Cat_creature_token=https://scryfall.com/card/tdmr/3/cat
 2_1_black_Spider_creature_token_with_menace_and_reach=https://scryfall.com/card/tafr/7/spider
 2_1_black_Warrior_creature_token=https://scryfall.com/card/tclb/32/warrior
 2_1_red_Dwarf_Berserker_creature_token=https://scryfall.com/card/tkhm/12/dwarf-berserker
@@ -97,6 +97,7 @@
 2_2_green_Wolf_creature_token=https://scryfall.com/card/t2xm/19/wolf
 2_2_green_and_white_Elf_Knight_creature_token_with_vigilance=https://scryfall.com/card/tgrn/6/elf-knight
 2_2_red_and_green_Satyr_creature_token_with_haste=https://scryfall.com/card/tclb/46/satyr
+2_2_red_Rebel_creature_token=custom://rebel
 2_2_white_Astartes_Warrior_creature_token_with_vigilance=https://scryfall.com/card/t40k/1/astartes-warrior
 2_2_white_Griffin_creature_token_with_flying=https://scryfall.com/card/tdmc/1/griffin
 2_2_white_Knight_Ally_creature_token=https://scryfall.com/card/tbfz/5/knight-ally

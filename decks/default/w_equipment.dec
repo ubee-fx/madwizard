@@ -14,6 +14,7 @@ Mirran Crusader
 Healer's Flock
 Intrepid Adversary
 Swooping Lookout
+Jawbone Duelist
 }
 2,1 {
 Zetalpa, Primal Dawn
@@ -46,6 +47,7 @@ Sword of Feast and Famine
 Hammer of Nazahn
 Maul of the Skyclaves
 Cliffhaven Kitesail
+Kemba's Banner
 }
 4,1 {
 filter:subtype=Equipment,color=w,colorless,equipment

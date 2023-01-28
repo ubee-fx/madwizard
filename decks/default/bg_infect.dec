@@ -17,7 +17,7 @@ Septic Rats
 Phyrexian Vatmother
 }
 
-# 12 infect creatures
+# 12 infect and toxic creatures
 12,2 {
 Vector Asp
 Blight Mamba
@@ -35,6 +35,12 @@ Flesh-Eater Imp
 Tel-Jilad Fallen
 Scourge Servant
 Toxic Nim
+Bilious Skulldweller
+Pestilent Syphoner
+Ichorspit Basilisk
+Sheoldred's Headcleaver
+Branchblight Stalker
+Tyrranax Atrocity
 }
 
 # 4 wither creatures

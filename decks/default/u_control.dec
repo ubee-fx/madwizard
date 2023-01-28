@@ -129,9 +129,14 @@ Network Disruptor
 Invoke the Winds
 Icy Manipulator
 Chrome Prowler
+Graceful Adept
+Thought Vessel
 }
 
 # 23 lands
-23,23 {
+22,22 {
 Island
+}
+1,1 {
+Reliquary Tower
 }
