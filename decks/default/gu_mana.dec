@@ -1,8 +1,9 @@
 !gu,Mana
 !green and blue mana ramp
 
-# 4 main
-4,1 {
+# 6 main
+6,1 {
+Aesi, Tyrant of Gyre Strait
 Kruphix, God of Horizons
 Tatyova, Benthic Druid
 Murkfiend Liege
@@ -10,6 +11,7 @@ Bear Umbra
 Wilderness Reclamation
 Rite of Replication
 Time Warp
+Exploration
 }
 
 # 8 mana creatures
@@ -30,8 +32,8 @@ filter:colorless,color=g,color=u,anycolor,hasx
 filter:colorless,color=g,color=u,anycolor,minCost=7
 }
 
-# 6 multicolor spells
-6,2 {
+# 4 multicolor spells
+4,2 {
 filter:color=g,color=u,multicolor
 }
 

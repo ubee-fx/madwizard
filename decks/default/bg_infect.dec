@@ -43,7 +43,7 @@ Branchblight Stalker
 Tyrranax Atrocity
 }
 
-# 4 wither creatures
+# 4 wither and other creatures
 4,1 {
 Twinblade Slasher
 Juvenile Gloomwidow
@@ -52,6 +52,7 @@ Rendclaw Trow
 Smoldering Butcher
 Wildslayer Elves
 Kulrath Knight
+Bonepicker Skirge
 }
 
 # 3 infect spells
@@ -98,6 +99,7 @@ Offer Immortality
 # 3 enchantments
 3,1 {
 Rancor
+Audacity
 Gaea's Embrace
 Epic Proportions
 Prodigious Growth

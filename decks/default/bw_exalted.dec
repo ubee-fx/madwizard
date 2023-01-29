@@ -8,13 +8,16 @@ Angelic Exaltation
 Angelic Benediction
 Sigil of Valor
 }
+1,1 {
+Elas il-Kor, Sadistic Pilgrim
+}
 
 # exalted
-16,2 {
+15,2 {
 filter:type=Creature,color=b,color=w,anycolor,text=exalted
 }
 
-# 7 enchantment
+# 6 enchantment
 6,1 {
 Gift of Orzhova
 Unquestioned Authority
@@ -64,6 +67,7 @@ Grotesque Mutation
 Rush of Vitality
 Battle-Rage Blessing
 Moment of Defiance
+Offer Immortality
 Kemba's Banner
 }
 

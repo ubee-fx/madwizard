@@ -20,8 +20,8 @@ Intrepid Adversary
 Mirror Entity
 }
 
-# 20 multicolor creatures
-20,2 {
+# 18 multicolor creatures
+18,2 {
 filter:type=Creature,color=r,color=w,multicolor,notext=akiri,notext=sliver
 }
 
@@ -38,6 +38,15 @@ Warleader's Helix
 In the Web of War
 Gleam of Battle
 Glory of Warfare
+Gratuitous Violence
+}
+
+# 2 equipment
+2,1 {
+Maul of the Skyclaves
+Kemba's Banner
+Dragonwing Glider
+Boots of Speed
 }
 
 # 24 lands
