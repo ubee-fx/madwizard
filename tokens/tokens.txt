@@ -48,6 +48,7 @@
 1_1_red_Goblin_creature_token=https://scryfall.com/card/tund/2/goblin
 1_1_red_Goblin_creature_token_with_haste=https://scryfall.com/card/tnec/5/goblin
 1_1_red_Human_creature_token=https://scryfall.com/card/tvow/10/human
+1_1_red_Phyrexian_Goblin_creature_token=https://scryfall.com/card/tone/3/phyrexian-goblin
 1_1_red_and_green_Goblin_Warrior_creature_token=https://scryfall.com/card/tc20/17/goblin-warrior
 1_1_red_and_white_Goblin_Soldier_creature_token=https://scryfall.com/card/tema/15/goblin-soldier
 1_1_red_and_white_Soldier_creature_token_with_haste=https://scryfall.com/card/tncc/33/soldier
@@ -97,7 +98,7 @@
 2_2_green_Wolf_creature_token=https://scryfall.com/card/t2xm/19/wolf
 2_2_green_and_white_Elf_Knight_creature_token_with_vigilance=https://scryfall.com/card/tgrn/6/elf-knight
 2_2_red_and_green_Satyr_creature_token_with_haste=https://scryfall.com/card/tclb/46/satyr
-2_2_red_Rebel_creature_token=custom://rebel
+2_2_red_Rebel_creature_token=https://scryfall.com/card/tone/5/rebel
 2_2_white_Astartes_Warrior_creature_token_with_vigilance=https://scryfall.com/card/t40k/1/astartes-warrior
 2_2_white_Griffin_creature_token_with_flying=https://scryfall.com/card/tdmc/1/griffin
 2_2_white_Knight_Ally_creature_token=https://scryfall.com/card/tbfz/5/knight-ally
