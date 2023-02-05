@@ -1,0 +1,47 @@
+!br,Aggro BR
+!black and red aggro
+
+# 18 creatures
+6,3 {
+Champion of the Perished
+Diregraf Ghoul
+Geralf's Messenger
+}
+6,3 {
+Blood Artist
+Zulaport Cutthroat
+Spiteful Prankster
+}
+6,3 {
+Fume Spitter
+Bloodthrone Vampire
+Goblin Deathraiders
+Spike Jester
+}
+
+# 12 spells
+12,3 {
+Go for the Throat
+Infernal Grasp
+Terminate
+Lightning Bolt
+Burst Lightning
+}
+
+# 6 enchantments
+6,2 {
+Bitterblossom
+Goblin Bombardment
+Deadapult
+}
+
+# 24 lands
+10,10 {
+Swamp
+}
+14,4 {
+Blood Crypt
+Blackcleave Cliffs
+Dragonskull Summit
+Smoldering Marsh
+}
