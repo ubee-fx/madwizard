@@ -1,0 +1,43 @@
+!brg,Jund
+!black, red and green Jund
+
+# 18 creatures
+1,1 {
+Karrthus, Tyrant of Jund
+Hellkite Overlord
+}
+15,4 {
+Birds of Paradise
+Putrid Leech
+Jund Hackblade 
+Sprouting Thrinax
+Madrush Cyclops
+}
+2,2 {
+Broodmate Dragon
+}
+
+# 18 spells
+18,3 {
+Cut Down
+Lightning Bolt
+Burst Lightning
+Maelstrom Pulse
+Putrefy
+Blightning
+Terminate
+Flame Slash
+}
+
+# 24 lands
+12,4 {
+Overgrown Tomb
+Rootbound Crag
+Savage Lands
+}
+12,3 {
+Dragonskull Summit
+Forest
+Swamp
+Mountain
+}
