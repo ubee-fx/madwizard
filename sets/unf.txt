@@ -85,7 +85,7 @@ subtype=Aura
 stats=
 rule=Enchant nonland permanent
 rule=As Gobsmacked enters the battlefield, choose a person outside the game.
-rule=As long as you can see the chosen person from your seat, Gobsmacked enchanted permanent can't attack or block, and it's activated abilities can't be activated.
+rule=As long as you can see the chosen person from your seat, enchanted permanent can't attack or block, and it's activated abilities can't be activated.
 url=https://scryfall.com/card/unf/11/gobsmacked
 name=A Good Day to Pie
 cost={1}{W}
@@ -286,7 +286,7 @@ name=Bag Check
 cost={1}{U}{U}
 type=Instant
 stats=
-rule=Counter target spell, then as a person outside the game if that spell looks dangerous to them. If they say yes, draw a card, then discard a card.
+rule=Counter target spell, then ask a person outside the game if that spell looks dangerous to them. If they say yes, draw a card, then discard a card.
 url=https://scryfall.com/card/unf/36/bag-check
 name=Bamboozling Beeble
 cost={U}
@@ -294,7 +294,7 @@ type=Creature
 subtype=Beeble
 stats=1/1
 rule=Protection from Robots
-rule={1}, {T}: The next time target player would roll one or more dice this turn, instead they roll that many dice plus one and you choose one to those rolls to ignore.
+rule={1}, {T}: The next time target player would roll one or more dice this turn, instead they roll that many dice plus one and you choose one of those rolls to ignore.
 url=https://scryfall.com/card/unf/37/bamboozling-beeble
 name=Bioluminary
 cost={2}{U}
@@ -361,7 +361,7 @@ subtype=Merfolk
 subtype=Performer
 stats=3/4
 rule=As Fluros of Myra's Marvels enters the battlefield, choose a number greater than 0.
-rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X, where X is the chosen number.
+rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X until end of turn, where X is the chosen number.
 rule=Partner
 url=https://scryfall.com/card/unf/46/fluros-of-myras-marvels
 name=Focused Funambulist
@@ -1370,10 +1370,10 @@ type=Planeswalker
 subtype=Comet
 stats=Loyalty: 5
 rule=0: Roll a six-sided die.
-rule=1 or 2 = +2, then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
-rule=3 = -1, then return a card with mana value 2 or less from your graveyard to your hand.
-rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then -2.
-rule=6 = +1, and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
+rule=1 or 2 = [+2], then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
+rule=3 = [−1], then return a card with mana value 2 or less from your graveyard to your hand.
+rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then [-2].
+rule=6 = [+1], and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
 url=https://scryfall.com/card/unf/166/comet-stellar-pup
 name=Dee Kay, Finder of the Lost
 cost={1}{U}{B}
@@ -2170,14 +2170,14 @@ cost=
 type=Artifact
 subtype=Attraction
 stats=
-rule=Visit = Choose target creature you control. Each other creature you control becomes a copy of that creature until end of turn, except it isn't legendary if the chosen creature is legendary.
+rule=Visit = Choose target creature you control. Each other creature you control becomes a copy of that creature until end of turn, except it isn't legendary.
 url=https://scryfall.com/card/unf/216a/hall-of-mirrors
 name=Hall of Mirrors
 cost=
 type=Artifact
 subtype=Attraction
 stats=
-rule=Visit = Choose target creature you control. Each other creature you control becomes a copy of that creature until end of turn, except it isn't legendary if the chosen creature is legendary.
+rule=Visit = Choose target creature you control. Each other creature you control becomes a copy of that creature until end of turn, except it isn't legendary.
 url=https://scryfall.com/card/unf/216b/hall-of-mirrors
 name=Haunted House
 cost=
@@ -2680,7 +2680,7 @@ cost=
 type=Artifact
 subtype=Attraction
 stats=
-rule=Visit = An opponent choses green card, instant card, or named mechanic, then mills a card. You have ten seconds to name something from the chosen category that starts with the same letter as the milled card. If you do, claim the prize!
+rule=Visit = An opponent chooses green card, instant card, or named mechanic, then mills a card. You have ten seconds to name something from the chosen category that starts with the same letter as the milled card. If you do, claim the prize!
 rule=Prize = You get {TK}{TK}{TK}, then you may put a sticker on a nonland permanent you own. Sacrifice Trivia Contest and open an Attraction.
 url=https://scryfall.com/card/unf/233e/trivia-contest
 name=Trivia Contest
@@ -2804,7 +2804,7 @@ subtype=Merfolk
 subtype=Performer
 stats=3/4
 rule=As Fluros of Myra's Marvels enters the battlefield, choose a number greater than 0.
-rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X, where X is the chosen number.
+rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X until end of turn, where X is the chosen number.
 rule=Partner
 url=https://scryfall.com/card/unf/247/fluros-of-myras-marvels
 name=Nocturno of Myra's Marvels
@@ -3100,10 +3100,10 @@ type=Planeswalker
 subtype=Comet
 stats=Loyalty: 5
 rule=0: Roll a six-sided die.
-rule=1 or 2 = +2, then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
-rule=3 = -1, then return a card with mana value 2 or less from your graveyard to your hand.
-rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then -2.
-rule=6 = +1, and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
+rule=1 or 2 = [+2], then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
+rule=3 = [−1], then return a card with mana value 2 or less from your graveyard to your hand.
+rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then [-2].
+rule=6 = [+1], and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
 url=https://scryfall.com/card/unf/275/comet-stellar-pup
 name=Space Beleren
 cost={2}{W}{U}
@@ -3283,7 +3283,7 @@ subtype=Aura
 stats=
 rule=Enchant nonland permanent
 rule=As Gobsmacked enters the battlefield, choose a person outside the game.
-rule=As long as you can see the chosen person from your seat, Gobsmacked enchanted permanent can't attack or block, and it's activated abilities can't be activated.
+rule=As long as you can see the chosen person from your seat, enchanted permanent can't attack or block, and it's activated abilities can't be activated.
 url=https://scryfall.com/card/unf/297/gobsmacked
 name=A Good Day to Pie
 cost={1}{W}
@@ -3484,7 +3484,7 @@ name=Bag Check
 cost={1}{U}{U}
 type=Instant
 stats=
-rule=Counter target spell, then as a person outside the game if that spell looks dangerous to them. If they say yes, draw a card, then discard a card.
+rule=Counter target spell, then ask a person outside the game if that spell looks dangerous to them. If they say yes, draw a card, then discard a card.
 url=https://scryfall.com/card/unf/322/bag-check
 name=Bamboozling Beeble
 cost={U}
@@ -3492,7 +3492,7 @@ type=Creature
 subtype=Beeble
 stats=1/1
 rule=Protection from Robots
-rule={1}, {T}: The next time target player would roll one or more dice this turn, instead they roll that many dice plus one and you choose one to those rolls to ignore.
+rule={1}, {T}: The next time target player would roll one or more dice this turn, instead they roll that many dice plus one and you choose one of those rolls to ignore.
 url=https://scryfall.com/card/unf/323/bamboozling-beeble
 name=Bioluminary
 cost={2}{U}
@@ -3559,7 +3559,7 @@ subtype=Merfolk
 subtype=Performer
 stats=3/4
 rule=As Fluros of Myra's Marvels enters the battlefield, choose a number greater than 0.
-rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X, where X is the chosen number.
+rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X until end of turn, where X is the chosen number.
 rule=Partner
 url=https://scryfall.com/card/unf/332/fluros-of-myras-marvels
 name=Focused Funambulist
@@ -4568,10 +4568,10 @@ type=Planeswalker
 subtype=Comet
 stats=Loyalty: 5
 rule=0: Roll a six-sided die.
-rule=1 or 2 = +2, then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
-rule=3 = -1, then return a card with mana value 2 or less from your graveyard to your hand.
-rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then -2.
-rule=6 = +1, and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
+rule=1 or 2 = [+2], then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
+rule=3 = [−1], then return a card with mana value 2 or less from your graveyard to your hand.
+rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then [-2].
+rule=6 = [+1], and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
 url=https://scryfall.com/card/unf/452/comet-stellar-pup
 name=Dee Kay, Finder of the Lost
 cost={1}{U}{B}
@@ -4991,7 +4991,7 @@ subtype=Merfolk
 subtype=Performer
 stats=3/4
 rule=As Fluros of Myra's Marvels enters the battlefield, choose a number greater than 0.
-rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X, where X is the chosen number.
+rule=Whenever you cast a spell with power, toughness, or loyalty equal to the chosen number, target artifact or creature becomes an artifact creature with base power and toughness X/X until end of turn, where X is the chosen number.
 rule=Partner
 url=https://scryfall.com/card/unf/498/fluros-of-myras-marvels
 name=Nocturno of Myra's Marvels
@@ -5287,10 +5287,10 @@ type=Planeswalker
 subtype=Comet
 stats=Loyalty: 5
 rule=0: Roll a six-sided die.
-rule=1 or 2 = +2, then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
-rule=3 = -1, then return a card with mana value 2 or less from your graveyard to your hand.
-rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then -2.
-rule=6 = +1, and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
+rule=1 or 2 = [+2], then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
+rule=3 = [−1], then return a card with mana value 2 or less from your graveyard to your hand.
+rule=4 or 5 = Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then [-2].
+rule=6 = [+1], and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.
 url=https://scryfall.com/card/unf/526/comet-stellar-pup
 name=Space Beleren
 cost={2}{W}{U}
