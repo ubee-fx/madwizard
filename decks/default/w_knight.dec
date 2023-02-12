@@ -30,6 +30,7 @@ Odric's Outrider
 Venerable Knight
 Garrison Griffin
 Mirror Entity
+Twinblade Paladin
 }
 6,1 {
 filter:type=Creature,subtype=Knight,color=w

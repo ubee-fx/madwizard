@@ -7,6 +7,8 @@ Serra Ascendant
 Serra Avatar
 Resplendent Angel
 Angelic Accord
+Archangel of Thune
+Heliod, Sun-Crowned
 }
 
 # 8 one mana creatures
@@ -19,6 +21,7 @@ Soul Warden
 Healer's Hawk
 Pious Wayfarer
 Haazda Marshal
+Selfless Savior
 }
 
 # 6 two mana creatures
@@ -47,6 +50,7 @@ Griffin Guide
 Unquestioned Authority
 Military Discipline
 Glaring Aegis
+Light of Promise
 }
 
 # 8 other enchantment
@@ -60,7 +64,6 @@ Authority of the Consuls
 Ajani's Welcome
 Angelic Accord
 }
-
 
 # 22 lands
 20,20 {

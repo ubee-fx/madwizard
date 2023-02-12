@@ -1,0 +1,51 @@
+!bw,Life BW
+!black and white life gain
+
+# 8 main
+8,2 {
+Archangel of Thune
+Heliod, Sun-Crowned
+Vito, Thorn of the Dusk Rose
+Karlov of the Ghost Council
+Cliffhaven Vampire
+Defiant Bloodlord
+Sorin's Vengeance
+Death Grasp
+}
+
+# 8 life gain triggers
+8,2 {
+filter:type=Creature,color=w,color=b,anycolor,text=whenever you gain life
+}
+# 4 lifelink ability
+4,2 {
+filter:type=Creature,color=w,color=b,anycolor,ability=lifelink
+}
+# 4 enters battlefield triggers
+4,2 {
+filter:type=Creature,color=w,color=b,anycolor,text=enters the battlefield,text=you gain,text=life
+}
+
+# 8 life gain spells
+8,2 {
+filter:type=Sorcery,type=Instant,anytype,color=w,color=b,anycolor,text=you gain,text=life
+}
+
+# 4 enchantments
+4,2 {
+Light of Promise
+Sunbond
+Authority of the Consuls
+Sanguine Bond
+}
+
+# 24 lands
+8,8 {
+Plains
+}
+8,8 {
+Swamp
+}
+8,2 {
+filter:type=Land,mana=b,mana=w
+}

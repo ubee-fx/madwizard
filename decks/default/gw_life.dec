@@ -1,20 +1,23 @@
 !gw,Life
 !green and white life
 
-# 2 core white
-2,1 {
+# 4 core life
+4,1 {
 Angelic Accord
 Valkyrie Harbinger
 Crested Sunmare
 Resplendent Angel
+Archangel of Thune
+Ageless Entity
+Heliod, Sun-Crowned
 }
 
-# 18 creatures
-6,2 {
-filter:type=Creature,color=g,text=life
-}
-8,2 {
+# 16 creatures
+7,2 {
 filter:type=Creature,color=w,text=life
+}
+5,2 {
+filter:type=Creature,color=g,text=life
 }
 4,2 {
 filter:type=Creature,color=g,color=w,multicolor,text=life
