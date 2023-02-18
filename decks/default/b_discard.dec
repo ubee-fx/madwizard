@@ -3,6 +3,7 @@
 
 # 5 special
 5,1 {
+Tourach, Dread Cantor
 Sheoldred, Whispering One
 Griselbrand
 Pestilence Demon
@@ -10,12 +11,12 @@ Visara the Dreadful
 Kokusho, the Evening Star
 Rotting Regisaur
 Baleful Force
-Debtors' Knell
-Bad Moon
 }
 
 # 12 main
 12,2 {
+Abyssal Nocturnus
+Fell Specter
 Hypnotic Specter
 Liliana's Specter
 Abyssal Specter
@@ -80,6 +81,18 @@ Virus Beetle
 Corrupt Court Official
 Gnawing Vermin
 Thoughtrender Lamia
+Strands of Undeath
+Caligo Skin-Witch
+Abyssal Horror
+}
+
+# 3 other
+3,2 {
+Geth's Grimoire
+Megrim
+Liliana's Caress
+Debtors' Knell
+Bad Moon
 }
 
 # 23 lands
