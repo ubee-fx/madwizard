@@ -19,8 +19,8 @@ filter:colorless,color=b,color=w,anycolor,text=discard a card:
 
 # 10 reanimate
 10,2 {
-filter:colorless,color=b,color=w,anycolor,text=return target,text=graveyard,text=the battlefield
-filter:colorless,color=b,color=w,anycolor,text=put target,text=graveyard,text=the battlefield
+filter:colorless,color=b,color=w,anycolor,text=return target,text=graveyard,text=to the battlefield
+filter:colorless,color=b,color=w,anycolor,text=put target,text=graveyard,text=to the battlefield
 }
 
 # 8 expensive creatures with flying
