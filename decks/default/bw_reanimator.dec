@@ -1,0 +1,40 @@
+!bw,Reanimator
+!black and white reanimator
+
+# 2 special
+2,2 {
+Confessor
+}
+
+# 4 draw
+4,2 {
+filter:color=b,color=w,anycolor,maxCost=4,text=draw,text=2 cards
+filter:color=b,color=w,anycolor,maxCost=4,text=draw,text=two cards
+}
+
+# 12 discard
+12,2 {
+filter:colorless,color=b,color=w,anycolor,text=discard a card:
+}
+
+# 10 reanimate
+10,2 {
+filter:colorless,color=b,color=w,anycolor,text=return target,text=graveyard,text=the battlefield
+filter:colorless,color=b,color=w,anycolor,text=put target,text=graveyard,text=the battlefield
+}
+
+# 8 expensive creatures with flying
+8,2 {
+filter:type=Creature,color=b,color=w,anycolor,minCost=7,ability=flying
+}
+
+# 24 lands
+8,8 {
+Plains
+}
+8,8 {
+Swamp
+}
+8,2 {
+filter:type=Land,mana=b,mana=w
+}
