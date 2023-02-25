@@ -1,0 +1,41 @@
+!bg,Trample
+!black and green trample and deathtouch
+
+# 2 main
+2,1 {
+Yargle and Multani
+Doomgape
+Deity of Scars
+Creakwood Liege
+}
+
+# 16 deathtouch creatures
+16,2 {
+filter:type=Creature,color=b,color=g,anycolor,maxcost=4,ability=deathtouch
+}
+
+# 12 gain trample 
+12,2 {
+filter:type=Instant,type=Sorcery,type=Enchantment,color=b,color=g,anytype,anycolor,text=creatures,text=trample,notext=infect
+}
+
+# 4 removal
+4,2 {
+filter:type=Instant,type=Sorcery,color=b,color=g,anytype,text=destroy target
+}
+
+# 2 trample aura 
+2,1 {
+filter:subtype=Aura,color=b,color=g,anycolor,text=gets,text=trample
+}
+
+# 24 lands
+6,6 {
+Forest
+}
+6,6 {
+Swamp
+}
+12,3 {
+filter:type=Land,mana=b,mana=g
+}
