@@ -1,0 +1,32 @@
+!r,Burn
+!mono red with burn and no creatures
+
+# 10 main
+10,3 {
+Ensnaring Bridge
+Pyrite Spellbomb
+Seal of Fire
+Reverberate
+}
+
+# 4 legendary
+4,2 {
+Hazoret the Fervent
+Solphim, Mayhem Dominus
+}
+
+# 24 burn spells
+24,3 {
+filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to target player
+filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to target creature or player
+filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to any target
+filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to all
+} 
+
+# 22 lands
+20,20 {
+Mountain
+}
+2,2 {
+Sunscorched Desert
+}

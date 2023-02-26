@@ -2,7 +2,10 @@ u,Colorless
 !random colorless cards
 
 # 30 spells
-30,2 {
+1,1 {
+All Is Dust
+}
+29,2 {
 filter:type=Artifact,type=Creature,anytype,colorless,notext=devoid
 Transguild Courier
 Scour from Existence

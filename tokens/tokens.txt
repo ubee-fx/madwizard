@@ -22,6 +22,7 @@
 1_1_blue_Thopter_artifact_creature_token_with_flying=https://scryfall.com/card/t2xm/8/thopter
 1_1_blue_and_black_Horror_creature_token_with_flying=https://scryfall.com/card/tgtc/5/horror
 1_1_blue_and_black_Zombie_Wizard_creature_token=https://scryfall.com/card/tarb/4/zombie-wizard
+1_1_blue_and_red_Insect_creature_token_with_flying_and_haste=https://scryfall.com/card/tc20/18/insect
 1_1_colorless_Construct_artifact_creature_token=https://scryfall.com/card/tclb/16/construct
 1_1_colorless_Construct_artifact_creature_token_with_defender=https://scryfall.com/card/tcns/8/construct
 1_1_colorless_Myr_artifact_creature_token=https://scryfall.com/card/tc21/28/myr
@@ -36,6 +37,7 @@
 1_1_green_Insect_creature_token=https://scryfall.com/card/tmh2/13/insect
 1_1_green_Insect_creature_token_with_flying_and_deathtouch=https://scryfall.com/card/tclb/40/insect
 1_1_green_Insect_creature_token_with_infect=https://scryfall.com/card/tsom/4/insect
+1_1_green_Phyrexian_Insect_creature_token_with_infect=https://scryfall.com/card/tonc/15/phyrexian-insect
 1_1_green_Saproling_creature_token=https://scryfall.com/card/tdmu/18/saproling
 1_1_green_Snake_creature_token=https://scryfall.com/card/tdmc/11/snake
 1_1_green_Spike_creature_token=
@@ -97,8 +99,8 @@
 2_2_green_Ooze_creature_token=https://scryfall.com/card/trna/7/ooze
 2_2_green_Wolf_creature_token=https://scryfall.com/card/t2xm/19/wolf
 2_2_green_and_white_Elf_Knight_creature_token_with_vigilance=https://scryfall.com/card/tgrn/6/elf-knight
-2_2_red_and_green_Satyr_creature_token_with_haste=https://scryfall.com/card/tclb/46/satyr
 2_2_red_Rebel_creature_token=https://scryfall.com/card/tone/5/rebel
+2_2_red_and_green_Satyr_creature_token_with_haste=https://scryfall.com/card/tclb/46/satyr
 2_2_white_Astartes_Warrior_creature_token_with_vigilance=https://scryfall.com/card/t40k/1/astartes-warrior
 2_2_white_Griffin_creature_token_with_flying=https://scryfall.com/card/tdmc/1/griffin
 2_2_white_Knight_Ally_creature_token=https://scryfall.com/card/tbfz/5/knight-ally
@@ -111,6 +113,7 @@
 3_1_red_Elemental_creature_token_with_haste=https://scryfall.com/card/tc20/10/elemental
 3_2_colorless_Eldrazi_Horror_creature_token=https://scryfall.com/card/tclb/21/eldrazi-horror
 3_2_red_and_white_Spirit_creature_token=https://scryfall.com/card/tstx/6/spirit
+3_3_black_Kavu_creature_token=
 3_3_colorless_Golem_artifact_creature_token=https://scryfall.com/card/tm20/9/golem
 3_3_colorless_Golem_enchantment_artifact_creature_token=https://scryfall.com/card/tths/10/golem
 3_3_colorless_Phyrexian_Golem_artifact_creature_token=https://scryfall.com/card/t2x2/21/phyrexian-golem
@@ -134,9 +137,9 @@
 4_4_green_Elemental_creature_token=https://scryfall.com/card/tuma/13/elemental
 4_4_green_Rhino_Warrior_creature_token=https://scryfall.com/card/tsnc/11/rhino-warrior
 4_4_green_Rhino_creature_token_with_trample=https://scryfall.com/card/tc19/18/rhino
-4_4_red_and_white_Golem_artifact_creature_token=https://scryfall.com/card/tmh2/12/golem
 4_4_red_Dragon_creature_token_with_flying=https://scryfall.com/card/tclb/11/dragon
 4_4_red_Giant_creature_token=https://scryfall.com/card/ttsr/7/giant
+4_4_red_and_white_Golem_artifact_creature_token=https://scryfall.com/card/tmh2/12/golem
 4_4_white_Angel_creature_token_with_flying=https://scryfall.com/card/t2xm/3/angel
 4_4_white_Angel_creature_token_with_flying_and_vigilance=https://scryfall.com/card/tdmu/1/angel
 5_5_black_Demon_creature_token_with_flying=https://scryfall.com/card/t2xm/9/demon
@@ -151,5 +154,8 @@
 6_6_green_Wurm_creature_token=https://scryfall.com/card/tc19/21/wurm
 6_6_red_Dragon_creature_token_with_flying=https://scryfall.com/card/tc17/7/dragon
 8_8_Beast_creature_token=https://scryfall.com/card/tala/10/beast
+8_8_Beast_creature_token_that_s_red__green__and_white=https://scryfall.com/card/tala/10/beast
 9_9_colorless_Golem_artifact_creature_token=https://scryfall.com/card/tmbs/3/golem
 Metallic_Sliver_creature_token=https://scryfall.com/card/ttsr/15/metallic-sliver
+Walker_creature_token=https://scryfall.com/card/sld/151/walker
+Wasp_creature_token=https://scryfall.com/card/t30a/16/wasp

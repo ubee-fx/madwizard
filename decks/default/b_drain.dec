@@ -1,0 +1,57 @@
+!b,Drain
+!mono black life drain without creatures
+
+# 8 main 
+8,2 {
+Languish
+Damnation
+Sanguine Bond
+Ensnaring Bridge
+}
+
+# 12 life drain spells
+12,3 {
+filter:type=Instant,type=Sorcery,anytype,color=b,text=damage to target player,text=you gain
+filter:type=Instant,type=Sorcery,anytype,color=b,text=player loses,text=you gain
+}
+
+# 10 removal spells 
+10,3 {
+filter:subtype=Aura,color=b,maxCost=3,text=enchanted creature attacks or blocks,text=its controller loses
+filter:type=Instant,type=Sorcery,anytype,color=b,maxCost=4,text=damage to target creature,text=you gain
+filter:type=Instant,type=Sorcery,anytype,color=b,maxCost=4,text=destroy target,text=you gain
+filter:type=Instant,type=Sorcery,anytype,color=b,maxCost=5,text=destroy target,text=its controller loses
+}
+
+# 4 enchantments
+4,1 {
+Bitterblossom
+Phyrexian Arena
+Dogged Pursuit
+Underworld Dreams
+Revenge of Ravens
+Blood Reckoning
+Hissing Miasma
+No Mercy
+}
+
+# 3 artifacts 
+3,1 {
+Onyx Goblet
+Pacification Array
+Icy Manipulator
+Trip Noose
+Rod of Ruin
+Staff of Nin
+Fodder Tosser
+Moonglove Extract
+Meteorite
+}
+
+# 23 lands
+19,19 {
+Swamp
+}
+4,4 {
+Piranha Marsh
+}
