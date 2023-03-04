@@ -36,6 +36,13 @@ Charcoal Diamond
 Manifold Key
 }
 
+# 1 vehicle
+1,1 {
+Cultivator's Caravan
+Skysovereign, Consul Flagship
+Thunderhawk Gunship
+}
+
 # 6 colorless
 6,1 {
 Manakin
@@ -67,8 +74,8 @@ Nim Shrieker
 Nim Shambler
 }
 
-# 10 black
-10,2 {
+# 9 black
+9,2 {
 Venomcrawler
 Phyrexian Crusader
 Nim Grotesque

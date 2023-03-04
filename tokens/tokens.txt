@@ -56,6 +56,7 @@
 1_1_red_and_white_Soldier_creature_token_with_haste=https://scryfall.com/card/tncc/33/soldier
 1_1_white_Bird_creature_token_with_flying=https://scryfall.com/card/tdmu/2/bird
 1_1_white_Cat_Bird_creature_token_with_flying=https://scryfall.com/card/tiko/2/cat-bird
+1_1_white_Cat_Soldier_creature_token_with_vigilance=https://scryfall.com/card/tbng/2/cat-soldier
 1_1_white_Cat_creature_token_with_lifelink=https://scryfall.com/card/tiko/1/cat
 1_1_white_Citizen_creature_token=https://scryfall.com/card/tuma/1/citizen
 1_1_white_Dog_creature_token=https://scryfall.com/card/tm21/19/dog
@@ -130,7 +131,7 @@
 3_3_white_Bird_creature_token_with_flying=https://scryfall.com/card/tc19/2/bird
 3_3_white_Spirit_creature_token_with_flying=https://scryfall.com/card/tvoc/3/spirit
 4_2_green_Beast_creature_token=https://scryfall.com/card/takh/21/beast
-4_4_black_Zombie_Warrior_creature_token_with_vigilance=
+4_4_black_Zombie_Warrior_creature_token_with_vigilance=https://scryfall.com/card/twar/11/zombie-warrior
 4_4_blue_and_red_Elemental_creature_token=https://scryfall.com/card/tstx/2/elemental
 4_4_green_Bear_creature_token=https://scryfall.com/card/t2x2/14/bear
 4_4_green_Beast_creature_token=https://scryfall.com/card/tc21/11/beast

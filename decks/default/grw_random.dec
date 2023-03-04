@@ -3,6 +3,7 @@
 
 # 4 core spells
 4,1 {
+Wild Nacatl
 Druid of the Anima
 filter:color=g,color=r,color=w,anycolor,multicolor,text=Liege
 filter:colorless,color=g,color=r,color=w,anycolor,text=you cast a multicolored

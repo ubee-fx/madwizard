@@ -14,8 +14,13 @@ Purphoros, God of the Forge
 Xenagos, God of Revels
 }
 
-# 9 multi-color creatures
-9,2 {
+# 1 vehicle
+1,1 {
+Aradara Express
+}
+
+# 8 multi-color creatures
+8,2 {
 filter:type=Creature,color=r,color=g
 }
 

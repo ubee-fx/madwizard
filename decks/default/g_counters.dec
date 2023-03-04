@@ -25,6 +25,8 @@ Primordial Hydra
 16,2 {
 filter:type=Creature,color=g,text=+1/+1 counter
 filter:type=Creature,colorless,text=+1/+1 counter
+Goliath Truck
+Untethered Express
 }
 
 # 10 other
