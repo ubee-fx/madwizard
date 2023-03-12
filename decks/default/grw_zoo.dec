@@ -1,0 +1,90 @@
+!grw,Zoo
+!green, red and white Naya zoo aggro
+
+# 12 core creatures
+12,4 {
+Wild Nacatl
+Kird Ape
+Loam Lion
+}
+
+# 4 X creatures
+4,2 {
+Shivan Devastator
+Mistcutter Hydra
+}
+
+# 6 creatures
+6,2 {
+Monastery Swiftspear
+Fanatical Firebrand
+Goldhound
+Scute Mob
+Almighty Brushwagg
+Experiment One
+Soldier of the Pantheon
+Swooping Lookout
+Battlefield Raptor
+Monastery Mentor
+}
+
+# 4 mana creatures
+1,1 {
+Azusa, Lost but Seeking
+}
+3,2 {
+Noble Hierarch
+Ignoble Hierarch
+Druid of the Anima
+Birds of Paradise
+}
+
+# 12 spells
+12,2 {
+Goblin Bombardment
+Shock
+Lightning Bolt
+Brute Force
+Infuriate
+Expedite
+Fervent Strike
+Charge
+Mana Tithe
+Defiant Strike
+Seize the Initiative 
+Wings of the Cosmos
+Swords to Plowshares
+Battlegrowth
+Giant Growth
+Massive Might
+Mutagenic Growth
+Charge Through
+Exploration
+}
+
+# 2 vehicles
+2,1 {
+Cultivator's Caravan
+Bomat Bazaar Barge
+Esika's Chariot
+Goliath Truck
+Ribskiff
+}
+
+# 20 lands
+4,4 {
+Forest
+}
+4,2 {
+Mountain
+Plains
+}
+4,2 {
+filter:type=Land,subType=Forest,subType=Plains
+}
+4,2 {
+filter:type=Land,subType=Forest,subType=Mountain
+}
+4,2 {
+filter:type=Land,subType=Mountain,subType=Plains
+}
