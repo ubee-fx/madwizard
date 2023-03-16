@@ -24,42 +24,50 @@ Almighty Brushwagg
 Experiment One
 Soldier of the Pantheon
 Swooping Lookout
-Battlefield Raptor
 Monastery Mentor
+Burning-Tree Emissary
 }
 
 # 4 mana creatures
-1,1 {
-Azusa, Lost but Seeking
-}
-3,2 {
+4,2 {
 Noble Hierarch
 Ignoble Hierarch
 Druid of the Anima
 Birds of Paradise
 }
 
-# 12 spells
-12,2 {
-Goblin Bombardment
+# 6 core spells
+6,2 {
 Shock
 Lightning Bolt
-Brute Force
-Infuriate
+Goblin Bombardment
+Reprieve
+Mana Tithe
+Swords to Plowshares
+Exploration
+Audacity
+Rancor
+}
+
+# 3 cantrip spells
+3,2 {
 Expedite
+Defiant Strike
+Charge Through
+}
+
+# 3 pump spells
+3,1 {
+Infuriate
+Brute Force
 Fervent Strike
 Charge
-Mana Tithe
-Defiant Strike
-Seize the Initiative 
+Seize the Initiative
 Wings of the Cosmos
-Swords to Plowshares
 Battlegrowth
 Giant Growth
 Massive Might
 Mutagenic Growth
-Charge Through
-Exploration
 }
 
 # 2 vehicles
