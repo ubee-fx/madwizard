@@ -16,6 +16,8 @@ Viashino Pyromancer
 Fire Servant
 Murderous Redcap
 Kessig Flamebreather
+Priest of Urabrask
+Vestige of Emrakul
 }
 5,1 {
 Hazoret the Fervent
@@ -40,7 +42,8 @@ Dragonwing Glider
 Solphim, Mayhem Dominus
 Charging Tuskodon
 Scourge of Geier Reach
-Priest of Urabrask
+Embermaw Hellion
+Torbran, Thane of Red Fell
 }
 
 # 24 spells
@@ -70,16 +73,19 @@ Storm's Wrath
 Earthquake
 Blaze
 Inescapable Blaze
+Mechanized Warfare
 }
 
 # 1 artifacts
 1,1 {
 Mox Ruby
+Fire Diamond
 Pyrite Spellbomb
 Flamecast Wheel
 Tower of Calamities
 Staff of Nin
 Lightning Spear
+Moonglove Extract
 }
 
 # 22 lands
