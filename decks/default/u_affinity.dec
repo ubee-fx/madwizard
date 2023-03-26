@@ -7,18 +7,18 @@ Master of Etherium
 Etched Champion
 Nettlecyst
 Esperzoa
+Lumengrid Sentinel
 }
 
 # 18 affinity
 12,3 {
 filter:type=Creature,type=Artifact,anytype,color=u,colorless,text=affinity for artifacts
 }
-3,1 {
+2,1 {
 Myr Enforcer
-Broodstar
 Frogmite
 }
-3,3 {
+4,4 {
 Thoughtcast
 }
 
