@@ -47,6 +47,9 @@ Magnigoth Sentry
 Brood Weaver
 Paragon of Eternal Wilds
 Rhonas the Indomitable
+Ghirapur Guide
+Steel Leaf Champion
+Enraged Ceratok
 }
 5,2 {
 Elfhame Wurm
@@ -64,7 +67,7 @@ Silklash Spider
 Heroes' Bane
 Kalonian Hydra
 }
-3,2 {
+3,1 {
 Destructor Dragon
 Rampaging Baloths
 Terra Stomper
@@ -76,6 +79,7 @@ Craterhoof Behemoth
 Cragplate Baloth
 Giant Adephage
 Zopandrel, Hunger Dominus
+Surrak and Goreclaw
 }
 
 # 8 spells
@@ -114,6 +118,7 @@ Blanchwood Armor
 Audacity
 Exploration
 Elemental Bond
+Tribute to the World Tree
 }
 4,2 {
 Bear Umbra
