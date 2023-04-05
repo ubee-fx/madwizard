@@ -3,6 +3,7 @@
 
 # 4 core spells
 4,1 {
+Bloodhall Ooze
 Ignoble Hierarch
 filter:color=b,color=g,color=r,anycolor,multicolor,text=Liege
 filter:colorless,color=b,color=g,color=r,anycolor,text=you cast a multicolored
