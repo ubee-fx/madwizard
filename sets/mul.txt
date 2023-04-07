@@ -1,3 +1,12 @@
+name=Anafenza, Kin-Tree Spirit
+cost={W}{W}
+type=Legendary
+type=Creature
+subtype=Spirit
+subtype=Soldier
+stats=2/2
+rule=Whenever another nontoken creature enters the battlefield under your control, bolster 1. 
+url=https://scryfall.com/card/mul/1/anafenza-kin-tree-spirit
 name=Daxos, Blessed by the Sun
 cost={W}{W}
 type=Legendary

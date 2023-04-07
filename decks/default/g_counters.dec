@@ -21,12 +21,14 @@ Managorger Hydra
 Kalonian Hydra
 Primordial Hydra
 Scute Mob
+Conclave Sledge-Captain
 }
 
 # 16 creatures
 16,2 {
 filter:type=Creature,color=g,text=+1/+1 counter
 filter:type=Creature,colorless,text=+1/+1 counter
+Serpent-Blade Assailant
 Goliath Truck
 Untethered Express
 }

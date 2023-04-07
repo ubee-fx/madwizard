@@ -37,6 +37,7 @@ Scuzzback Marauders
 Battle Squadron
 Siege-Gang Commander
 Murderous Redcap
+Redcap Heelslasher
 }
 6,1 {
 filter:type=Creature,color=r,anycolor,text=goblin
