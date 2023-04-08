@@ -1,0 +1,61 @@
+!uw,Knight UW
+!blue and white knights
+
+# main
+4,2 {
+Marshal of Zhalfir
+Thistledown Liege
+}
+
+# multi-color
+8,2 {
+filter:type=Creature,subtype=Knight,color=u,color=w
+}
+
+# white
+6,2 {
+filter:type=Creature,subtype=Knight,color=w
+}
+
+# blue
+6,2 {
+filter:type=Creature,subtype=Knight,color=u
+}
+
+# spells
+8,2 {
+Absorb
+Offering to Asha
+Fall of the Gavel
+Dramatic Rescue
+Turn to Mist
+Essence Scatter
+Reprieve
+}
+
+# enchantments
+4,2 {
+Angelic Shield
+Steel of the Godhead
+Chivalric Alliance
+Military Intelligence
+}
+
+# 24 lands
+6,6 {
+Plains
+}
+6,6 {
+Island
+}
+2,1 {
+Sandstone Bridge
+Kabira Crossroads
+Soaring Seacliff
+}
+8,2 {
+filter:type=Land,mana=u,mana=w
+}
+2,2 {
+Arcane Sanctum
+}
