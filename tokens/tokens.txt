@@ -28,7 +28,6 @@
 1_1_colorless_Construct_artifact_creature_token_with_defender=https://scryfall.com/card/tcns/8/construct
 1_1_colorless_Myr_artifact_creature_token=https://scryfall.com/card/tc21/28/myr
 1_1_colorless_Pentavite_artifact_creature_token_with_flying=https://scryfall.com/card/tcm2/13/pentavite
-1_1_colorless_Phyrexian_Mite_creature_token=https://scryfall.com/card/tone/12/phyrexian-mite
 1_1_colorless_Servo_artifact_creature_token=https://scryfall.com/card/tafc/11/servo
 1_1_colorless_Shapeshifter_creature_token_with_changeling=https://scryfall.com/card/tclb/22/shapeshifter
 1_1_colorless_Sliver_creature_token=https://scryfall.com/card/tm15/1/sliver
