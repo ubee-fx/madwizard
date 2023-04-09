@@ -1,0 +1,71 @@
+!grw,Combo
+!green, red and white combo deck
+
+# 4 core
+4,4 {
+Tamanoa
+}
+
+# 4 mana creatures
+4,2 {
+Noble Hierarch
+Ignoble Hierarch
+Druid of the Anima
+Birds of Paradise
+}
+
+# 1 multi-color
+1,1 {
+Fleetfoot Dancer
+Retaliator Griffin
+Woolly Thoctar
+}
+
+# 3 backup
+1,1 {
+Bright-Palm, Soul Awakener
+}
+2,1 {
+filter:type=Creature,color=g,color=r,color=w,anycolor,text=backup 1
+}
+
+# 4 core spells
+4,2 {
+Lightning Bolt
+Lightning Helix
+}
+
+# 12 damage spells
+12,2 {
+filter:type=Instant,type=Sorcery,color=g,color=r,color=w,anycolor,anytype,maxCost=4,text=damage to,text=target
+}
+
+# when enters you gain, when gain life, if gained life
+8,2 {
+filter:type=Creature,type=Enchantment,color=g,color=r,color=w,anycolor,anytype,text=whenever you gain life
+filter:type=Creature,type=Enchantment,color=g,color=r,color=w,anycolor,anytype,text=if you gained,text=life this turn
+filter:type=Creature,type=Enchantment,color=g,color=r,color=w,anycolor,anytype,text=creature enters the battlefield,text=you gain
+}
+
+# 24 lands
+3,3 {
+Mountain
+}
+3,3 {
+Plains
+}
+2,2 {
+Forest
+}
+4,2 {
+filter:type=Land,mana=g,mana=r
+}
+4,2 {
+filter:type=Land,mana=r,mana=w
+}
+4,2 {
+filter:type=Land,mana=g,mana=w
+}
+4,4 {
+filter:type=Land,mana=g,mana=r,mana=w
+}
