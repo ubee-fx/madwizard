@@ -22,7 +22,7 @@
 1_1_blue_Thopter_artifact_creature_token_with_flying=https://scryfall.com/card/t2xm/8/thopter
 1_1_blue_and_black_Horror_creature_token_with_flying=https://scryfall.com/card/tgtc/5/horror
 1_1_blue_and_black_Zombie_Wizard_creature_token=https://scryfall.com/card/tarb/4/zombie-wizard
-1_1_blue_and_red_Elemental_creature_token=
+1_1_blue_and_red_Elemental_creature_token=https://scryfall.com/card/tmom/9/elemental
 1_1_blue_and_red_Insect_creature_token_with_flying_and_haste=https://scryfall.com/card/tc20/18/insect
 1_1_colorless_Construct_artifact_creature_token=https://scryfall.com/card/tclb/16/construct
 1_1_colorless_Construct_artifact_creature_token_with_defender=https://scryfall.com/card/tcns/8/construct
@@ -108,7 +108,7 @@
 2_2_white_Knight_Ally_creature_token=https://scryfall.com/card/tbfz/5/knight-ally
 2_2_white_Knight_creature_token_with_vigilance=https://scryfall.com/card/tdmc/3/knight
 2_2_white_Pegasus_creature_token_with_flying=https://scryfall.com/card/tthb/3/pegasus
-2_2_white_and_blue_Knight_creature_token_with_vigilance=custom://uw_knight
+2_2_white_and_blue_Knight_creature_token_with_vigilance=https://scryfall.com/card/tmom/10/knight
 2_3_red_Minotaur_creature_token_with_haste=https://scryfall.com/card/pl21/2%E2%98%85/minotaur
 2_4_black_Spider_creature_token_with_reach=https://scryfall.com/card/ttsr/6/spider
 2_5_green_Treefolk_Shaman_creature_token=https://scryfall.com/card/tmma/13/treefolk-shaman
