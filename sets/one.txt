@@ -1495,7 +1495,6 @@ subtype=Phyrexian
 subtype=Knight
 stats=6/7
 rule=Toxic 6 
-rule=this creature also get six poison counters.)</i>
 rule=Paladin of Predation can't be blocked by creatures with power 2 or less.
 url=https://scryfall.com/card/one/178/paladin-of-predation
 name=Plague Nurse
