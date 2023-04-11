@@ -1,0 +1,60 @@
+!bgw,Toxic
+!black, green and white toxic
+
+# 6 main creatures
+1,1 {
+Vishgraz, the Doomhive
+}
+5,2 {
+Necrogen Rotpriest
+Mite Overseer
+Siege Rhino
+}
+
+# 18 toxic creatures
+18,2 {
+filter:type=Creature,color=b,color=g,color=w,anycolor,colorless,text=toxic,notext=vishgraz
+filter:type=Creature,color=b,color=g,color=w,anycolor,colorless,text=phyrexian mite,notext=vishgraz
+filter:type=Creature,color=b,color=g,color=w,anycolor,colorless,text=three or more poison counters
+}
+
+# 8 spells
+8,2 {
+filter:type=Instant,type=Sorcery,color=b,color=g,color=w,anytype,anycolor,text=you control,text=indestructible,text=until end of turn,notext=inspiring
+filter:type=Instant,type=Sorcery,color=b,color=g,color=w,anytype,anycolor,text=creatures you control,text=lifelink,text=until end of turn
+filter:type=Instant,type=Sorcery,color=b,color=g,color=w,anytype,anycolor,text=target creature,text=indestructible,text=until end of turn
+filter:type=Instant,type=Sorcery,color=b,color=g,color=w,anytype,anycolor,text=target creature,text=lifelink,text=until end of turn
+}
+
+# 4 enchantments and artifacts
+2,2 {
+Skrelv's Hive
+}
+2,1 {
+Ajani's Welcome
+Infested Fleshcutter
+Abzan Ascendancy
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Plains
+}
+2,2 {
+Forest
+}
+4,2 {
+filter:type=Land,mana=b,mana=g
+}
+4,2 {
+filter:type=Land,mana=g,mana=w
+}
+3,2 {
+filter:type=Land,mana=b,mana=w
+}
+3,3 {
+filter:type=Land,mana=b,mana=g,mana=w
+}

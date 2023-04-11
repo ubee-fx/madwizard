@@ -1,117 +1,41 @@
 !bg,Infect
 !black and green infect and wither
 
-# 2 main creatures
-2,1 {
+# 6 main
+4,1 {
 Skithiryx, the Blight Dragon
 Phyrexian Juggernaut
+Yargle and Multani
+Trigon of Infestation
 }
-
-# 8 key infect creatures
-8,2 {
-Glistener Elf
-Phyrexian Crusader
-Plague Stinger
-Cystbearer
-Septic Rats
-Phyrexian Vatmother
+2,2 {
 Hand of the Praetors
 }
 
-# 12 infect and toxic creatures
-12,2 {
-Vector Asp
-Blight Mamba
-Flensermite
-Ichorclaw Myr
-Necropede
-Plague Myr
-Contagious Nim
-Phyrexian Digester
-Viridian Betrayers
-Viridian Corrupter
-Blackcleave Goblin
-Blightwidow
-Flesh-Eater Imp
-Tel-Jilad Fallen
-Scourge Servant
-Toxic Nim
-Bilious Skulldweller
-Pestilent Syphoner
-Ichorspit Basilisk
-Sheoldred's Headcleaver
-Branchblight Stalker
-Tyrranax Atrocity
-Ribskiff
-Stinging Hivemaster
-Paladin of Predation
-Necrogen Rotpriest
-Nimraiser Paladin
+# 14 infect creatures
+14,2 {
+filter:type=Creature,color=b,color=g,anycolor,colorless,ability=infect
 }
 
-# 4 wither and other creatures
+# 4 wither creatures
 4,1 {
-Twinblade Slasher
-Juvenile Gloomwidow
-Sickle Ripper
-Rendclaw Trow
-Smoldering Butcher
-Wildslayer Elves
-Kulrath Knight
-Bonepicker Skirge
+filter:type=Creature,color=b,color=g,anycolor,colorless,ability=wither
 }
 
-# 3 infect spells
-3,1 {
-Tainted Strike
-Carrion Call
-Trigon of Infestation
-Triumph of the Hordes
+# 8 spells
+8,2 {
+filter:type=Instant,type=Sorcery,color=b,color=g,anytype,anycolor,text=infect
+filter:type=Instant,type=Sorcery,color=b,color=g,anytype,anycolor,text=creatures you control,text=trample,text=until end of turn
+filter:type=Instant,type=Sorcery,color=b,color=g,anytype,anycolor,text=creatures you control,text=deathtouch,text=until end of turn
+filter:type=Instant,type=Sorcery,color=b,color=g,anytype,anycolor,text=target creature,text=trample,text=until end of turn
+filter:type=Instant,type=Sorcery,color=b,color=g,anytype,anycolor,text=target creature,text=deathtouch,text=until end of turn
 }
 
-# 4 pump spells
+# 4 enchantments
 4,1 {
-Coat with Venom
-Giant Growth
-Lash of Thorns
-Aim High
-Unnatural Predation
-Gift of Strength
-Grotesque Mutation
-Larger Than Life
-Phytoburst
-Predator's Strike
-Rush of Vitality
-Savage Surge
-Titanic Growth
-Tread Upon
-Unlikely Aid
-Awaken the Bear
-Confidence from Strength
-Crash the Ramparts
-Spidery Grasp
-Wildsize
-Might of Oaks
-Sudden Strength
-Vines of the Recluse
-Overcome
-Overrun
-Bull's Strength
-Mutagenic Growth
-Massive Might
-Offer Immortality
-}
-
-# 3 enchantments
-3,1 {
-Rancor
-Audacity
-Gaea's Embrace
-Epic Proportions
-Prodigious Growth
-Unholy Strength
-Dark Favor
-Mark of the Vampire
+filter:subtype=Aura,color=b,color=g,anycolor,text=gets,text=trample
+filter:subtype=Aura,color=b,color=g,anycolor,text=gets,text=deathtouch
+filter:subtype=Aura,color=b,color=g,anycolor,text=gets,text=lifelink
 }
 
 # 24 lands
