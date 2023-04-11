@@ -35,9 +35,10 @@ Panharmonicon
 }
 
 # 10 spells
-8,4 {
+8,3 {
 Turn to Mist
 Ghostway
+Acrobatic Maneuver
 }
 2,2 {
 Swords to Plowshares
