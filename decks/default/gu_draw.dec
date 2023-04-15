@@ -1,0 +1,41 @@
+!gu,Draw
+!green and blue card draw
+
+# 4 main
+4,1 {
+Jolrael, Voice of Zhalfir
+Tishana, Voice of Thunder
+Kruphix, God of Horizons 
+Aesi, Tyrant of Gyre Strait
+}
+
+# 30 relevant cards
+30,2 {
+filter:color=g,color=u,anycolor,colorless,text=no maximum hand size
+filter:color=g,color=u,anycolor,colorless,text=draw,notext=discard,notext=dragon,notext=inspiring,notext=sacrifice
+filter:color=g,color=u,anycolor,colorless,text=number of cards in your hand,notext=ensnaring
+filter:color=g,color=u,anycolor,colorless,text=additional land
+filter:color=g,color=u,anycolor,colorless,text=counter target
+}
+
+# 3 equipment
+1,1 {
+Empyrial Plate
+}
+2,2 {
+filter:subtype=Equipment,equipment,color=g,color=u,anycolor,colorless,text=draw
+}
+
+# 23 lands
+5,5 {
+Island
+}
+4,4 {
+Forest
+}
+2,2 {
+Reliquary Tower
+}
+12,3 {
+filter:type=Land,mana=g,mana=u
+}
