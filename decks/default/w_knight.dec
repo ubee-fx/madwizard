@@ -33,6 +33,7 @@ Mirror Entity
 Twinblade Paladin
 Zhalfirin Lancer
 Sigiled Sentinel
+Kwende, Pride of Femeref
 }
 6,1 {
 filter:type=Creature,subtype=Knight,color=w
