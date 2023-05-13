@@ -104,16 +104,16 @@ Military Intelligence
 }
 
 # 24 lands
-6,6 {
+5,5 {
 Island
 }
-6,6 {
+5,5 {
 Mountain
 }
-3,3 {
+4,4 {
 Plains
 }
-3,3 {
+4,4 {
 Mystic Monastery
 }
 6,1 {
