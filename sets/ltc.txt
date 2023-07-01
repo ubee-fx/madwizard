@@ -634,9 +634,9 @@ cost={3}{G}{U}
 type=Enchantment
 subtype=Saga
 stats=
-rule=I= Scry 2, then draw two cards.
-rule=II= Create a Treasure token and a 2/2 blue Bird creature token with flying.
-rule=III= Put a flying counter on each creature you control without flying.
+rule=I = Scry 2, then draw two cards.
+rule=II = Create a Treasure token and a 2/2 blue Bird creature token with flying.
+rule=III = Put a flying counter on each creature you control without flying.
 url=https://scryfall.com/card/ltc/69/song-of-e%C3%A4rendil
 name=Summons of Saruman
 cost={X}{U}{R}

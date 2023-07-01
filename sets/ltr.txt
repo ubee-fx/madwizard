@@ -333,7 +333,6 @@ cost={3}{U}
 type=Enchantment
 subtype=Saga
 stats=
-rule=step, add a lore counter. Sacrifice after III.)</i>
 rule=I, II = Draw two cards, then discard a card.
 rule=III = Shuffle any number of target cards from your graveyard into your library. Add {U}{U}.
 url=https://scryfall.com/card/ltr/40/the-bath-song
@@ -1697,7 +1696,7 @@ name=Gandalf's Sanction
 cost={1}{U}{R}
 type=Sorcery
 stats=
-rule=Gandalf's Sanction deals X damage to target creature, where X is the number of instant and sorcery spells in your graveyard. Excess damage is dealt to that creature's controller instead.
+rule=Gandalf's Sanction deals X damage to target creature, where X is the number of instant and sorcery cards in your graveyard. Excess damage is dealt to that creature's controller instead.
 url=https://scryfall.com/card/ltr/208/gandalfs-sanction
 name=Gimli, Mournful Avenger
 cost={1}{R}{G}
