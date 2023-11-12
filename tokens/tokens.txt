@@ -26,6 +26,7 @@
 1_1_blue_and_red_Insect_creature_token_with_flying_and_haste=https://scryfall.com/card/tc20/18/insect
 1_1_colorless_Construct_artifact_creature_token=https://scryfall.com/card/tclb/16/construct
 1_1_colorless_Construct_artifact_creature_token_with_defender=https://scryfall.com/card/tcns/8/construct
+1_1_colorless_Gnome_artifact_creature_token=https://scryfall.com/card/tlci/16/gnome
 1_1_colorless_Myr_artifact_creature_token=https://scryfall.com/card/tc21/28/myr
 1_1_colorless_Pentavite_artifact_creature_token_with_flying=https://scryfall.com/card/tcm2/13/pentavite
 1_1_colorless_Servo_artifact_creature_token=https://scryfall.com/card/tafc/11/servo
