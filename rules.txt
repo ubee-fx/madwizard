@@ -39,6 +39,7 @@ All creatures have double strike and attack each combat if able.
 All creatures have haste.
 All damage that would be dealt to you is dealt to Empyrial Archangel instead.
 All damage that would be dealt to you is dealt to enchanted creature instead.
+All enchanted creatures you control get +2/+2.
 Alpine Meadow enters the battlefield tapped.
 Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.
 Arcane Sanctum enters the battlefield tapped.
@@ -147,6 +148,7 @@ Ashenmoor Cohort gets +1/+1 as long as you control another black creature.
 Ashenmoor Gouger can't block.
 At the beginning of combat on your turn, another target creature you control gains double strike until end of turn.
 At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power.
+At the beginning of combat on your turn, another target creature you control gets +1/+0 until end of turn.
 At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.
 At the beginning of combat on your turn, each player mills three cards.
 At the beginning of combat on your turn, populate.
@@ -157,11 +159,13 @@ At the beginning of combat on your turn, target creature you control gains doubl
 At the beginning of combat on your turn, target creature you control gains indestructible until end of turn.
 At the beginning of combat on your turn, target creature you control gets +1/+0 and gains vigilance until end of turn.
 At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.
+At the beginning of combat on your turn, target creature you control gets +2/+0 and gains vigilance until end of turn.
 At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn.
 At the beginning of combat on your turn, up to one target land you control becomes an X/X green and blue Bird creature with flying and haste until end of turn, where X is the number of cards in your hand. It's still a land.
 At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.
 At the beginning of each combat, double the power and toughness of each creature you control until end of turn.
 At the beginning of each combat, if you have more life than an opponent, Glorious Enforcer gains double strike until end of turn.
+At the beginning of each end step, if you gained 3 or more life this turn, draw a card.
 At the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
 At the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying.
 At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
@@ -171,6 +175,7 @@ At the beginning of each opponent's upkeep, if that player has two or fewer card
 At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to that player.
 At the beginning of each opponent's upkeep, that player sacrifices a creature.
 At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.
+At the beginning of each player's upkeep, that player discards a card at random.
 At the beginning of each player's upkeep, that player discards a card.
 At the beginning of each player's upkeep, that player sacrifices an artifact.
 At the beginning of each upkeep, Magmatic Force deals 3 damage to any target.
@@ -352,6 +357,7 @@ Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.
 Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.
 Copy target instant or sorcery spell. You may choose new targets for the copy.
 Corrosive Gale deals X damage to each creature with flying.
+Cosmium Blast deals 4 damage to target attacking or blocking creature.
 Counter target artifact or creature spell unless its controller pays {4}.
 Counter target creature spell.
 Counter target creature spell. Create a 1/1 blue Spirit creature token with flying.
@@ -455,6 +461,7 @@ Creatures you control have haste and attack each combat if able.
 Creatures you control have haste.
 Creatures you control have hexproof.
 Creatures you control have menace.
+Creatures you control have prowess.
 Creatures you control have trample.
 Creatures you control have vigilance.
 Creatures you control that are equipped get +1/+0.
@@ -584,6 +591,7 @@ Destroy target nonblack creature. Its controller loses 2 life.
 Destroy target noncreature permanent.
 Destroy target nonland permanent and all other permanents with the same name as that permanent.
 Destroy target nonland permanent.
+Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token.
 Destroy target nonwhite permanent.
 Destroy target permanent.
 Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
@@ -1094,6 +1102,7 @@ Intimidate
 Invisible Stalker can't be blocked.
 Iron-Barb Hellion can't block.
 Islandwalk
+Islandwalk, swampwalk
 Isleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.
 Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
 Ivy Elemental enters the battlefield with X +1/+1 counters on it.
@@ -1274,6 +1283,7 @@ Other creatures you control have exalted.
 Other creatures you control have haste.
 Other creatures you control have trample.
 Other creatures you control have vigilance.
+Other creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.
 Other creatures you control with flying get +0/+1.
 Other creatures you control with flying get +1/+0.
 Other creatures you control with flying get +1/+1.
@@ -1385,6 +1395,7 @@ Reality Hemorrhage deals 2 damage to any target.
 Reckless Brute attacks each combat if able.
 Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.
 Red creatures you control have first strike.
+Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.
 Regenerate each creature you control.
 Regenerate target creature.
 Regenerate target permanent.
@@ -1695,6 +1706,7 @@ Target creature gets +1/+1 until end of turn. Untap that creature.
 Target creature gets +1/+2 and gains deathtouch until end of turn.
 Target creature gets +1/+2 and gains reach until end of turn. Untap it.
 Target creature gets +1/+3 and gains flying until end of turn. Untap it.
+Target creature gets +1/+3 and gains reach until end of turn. Untap it.
 Target creature gets +1/+3 until end of turn.
 Target creature gets +1/+7 until end of turn.
 Target creature gets +2/+0 and gains first strike and trample until end of turn.
@@ -1718,6 +1730,7 @@ Target creature gets +2/+7 until end of turn. Untap it.
 Target creature gets +2/-2 until end of turn.
 Target creature gets +3/+0 and gains first strike until end of turn.
 Target creature gets +3/+0 and gains haste until end of turn.
+Target creature gets +3/+0 until end of turn.
 Target creature gets +3/+1 and gains lifelink until end of turn.
 Target creature gets +3/+1 and gains trample until end of turn.
 Target creature gets +3/+2 until end of turn.
@@ -2003,6 +2016,7 @@ When Cliffhaven Kitesail enters the battlefield, attach it to target creature yo
 When Cloudblazer enters the battlefield, you gain 2 life and draw two cards.
 When Cloudchaser Eagle enters the battlefield, destroy target enchantment.
 When Cloudkin Seer enters the battlefield, draw a card.
+When Cogwork Wrestler enters the battlefield, target creature an opponent controls gets -2/-0 until end of turn.
 When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token.
 When Colossification enters the battlefield, tap enchanted creature.
 When Commander Greven il-Vec enters the battlefield, sacrifice a creature.
@@ -2044,6 +2058,7 @@ When Deputy of Acquittals enters the battlefield, you may return another target 
 When Destructor Dragon dies, destroy target noncreature permanent.
 When Devoted Paladin enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.
 When Devout Lightcaster enters the battlefield, exile target black permanent.
+When Dinotomaton enters the battlefield, target creature you control gains menace until end of turn.
 When Disciple of the Sun enters the battlefield, return target permanent card with mana value 3 or less from your graveyard to your hand.
 When Discordant Piper dies, create a 0/1 white Goat creature token.
 When Dismal Backwater enters the battlefield, you gain 1 life.
@@ -2188,8 +2203,10 @@ When Inspiring Cleric enters the battlefield, you gain 4 life.
 When Inspiring Overseer enters the battlefield, you gain 1 life and draw a card.
 When Intrepid Adversary enters the battlefield, you may pay {1}{W} any number of times. When you pay this cost one or more times, put that many valor counters on Intrepid Adversary.
 When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.
+When Ironpaw Aspirant enters the battlefield, put a +1/+1 counter on target creature.
 When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.
 When Irregular Cohort enters the battlefield, create a 2/2 colorless Shapeshifter creature token with changeling.
+When Ithilien Kingfisher dies, draw a card.
 When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
 When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 until end of turn.
 When Jedit's Dragoons enters the battlefield, you gain 4 life.
@@ -2244,6 +2261,8 @@ When Loxodon Hierarch enters the battlefield, you gain 4 life.
 When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens.
 When Maggot Carrier enters the battlefield, each player loses 1 life.
 When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+When Malamet Scythe enters the battlefield, attach it to target creature you control.
+When Malamet War Scribe enters the battlefield, creatures you control get +2/+1 until end of turn.
 When Malcator's Watcher dies, draw a card.
 When Man-o'-War enters the battlefield, return target creature to its owner's hand.
 When Manic Vandal enters the battlefield, destroy target artifact.
@@ -2253,6 +2272,7 @@ When Massacre Wurm enters the battlefield, creatures your opponents control get 
 When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.
 When Maul of the Skyclaves enters the battlefield, attach it to target creature you control.
 When Mausoleum Guard dies, create two 1/1 white Spirit creature tokens with flying.
+When Mephitic Draught enters the battlefield or is put into a graveyard from the battlefield, you draw a card and you lose 1 life.
 When Merchant of Secrets enters the battlefield, draw a card.
 When Merciless Executioner enters the battlefield, each player sacrifices a creature.
 When Merrow Witsniper enters the battlefield, target player mills a card.
@@ -2269,6 +2289,7 @@ When Mist Raven enters the battlefield, return target creature to its owner's ha
 When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
 When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
 When Monk Realist enters the battlefield, destroy target enchantment.
+When Moonshaker Cavalry enters the battlefield, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.
 When Mortus Strider dies, return it to its owner's hand.
 When Mossbeard Ancient enters the battlefield, you gain 5 life.
 When Mudbutton Torchrunner dies, it deals 3 damage to any target.
@@ -2276,6 +2297,7 @@ When Murderous Redcap enters the battlefield, it deals damage equal to its power
 When Muse Drake enters the battlefield, draw a card.
 When Myr Moonvessel dies, add {C}.
 When Myr Sire dies, create a 1/1 colorless Myr artifact creature token.
+When Myr Sire dies, create a 1/1 colorless Phyrexian Myr artifact creature token.
 When Mystic Snake enters the battlefield, counter target spell.
 When Necrogen Scudder enters the battlefield, you lose 3 life.
 When Necromancer's Assistant enters the battlefield, mill three cards.
@@ -2299,6 +2321,7 @@ When Noxious Dragon dies, you may destroy target creature with converted mana co
 When Nullpriest of Oblivion enters the battlefield, if it was kicked, return target creature card from your graveyard to the battlefield.
 When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.
 When Oculus dies, you may draw a card.
+When Oltec Cloud Guard enters the battlefield, create a 1/1 colorless Gnome artifact creature token.
 When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
 When Ornery Kudu enters the battlefield, put a -1/-1 counter on target creature you control.
 When Owlbear enters the battlefield, draw a card.
@@ -2336,6 +2359,7 @@ When Priest of Ancient Lore enters the battlefield, you gain 1 life and draw a c
 When Priest of Gix enters the battlefield, add {B}{B}{B}.
 When Priest of Urabrask enters the battlefield, add {R}{R}{R}.
 When Priest of the Blood Rite enters the battlefield, create a 5/5 black Demon creature token with flying.
+When Protector of Gondor enters the battlefield, create a 1/1 white Human Soldier creature token.
 When Puppeteer Clique enters the battlefield, put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. At the beginning of your next end step, exile it.
 When Purity is put into a graveyard from anywhere, shuffle it into its owner's library.
 When Purple-Crystal Crab dies, draw a card.
@@ -2375,6 +2399,7 @@ When Rustspore Ram enters the battlefield, destroy target Equipment.
 When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
 When Salvager of Secrets enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
 When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and gains vigilance until end of turn.
+When Sanguine Evangelist enters the battlefield or dies, create a 1/1 black Bat creature token with flying.
 When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on another target Vampire you control.
 When Sanity Gnawers enters the battlefield, target player discards a card at random.
 When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.
@@ -2425,6 +2450,7 @@ When Smoldering Efreet dies, it deals 2 damage to you.
 When Smoldering Spires enters the battlefield, target creature can't block this turn.
 When Soaring Hope enters the battlefield, you gain 3 life.
 When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.
+When Soldier of the Grey Host enters the battlefield, target creature gets +2/+0 until end of turn.
 When Somnomancer enters the battlefield, you may tap target creature.
 When Soul Snuffers enters the battlefield, put a -1/-1 counter on each creature.
 When Soulcage Fiend dies, each player loses 3 life.
@@ -2494,6 +2520,7 @@ When Thundermaw Hellkite enters the battlefield, it deals 1 damage to each creat
 When Tibalt's Rager dies, it deals 1 damage to any target.
 When Tilonalli's Crown enters the battlefield, it deals 1 damage to enchanted creature.
 When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.
+When Tinker's Tote enters the battlefield, create two 1/1 colorless Gnome artifact creature tokens.
 When Tireless Missionaries enters the battlefield, you gain 3 life.
 When Tishana enters the battlefield, draw a card for each creature you control.
 When Tithebearer Giant enters the battlefield, you draw a card and you lose 1 life.
@@ -2714,6 +2741,7 @@ Whenever Library Larcenist attacks, draw a card.
 Whenever Lightning Skelemental deals combat damage to a player, that player discards two cards.
 Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until end of turn.
 Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion.
+Whenever Malamet Brawler attacks, target attacking creature gains trample until end of turn.
 Whenever Mardu Roughrider attacks, target creature can't block this turn.
 Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.
 Whenever Mashit, the Destroying Angel enters the battlefield or attacks, destroy target noncreature permanent.
@@ -2722,6 +2750,7 @@ Whenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter
 Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
 Whenever Mourning Thrull deals damage, you gain that much life.
 Whenever Nagao, Bound by Honor attacks, Samurai creatures you control get +1/+1 until end of turn.
+Whenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.
 Whenever Needletooth Raptor is dealt damage, it deals 5 damage to target creature an opponent controls.
 Whenever Nefarox, Overlord of Grixis attacks alone, defending player sacrifices a creature.
 Whenever Nemesis of Reason attacks, defending player mills ten cards.
@@ -2769,6 +2798,7 @@ Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.
 Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.
 Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.
 Whenever Salvage Scuttler attacks, return an artifact you control to its owner's hand.
+Whenever Screaming Phantom attacks, mill a card.
 Whenever Scroll Thief deals combat damage to a player, draw a card.
 Whenever Seasoned Marshal attacks, you may tap target creature.
 Whenever Selhoff Occultist or another creature dies, target player mills a card.
@@ -2778,6 +2808,7 @@ Whenever Shriekgeist deals combat damage to a player, that player mills two card
 Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters on it.
 Whenever Silent Skimmer attacks, defending player loses 2 life.
 Whenever Silverclad Ferocidons is dealt damage, each opponent sacrifices a permanent.
+Whenever Skewer Slinger blocks or becomes blocked by a creature, Skewer Slinger deals 1 damage to that creature.
 Whenever Skyknight Vanguard attacks, create a 1/1 white Soldier creature token that's tapped and attacking.
 Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it deals 3 damage to target creature or planeswalker an opponent controls.
 Whenever Slate Street Ruffian becomes blocked, defending player discards a card.
@@ -2837,6 +2868,8 @@ Whenever Wayward Guide-Beast deals combat damage to a player, return a land you 
 Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.
 Whenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand.
 Whenever Wojek Halberdiers and at least two other creatures attack, Wojek Halberdiers gains first strike until end of turn.
+Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard this turn, exile it instead.
+Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.
 Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.
 Whenever a Beast enters the battlefield, you may draw a card.
 Whenever a Beast enters the battlefield, you may gain 3 life.
@@ -3238,6 +3271,7 @@ Whenever you cast an enchantment spell, you may draw a card.
 Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.
 Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 until end of turn.
 Whenever you cast an instant or sorcery spell, Electrostatic Field deals 1 damage to each opponent.
+Whenever you cast an instant or sorcery spell, Erebor Flamesmith deals 1 damage to each opponent.
 Whenever you cast an instant or sorcery spell, Festival Crasher gets +2/+0 until end of turn.
 Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 until end of turn.
 Whenever you cast an instant or sorcery spell, Ghitu Amplifier gets +2/+0 until end of turn.
@@ -3256,6 +3290,7 @@ Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre Hound
 Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
 Whenever you cast an instant or sorcery spell, target creature an opponent controls can't block this turn.
 Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist.
+Whenever you cast an instant or sorcery spell, untap Unruly Catapult.
 Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
 Whenever you cast an instant or sorcery spell, you may untap Gelectrode.
 Whenever you draw a card, Burlfist Oak gets +2/+2 until end of turn.
@@ -3371,6 +3406,7 @@ Zombies you control get +1/+1.
 {1}{B}, Pay 1 life, Sacrifice Stirge: Draw a card.
 {1}{B}, Pay 2 life: Return target creature card from your graveyard to your hand.
 {1}{B}, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.
+{1}{B}, Sacrifice Dusk Legion Sergeant: Each nontoken Vampire creature you control gains persist until end of turn.
 {1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.
 {1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.
 {1}{B}, {T}, Discard a card: Target creature gets +1/+0 and gains first strike until end of turn.
@@ -3434,6 +3470,7 @@ Zombies you control get +1/+1.
 {1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
 {1}{G}: Twinblade Slasher gets +2/+2 until end of turn. Activate this ability only once each turn.
 {1}{G}: Tyrranax gets -1/+1 until end of turn.
+{1}{G}: Verdant Outrider can't be blocked by creatures with power 2 or less this turn.
 {1}{G}{U}: Creatures you control gain shroud until end of turn.
 {1}{R/P}{R/P}, Discard two cards: Put an indestructible counter on Solphim, Mayhem Dominus.
 {1}{R/W}, {Q}: Attacking creatures get +1/+0 until end of turn.
@@ -3492,6 +3529,7 @@ Zombies you control get +1/+1.
 {1}{U}, {T}: Target creature gains flying until end of turn.
 {1}{U}: Cobalt Golem gains flying until end of turn.
 {1}{U}: Harbor Bandit can't be blocked this turn.
+{1}{U}: Hermitic Nautilus gets +3/-3 until end of turn.
 {1}{U}: Mistwalker gets +1/-1 until end of turn.
 {1}{U}: Return Fleeting Image to its owner's hand.
 {1}{U}: Return target Spirit you control to its owner's hand.
@@ -3787,6 +3825,7 @@ Zombies you control get +1/+1.
 {4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.
 {4}{U}: Target creature can't be blocked this turn.
 {4}{W}: Anointed Chorister gets +3/+3 until end of turn.
+{4}{W}: Create a 1/1 colorless Gnome artifact creature token.
 {4}{W}: Creatures you control get +1/+1 until end of turn.
 {4}{W}: Lionheart Maverick gets +1/+2 until end of turn.
 {4}{W}: Put a +1/+1 counter on Unholy Officiant.
@@ -4188,6 +4227,7 @@ Zombies you control get +1/+1.
 {T}: Onakke Javelineer deals 2 damage to target player or battle.
 {T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.
 {T}: Other creatures you control with flying get +1/+0 until end of turn.
+{T}: Panicked Altisaur deals 2 damage to each opponent.
 {T}: Prevent the next 1 damage that would be dealt to any target this turn.
 {T}: Prevent the next 1 damage that would be dealt to each creature and each player this turn.
 {T}: Prevent the next 1 damage that would be dealt to target player or planeswalker this turn.
@@ -4233,6 +4273,7 @@ Zombies you control get +1/+1.
 {T}: Target player loses 1 life.
 {T}: Thermo-Alchemist deals 1 damage to each opponent.
 {T}: Thornwind Faeries deals 1 damage to any target.
+{T}: Unruly Catapult deals 1 damage to each opponent.
 {T}: Untap another target permanent.
 {T}: Untap enchanted creature.
 {T}: Untap target creature.
@@ -4306,6 +4347,7 @@ Zombies you control get +1/+1.
 {W}, Sacrifice Implement of Improvement: You gain 2 life.
 {W}, Sacrifice Samite Censer-Bearer: Prevent the next 1 damage that would be dealt to each creature you control this turn.
 {W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.
+{W}, Sacrifice Tinker's Tote: You gain 3 life.
 {W}, Sacrifice a creature: Prevent the next 1 damage that would be dealt to any target this turn.
 {W}, Sacrifice a creature: Target creature can't attack this turn.
 {W}, {T}, Discard a card: Creatures you control get +1/+0 until end of turn.
