@@ -913,6 +913,7 @@ Exile target permanent.
 Exile target tapped creature.
 Exile target white permanent.
 Explosive Impact deals 5 damage to any target.
+Extort
 Fabricate 1
 Fabricate 2
 Famine deals 3 damage to each creature and each player.
@@ -2157,6 +2158,7 @@ When Goblin Settler enters the battlefield, destroy target land.
 When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
 When Gods' Eye, Gate to the Reikai is put into a graveyard from the battlefield, create a 1/1 colorless Spirit creature token.
 When Goretusk Firebeast enters the battlefield, it deals 4 damage to target player or planeswalker.
+When Grasping Thrull enters the battlefield, it deals 2 damage to each opponent and you gain 2 life.
 When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
 When Graveshifter enters the battlefield, you may return target creature card from your graveyard to your hand.
 When Graypelt Refuge enters the battlefield, you gain 1 life.
@@ -2424,6 +2426,7 @@ When Separatist Voidmage enters the battlefield, you may return target creature 
 When Sergeant-at-Arms enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens.
 When Serpent Warrior enters the battlefield, you lose 3 life.
 When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.
+When Serrated Scorpion dies, it deals 2 damage to each opponent and you gain 2 life.
 When Serum Raker dies, each player discards a card.
 When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.
 When Shaman of Spring enters the battlefield, draw a card.
@@ -2674,6 +2677,7 @@ Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creatu
 Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.
 Whenever Fire-Omen Crane attacks, it deals 1 damage to target creature an opponent controls.
 Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.
+Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to any target and you gain 3 life.
 Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to any target.
 Whenever Fleet Swallower attacks, target player mills half their library, rounded up.
 Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.
@@ -3008,6 +3012,8 @@ Whenever a nontoken creature you control dies, create a 1/1 green Saproling crea
 Whenever a nontoken creature you control dies, create a 1/1 white Spirit creature token with flying.
 Whenever a nontoken creature you control dies, create a 2/2 black Zombie creature token.
 Whenever a permanent deals damage to you, return it to its owner's hand.
+Whenever a player attacks with five or more creatures, Aurelia the Law Above deals 3 damage to each of your opponents and you gain 3 life.
+Whenever a player attacks with three or more creatures, you draw a card.
 Whenever a player casts a black spell, Bog Gnarr gets +2/+2 until end of turn.
 Whenever a player casts a black spell, you gain 1 life.
 Whenever a player casts a black spell, you may gain 1 life.
@@ -3118,6 +3124,7 @@ Whenever another creature enters the battlefield, you lose 1 life.
 Whenever another creature enters the battlefield, you may gain 1 life.
 Whenever another creature with power 2 or less enters the battlefield under your control, put two +1/+1 counters on that creature.
 Whenever another creature you control dies, Sanguinary Priest deals 1 damage to any target.
+Whenever another creature you control dies, Vindictive Vampire deals 1 damage to each opponent and you gain 1 life.
 Whenever another creature you control dies, each opponent loses 1 life.
 Whenever another creature you control dies, put a +1/+1 counter on Gavony Unhallowed.
 Whenever another creature you control dies, put a +1/+1 counter on Guardian Kirin.
@@ -3156,6 +3163,7 @@ Whenever equipped creature deals combat damage to a player, you gain 3 life and 
 Whenever equipped creature deals combat damage to a player, you may draw a card.
 Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.
 Whenever equipped creature dies, draw two cards.
+Whenever equipped creature dies, each opponent loses 1 life.
 Whenever equipped creature dies, you gain 3 life.
 Whenever this creature attacks, double the number of +1/+1 counters on target creature. That creature can't be blocked by creatures with power 2 or less this turn.
 Whenever this creature deals combat damage to a player or battle, return target creature card from your graveyard to the battlefield.
@@ -3582,6 +3590,7 @@ Zombies you control get +1/+1.
 {2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.
 {2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
 {2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.
+{2}, Sacrifice Lead Pipe: Draw a card.
 {2}, Sacrifice Leonin Bladetrap: It deals 2 damage to each attacking creature without flying.
 {2}, Sacrifice Parcel Myr: Draw a card.
 {2}, Sacrifice Sarcomite Myr: Draw a card.
