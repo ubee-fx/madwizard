@@ -14,9 +14,13 @@ Death Grasp
 Indulging Patrician
 }
 
-# 8 life gain triggers
-8,2 {
+# 6 life gain triggers
+6,2 {
 filter:type=Creature,color=w,color=b,anycolor,text=whenever you gain life
+}
+# 2 extort ability
+2,2 {
+filter:type=Creature,color=w,color=b,anycolor,ability=extort
 }
 # 4 lifelink ability
 4,2 {
