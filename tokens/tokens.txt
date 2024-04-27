@@ -69,6 +69,7 @@
 1_1_white_Kor_Ally_creature_token=https://scryfall.com/card/tznc/2/kor-ally
 1_1_white_Monk_creature_token_with_prowess=https://scryfall.com/card/t2x2/6/monk
 1_1_white_Mouse_creature_token=https://scryfall.com/card/teld/4/mouse
+1_1_white_Sheep_creature_token=https://scryfall.com/card/totj/4/sheep
 1_1_white_Soldier_Ally_creature_token=https://scryfall.com/card/twwk/1/soldier-ally
 1_1_white_Soldier_creature_token=https://scryfall.com/card/t2xm/6/soldier
 1_1_white_Soldier_creature_token_with_lifelink=https://scryfall.com/card/tncc/9/soldier
@@ -108,6 +109,7 @@
 2_2_white_Griffin_creature_token_with_flying=https://scryfall.com/card/tdmc/1/griffin
 2_2_white_Knight_Ally_creature_token=https://scryfall.com/card/tbfz/5/knight-ally
 2_2_white_Knight_creature_token_with_vigilance=https://scryfall.com/card/tdmc/3/knight
+2_2_white_Ox_creature_token=https://scryfall.com/card/totj/3/ox
 2_2_white_Pegasus_creature_token_with_flying=https://scryfall.com/card/tthb/3/pegasus
 2_2_white_and_blue_Knight_creature_token_with_vigilance=https://scryfall.com/card/tmom/10/knight
 2_3_red_Minotaur_creature_token_with_haste=https://scryfall.com/card/pl21/2%E2%98%85/minotaur
@@ -131,6 +133,7 @@
 3_3_green_Elephant_creature_token=https://scryfall.com/card/t2xm/14/elephant
 3_3_green_Frog_Lizard_creature_token=https://scryfall.com/card/tc21/14/frog-lizard
 3_3_red_Ogre_creature_token=https://scryfall.com/card/tclb/36/ogre
+3_3_white_Angel_creature_token_with_flying=https://scryfall.com/card/totj/2/angel
 3_3_white_Bird_creature_token_with_flying=https://scryfall.com/card/tc19/2/bird
 3_3_white_Spirit_creature_token_with_flying=https://scryfall.com/card/tvoc/3/spirit
 4_2_green_Beast_creature_token=https://scryfall.com/card/takh/21/beast
