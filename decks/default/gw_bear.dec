@@ -1,7 +1,7 @@
 !gw,Bear
 !green and white bears
 
-# 10 core cards
+# 10 core
 4,4 {
 Kudo, King Among Bears
 }
@@ -11,36 +11,29 @@ Sigarda's Summons
 4,2 {
 Chivalric Alliance
 Colossal Majesty
+Basri's Solidarity
 }
 
-# 16 creatures
+# 27 creatures
 12,2 {
-filter:type=Creature,color=w,color=g,anycolor,minCost=2,maxCost=2,text=+1/+1,text=counter
+filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,hasx
+Adaptive Shimmerer
+Scute Mob
 }
-2,1 {
-filter:type=Creature,color=w,color=g,anycolor,minCost=2,maxCost=2,text=enchantment,text=draw
-}
-2,1 {
-filter:type=Creature,color=w,color=g,anycolor,text=backup
-}
-
-# 6 auras
-6,1 {
-filter:type=Enchantment,color=w,color=g,anycolor,subtype=Aura,maxCost=4,notext=can't,text=draw
+15,2 {
+filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,ability=flying
+Intrepid Adversary
+Luminarch Aspirant
+Siege Veteran
 }
 
-# 4 spells
-4,2 {
-filter:type=Sorcery,type=Instant,color=w,color=g,anycolor,anytype,maxCost=5,text=+1/+1,text=counter
-}
-
-# 24 lands
-8,8 {
+# 23 lands
+7,7 {
 Forest
 }
 8,8 {
 Plains
 }
-8,4 {
+8,2 {
 filter:type=Land,mana=g,mana=w
 }
