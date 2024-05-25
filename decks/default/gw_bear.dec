@@ -25,6 +25,7 @@ filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,ability=flying
 Intrepid Adversary
 Luminarch Aspirant
 Siege Veteran
+Mandibular Kite
 }
 
 # 23 lands
