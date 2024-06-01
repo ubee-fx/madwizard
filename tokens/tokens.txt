@@ -78,9 +78,11 @@
 1_1_white_Warrior_creature_token=https://scryfall.com/card/tktk/4/warrior
 1_1_white_Warrior_creature_token_with_vigilance=https://scryfall.com/card/tdmc/4/warrior
 1_1_white_and_black_Spirit_creature_token_with_flying=https://scryfall.com/card/tc21/21/spirit
+1_2_black_Phyrexian_Wurm_artifact_creature_token_with_deathtouch=https://scryfall.com/card/tmh3/17/phyrexian-wurm
 1_2_green_Spider_creature_token_with_reach=https://scryfall.com/card/t2x2/18/spider
 1_3_green_Spider_enchantment_creature_token_with_reach=https://scryfall.com/card/tjou/5/spider
 2_1_black_Cat_creature_token=https://scryfall.com/card/tdmr/3/cat
+2_1_black_Phyrexian_Wurm_artifact_creature_token_with_lifelink=https://scryfall.com/card/tmh3/18/phyrexian-wurm
 2_1_black_Spider_creature_token_with_menace_and_reach=https://scryfall.com/card/tafr/7/spider
 2_1_black_Warrior_creature_token=https://scryfall.com/card/tclb/32/warrior
 2_1_red_Dwarf_Berserker_creature_token=https://scryfall.com/card/tkhm/12/dwarf-berserker

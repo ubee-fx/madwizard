@@ -13,9 +13,10 @@ filter:color=b,color=w,anycolor,maxCost=4,text=draw,text=2 cards
 filter:color=b,color=w,anycolor,maxCost=4,text=draw,text=two cards
 }
 
-# 12 discard
+# 12 discard and mill
 12,2 {
 filter:colorless,color=b,color=w,anycolor,text=discard a card:
+Stitcher's Supplier
 }
 
 # 10 reanimate

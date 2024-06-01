@@ -17,6 +17,7 @@ Basri's Solidarity
 # 27 creatures
 12,2 {
 filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,hasx
+Faithful Watchdog
 Adaptive Shimmerer
 Scute Mob
 }
