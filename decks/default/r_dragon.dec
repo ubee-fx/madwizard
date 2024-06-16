@@ -1,5 +1,5 @@
 !r,Dragon
-!mono red dragons aggro
+!mono red dragons
 
 # 2 special
 2,1 {
@@ -11,77 +11,66 @@ Terror of Mount Velus
 Lathliss, Dragon Queen
 }
 
-# 18 core
-18,2 {
+# 2 core
+2,2 {
+Crucible of Fire
+Dragon's Hoard
+}
+
+# 12 cheap creatures
+12,2 {
 Universal Automaton
 Dragonmaster Outcast
 Slumbering Dragon
 Dragon Hatchling
 Kargan Dragonrider
-Archwing Dragon
+Taurean Mauler
+Dragonlord's Servant
+Dragonspeaker Shaman
+}
+
+# 10 creatures
+10,2 {
+Paragon of Fierce Defiance
+Chaos Terminator Lord
+Fearless Skald
 Dragonloft Idol
+Dragonwing Glider
+Shivan Devastator
+Archwing Dragon
 Furnace Whelp
 Rakdos Pit Dragon
 Thundermaw Hellkite
-Shivan Devastator
-Mordant Dragon
-Crucible of Fire
-Dragon's Hoard
-Taurean Mauler
-Tyrant of Kher Ridges
-Warmonger Hellkite
 }
 
-# 8 other dragons
-8,1 {
+# 4 dragons
+4,1 {
 filter:type=Creature,subtype=Dragon,color=r
 }
 
-# 6 spells
-6,1 {
-Dragon Fodder
-Bathe in Dragonfire
-Brute Force
-Infuriate
-Brute Strength
-Fists of the Anvil
-Sure Strike
-Uncanny Speed
-Screaming Fury
-Slaughter Cry
-Uncaged Fury
-Cleaver Riot
-Banners Raised
-Burn Bright
-Path of Anger's Flame
-Trumpet Blast
-Kindled Fury
-Antagonize
-Whirling Strike
+# 2 other
+2,1 {
+Blood Mist
+Dragon Roost
+Rage Reflection
+Fiery Emancipation
+Gratuitous Violence
+Berserkers' Onslaught
+Hammerhand
+Dragon's Claw
+Boots of Speed
+Ruby Medallion
+}
+
+# 4 spells
+4,2 {
+filter:type=Instant,color=r,maxCost=2,text=gets +
+filter:type=Instant,type=Sorcery,anytype,color=r,text=gain,text=double strike
 Seething Song
 Pyretic Ritual
 }
 
-# 3 other
-3,1 {
-Dragon Roost
-Dragon's Claw
-Dragon-Style Twins
-Fearless Skald
-Two-Headed Cerberus
-Hound of Griselbrand
-Berserkers' Onslaught
-Rage Reflection
-Boots of Speed
-Hammerhand
-Dragonwing Glider
-Gratuitous Violence
-Fiery Emancipation
-Chaos Terminator Lord
-Paragon of Fierce Defiance
-}
-
-# 23 lands
-23,23 {
+# 24 lands
+24,24 {
 Mountain
 }
