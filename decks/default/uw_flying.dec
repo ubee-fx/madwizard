@@ -42,6 +42,7 @@ filter:type=Creature,color=w,monocolor,ability=flying
 # 6 mono blue
 6,1 {
 filter:type=Creature,color=u,monocolor,ability=flying
+Hookblade Veteran
 }
 
 # 24 lands
