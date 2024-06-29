@@ -6,6 +6,7 @@
 filter:type=Creature,color=g,color=w,colorless,anycolor,maxCost=1,text=2/1
 filter:type=Creature,color=g,color=w,colorless,anycolor,maxCost=2,text=3/1
 Watchwolf
+Faithful Watchdog
 Call of the Conclave
 Sram, Senior Edificer
 }
@@ -36,6 +37,7 @@ Tempered Steel
 Glorious Anthem
 Always Watching
 Gaea's Anthem
+Anthem of Champions
 }
 
 # 24 lands
