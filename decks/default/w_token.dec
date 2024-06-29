@@ -42,7 +42,6 @@ filter:type=Instant,type=Sorcery,type=Enchantment,anytype,color=w,text=create,te
 
 # 4 pump enchantments
 4,2 {
-Castle
 Builder's Blessing
 Glorious Anthem
 Honor of the Pure

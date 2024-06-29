@@ -1,12 +1,6 @@
 !bw,Reanimator
 !black and white reanimator
 
-# 2 special
-2,1 {
-Confessor
-Rise of the Dark Realms
-}
-
 # 4 draw
 4,2 {
 filter:color=b,color=w,anycolor,maxCost=4,text=draw,text=2 cards
@@ -19,10 +13,11 @@ filter:colorless,color=b,color=w,anycolor,text=discard a card:
 Stitcher's Supplier
 }
 
-# 10 reanimate
-10,2 {
+# 12 reanimate
+12,2 {
 filter:colorless,color=b,color=w,anycolor,text=return target,text=graveyard,text=to the battlefield
 filter:colorless,color=b,color=w,anycolor,text=put target,text=graveyard,text=to the battlefield
+filter:colorless,color=b,color=w,anycolor,text=put all,text=graveyard,text=to the battlefield
 }
 
 # 8 expensive creatures with flying
