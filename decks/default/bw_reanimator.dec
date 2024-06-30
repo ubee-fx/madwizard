@@ -11,6 +11,7 @@ filter:color=b,color=w,anycolor,maxCost=4,text=draw,text=two cards
 12,2 {
 filter:colorless,color=b,color=w,anycolor,text=discard a card:
 Stitcher's Supplier
+Angel of Suffering
 }
 
 # 12 reanimate
