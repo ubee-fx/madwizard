@@ -69,6 +69,7 @@
 1_1_white_Kor_Ally_creature_token=https://scryfall.com/card/tznc/2/kor-ally
 1_1_white_Monk_creature_token_with_prowess=https://scryfall.com/card/t2x2/6/monk
 1_1_white_Mouse_creature_token=https://scryfall.com/card/teld/4/mouse
+1_1_white_Rabbit_creature_token=https://scryfall.com/card/tblb/3/rabbit
 1_1_white_Sheep_creature_token=https://scryfall.com/card/totj/4/sheep
 1_1_white_Soldier_Ally_creature_token=https://scryfall.com/card/twwk/1/soldier-ally
 1_1_white_Soldier_creature_token=https://scryfall.com/card/t2xm/6/soldier
