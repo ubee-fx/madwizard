@@ -29,7 +29,7 @@ filter:type=Creature,color=w,color=b,anycolor,ability=lifelink
 }
 # 4 enters battlefield or dies triggers
 4,2 {
-filter:type=Creature,color=w,color=b,anycolor,text=enters the battlefield,text=you gain,text=life
+filter:type=Creature,color=w,color=b,anycolor,text=enters,text=you gain,text=life
 filter:type=Creature,color=w,color=b,anycolor,text=dies,text=you gain,text=life
 }
 
