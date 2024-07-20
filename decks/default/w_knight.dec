@@ -44,7 +44,7 @@ filter:type=Creature,subtype=Knight,color=w
 Call the Cavalry
 }
 
-# 4 enchantments
+# 4 other
 4,2 {
 Gerrard's Battle Cry
 Knight's Pledge
@@ -53,6 +53,7 @@ Holy Mantle
 Cathars' Crusade
 Chivalric Alliance
 Escarpment Fortress
+The Circle of Loyalty
 }
 
 # 22 lands

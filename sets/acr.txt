@@ -114,7 +114,7 @@ type=Enchantment
 subtype=Saga
 stats=
 rule=I, II, III = Mill three cards. You may put a historic card from among them into your hand. 
-rule=IV - Historic spells you cast this turn cost {2} less to cast.
+rule=IV = Historic spells you cast this turn cost {2} less to cast.
 url=https://scryfall.com/card/acr/13/ballad-of-the-black-flag
 name=Become Anonymous
 cost={2}{U}{U}
@@ -752,7 +752,7 @@ name=Reconnaissance
 cost={W}
 type=Enchantment
 stats=
-rule={0}: Remove target attacking creature you control from combat and untap it.
+rule={0}: Remove target attacking creature you control from combat and untap it. 
 url=https://scryfall.com/card/acr/82/reconnaissance
 name=Rest in Peace
 cost={1}{W}
@@ -1605,7 +1605,7 @@ name=Reconnaissance
 cost={W}
 type=Enchantment
 stats=
-rule={0}: Remove target attacking creature you control from combat and untap it.
+rule={0}: Remove target attacking creature you control from combat and untap it. 
 url=https://scryfall.com/card/acr/179/reconnaissance
 name=Rest in Peace
 cost={1}{W}
