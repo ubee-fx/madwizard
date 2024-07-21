@@ -17,6 +17,7 @@ filter:type=Instant,type=Sorcery,anytype,color=b,text=player loses,text=you gain
 8,3 {
 Damnation
 Languish
+Mutilate
 Fell
 }
 

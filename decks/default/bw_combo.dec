@@ -1,0 +1,52 @@
+!bw,Combo BW
+!black and white combo
+
+# 12 main
+12,4 {
+Maha, Its Feathers Night
+Horobi, Death's Wail
+Luminous Broodmoth
+}
+
+# 4 mass removal
+4,2 {
+Languish
+Mutilate
+Damnation
+}
+
+# 4 get -1/-1
+4,2 {
+Night of Souls' Betrayal
+Kaervek, the Spiteful
+}
+
+# 16 other creatures
+16,2 {
+filter:type=Creature,color=w,color=b,anycolor,ability=persist,notext=flying
+filter:type=Creature,color=w,color=b,anycolor,ability=undying,notext=flying
+Blinding Mage
+Gideon's Lawkeeper
+Fan Bearer
+Backup Agent
+Ironpaw Aspirant
+Baleful Ammit
+Fume Spitter
+Festering Mummy
+Blister Beetle
+Festering Goblin
+Death's-Head Buzzard
+Assault Intercessor
+Cruel Celebrant
+Imperious Oligarch
+Vizkopa Vampire
+High Priest of Penance
+}
+
+# 24 lands
+12,12 {
+Swamp
+}
+12,2 {
+filter:type=Land,mana=b,mana=w
+}
