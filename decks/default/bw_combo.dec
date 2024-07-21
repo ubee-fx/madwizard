@@ -13,15 +13,17 @@ Luminous Broodmoth
 Languish
 Mutilate
 Damnation
+Wrath of God
 }
 
 # 4 get -1/-1
 4,2 {
 Night of Souls' Betrayal
 Kaervek, the Spiteful
+Zealous Persecution
 }
 
-# 16 other creatures
+# 16 other
 16,2 {
 filter:type=Creature,color=w,color=b,anycolor,ability=persist,notext=flying
 filter:type=Creature,color=w,color=b,anycolor,ability=undying,notext=flying
@@ -38,9 +40,11 @@ Festering Goblin
 Death's-Head Buzzard
 Assault Intercessor
 Cruel Celebrant
-Imperious Oligarch
 Vizkopa Vampire
 High Priest of Penance
+Elas il-Kor, Sadistic Pilgrim
+Blinding Souleater
+Trip Noose
 }
 
 # 24 lands
