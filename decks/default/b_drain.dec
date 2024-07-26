@@ -10,6 +10,7 @@ Tree of Perdition
 # 12 life drain spells
 12,3 {
 filter:type=Instant,type=Sorcery,anytype,color=b,text=damage to target player,text=you gain
+filter:type=Instant,type=Sorcery,anytype,color=b,text=damage to any target,text=you gain
 filter:type=Instant,type=Sorcery,anytype,color=b,text=player loses,text=you gain
 }
 
