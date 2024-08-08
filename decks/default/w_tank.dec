@@ -1,0 +1,71 @@
+!w,Tank
+!mono white tank
+
+# 4 special
+2,1 {
+Platinum Angel
+Eldrazi Monument
+}
+1,1 {
+True Conviction
+Dictate of Heliod
+}
+1,1 {
+Avacyn, Angel of Hope
+Zetalpa, Primal Dawn
+Luminous Broodmoth
+}
+
+# 2 mana artifact
+2,1 {
+Sol Ring
+Mox Pearl
+Black Lotus
+Pearl Medallion
+}
+
+# 12 persist
+12,2 {
+Solemnity
+Basri's Solidarity
+Safehold Elite
+Kitchen Finks
+Restless Apparition
+Heartmender
+}
+
+# 12 indestructible
+12,2 {
+Heliod, Sun-Crowned
+Heliod, God of the Sun
+Oketra the True
+Hammer of Nazahn
+Make a Stand
+Stuffy Doll
+Darksteel Myr
+Darksteel Sentinel
+Seraph of the Suns
+}
+
+# 2 vehicles
+2,1 {
+Cultivator's Caravan
+Parhelion II
+Knight Paladin
+Necron Monolith
+Thunderhawk Gunship
+Skysovereign, Consul Flagship
+}
+
+# 4 removal spells
+4,2 {
+Wrath of God
+Day of Judgment
+Mass Calcify
+Vanquish the Horde
+}
+
+# 24 lands
+24,24 {
+Plains
+}
