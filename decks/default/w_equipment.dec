@@ -27,6 +27,7 @@ Balan, Wandering Knight
 Boon-Bringer Valkyrie
 Sun Titan
 Sram, Senior Edificer
+Danitha Capashen, Paragon
 }
 
 # 4 enchantments
@@ -59,6 +60,7 @@ Kor Halberd
 Mandibular Kite
 Silver Shroud Costume
 Short Bow
+Andúril, Flame of the West
 }
 4,1 {
 filter:subtype=Equipment,color=w,colorless,equipment

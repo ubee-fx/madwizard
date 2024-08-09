@@ -1,0 +1,73 @@
+!bw,Legendary
+!black and white legendary
+
+# 10 main
+8,4 {
+Mirror Box
+Yoshimaru, Ever Faithful
+}
+2,2 {
+Arvad the Cursed
+}
+
+# 14 legendary creatures
+6,2 {
+Isamaru, Hound of Konda
+Danitha Capashen, Paragon
+Heliod, Sun-Crowned
+Balan, Wandering Knight
+Mikaeus, the Lunarch
+}
+6,2 {
+Drana, Liberator of Malakir
+Sheoldred, the Apocalypse
+Massacre Girl, Known Killer
+Erebos, God of the Dead
+Maha, Its Feathers Night
+}
+1,1 {
+Elesh Norn, Grand Cenobite
+Avacyn, Angel of Hope
+Akroma, Angel of Wrath
+}
+1,1 {
+Sheoldred, Whispering One
+Kokusho, the Evening Star
+Visara the Dreadful
+}
+
+# 8 equipment
+8,2 {
+Batterskull
+Loxodon Warhammer
+Sword of Fire and Ice
+Mithril Coat
+Hero's Heirloom
+Hammer of Nazahn
+Champion's Helm
+Maul of the Skyclaves
+Andúril, Flame of the West
+}
+
+# 4 artifacts and enchantments
+4,1 {
+Day of Destiny
+Avacyn's Memorial
+Akroma's Memorial
+Sword of the Chosen
+Bessie, the Doctor's Roadster
+}
+
+# 24 lands
+2,2 {
+Karakas
+}
+5,5 {
+Plains
+}
+5,5 {
+Swamp
+}
+12,2 {
+filter:type=Land,mana=b,mana=w
+}

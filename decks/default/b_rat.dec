@@ -1,9 +1,14 @@
 !b,Rat
 !mono black rat
 
-# 37 rats
-37,37 {
+# 33 rats
+33,33 {
 Rat Colony
+}
+
+# 4 artifacts
+4,4 {
+Mirror Box
 }
 
 # 23 lands
