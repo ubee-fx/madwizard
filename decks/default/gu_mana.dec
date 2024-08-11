@@ -45,6 +45,7 @@ filter:color=g,color=u,multicolor
 # 4 mana artifacts
 4,2 {
 filter:type=Artifact,colorless,text=_t_,text=add _c__c_
+Emerald Medallion
 }
 
 # 22 lands

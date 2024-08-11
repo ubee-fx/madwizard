@@ -2,7 +2,7 @@
 !mono blue affinity for artifacts
 
 # 4 special
-4,2 {
+3,2 {
 Master of Etherium
 Etched Champion
 Nettlecyst
@@ -10,6 +10,10 @@ Esperzoa
 Lumengrid Sentinel
 Etherium Spinner
 Etherium Sculptor
+}
+1,1 {
+Time Walk
+Ancestral Recall
 }
 
 # 18 affinity
@@ -26,7 +30,7 @@ Thoughtcast
 
 # 12 cheap artifacts
 5,2 {
-filter:type=Artifact,color=u,colorless,maxCost=0,notext=mox
+filter:type=Artifact,color=u,colorless,maxCost=0,notext=mox,notext=lotus
 }
 4,2 {
 filter:type=Artifact,color=u,colorless,minCost=1,maxCost=1
@@ -41,14 +45,19 @@ filter:subtype=Vehicle,color=u,colorless
 }
 
 # 2 mana
-2,2 {
+2,1 {
 Mox Sapphire
+Sapphire Medallion
 Sol Ring
+Black Lotus
 }
 
 # 22 lands
-14,14 {
+13,13 {
 Island
+}
+1,1 {
+Tolarian Academy
 }
 8,4 {
 Seat of the Synod
