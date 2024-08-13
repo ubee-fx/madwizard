@@ -34,6 +34,7 @@ Tempest Angler
 # 9 prowess
 9,1 {
 filter:type=Creature,color=r,color=u,color=w,anycolor,text=prowess
+Elemental Eruption
 }
 
 # 3 instant or sorcery
@@ -93,6 +94,7 @@ Renegade Tactics
 Rush of Adrenaline
 Shock
 Mirran Banesplitter
+Grapeshot
 }
 
 # 4 blue spells
@@ -109,6 +111,7 @@ Slip Through Space
 Clout of the Dominus
 Military Intelligence
 Dive Down
+Flusterstorm
 }
 
 # 24 lands

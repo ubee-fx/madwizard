@@ -148,6 +148,7 @@
 4_4_green_Rhino_Warrior_creature_token=https://scryfall.com/card/tsnc/11/rhino-warrior
 4_4_green_Rhino_creature_token_with_trample=https://scryfall.com/card/tc19/18/rhino
 4_4_red_Dragon_creature_token_with_flying=https://scryfall.com/card/tclb/11/dragon
+4_4_red_Dragon_Elemental_creature_token_with_flying_and_prowess=https://scryfall.com/card/totc/13/dragon-elemental
 4_4_red_Giant_creature_token=https://scryfall.com/card/ttsr/7/giant
 4_4_red_and_white_Golem_artifact_creature_token=https://scryfall.com/card/tmh2/12/golem
 4_4_white_Angel_creature_token_with_flying=https://scryfall.com/card/t2xm/3/angel
