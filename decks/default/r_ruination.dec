@@ -1,0 +1,68 @@
+!r,Ruination
+!mono red land destruction and artifacts
+
+# 12 land destruction
+12,2 {
+Pillage
+Demolish
+Craterize
+Ruination
+Stone Rain
+Volcanic Upheaval
+Survey the Wreckage
+Goblin Settler
+}
+
+# 4 damage spells
+4,2 {
+Shock
+Lightning Bolt
+Burst Lightning
+}
+
+# 12 affinity
+12,3 {
+Frogmite
+Myr Enforcer
+Furnace Hellkite
+Tooth of Chiss-Goria
+}
+
+# 8 artifacts
+4,2 {
+Memnite
+Goldhound
+Dinotomaton
+Ornithopter
+Hotfoot Gnome
+Slash Panther
+Unruly Catapult
+Unstoppable Ogre
+Stonecoil Serpent
+Moltensteel Dragon
+Sarpadian Simulacrum
+}
+4,2 {
+Sol Ring
+Bone Saw
+Spidersilk Net
+Fountain of Youth
+Nettlecyst
+Ruby Medallion
+Boots of Speed
+Hidden Footblade
+Mirran Banesplitter
+}
+
+# 24 lands
+12,12 {
+Mountain
+}
+8,4 {
+Great Furnace
+Rustvale Bridge
+}
+4,3 {
+Strip Mine
+Wasteland
+}
