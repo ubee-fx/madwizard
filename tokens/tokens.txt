@@ -62,6 +62,7 @@
 1_1_white_Cat_creature_token_with_lifelink=https://scryfall.com/card/tiko/1/cat
 1_1_white_Citizen_creature_token=https://scryfall.com/card/tuma/1/citizen
 1_1_white_Dog_creature_token=https://scryfall.com/card/tm21/19/dog
+1_1_white_Glimmer_enchantment_creature_token=https://scryfall.com/card/tdsk/4/glimmer
 1_1_white_Human_Soldier_creature_token=https://scryfall.com/card/tmic/2/human-soldier
 1_1_white_Human_Warrior_creature_token=https://scryfall.com/card/tkhm/3/human-warrior
 1_1_white_Human_creature_token=https://scryfall.com/card/tc19/3/human
