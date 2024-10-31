@@ -18,7 +18,7 @@ Leonin Warleader
 
 # 16 cats
 16,1 {
-filter:type=Creature,subtype=Cat,color=w
+filter:type=Creature,subtype=Cat,color=w,notext=equip
 }
 
 # 8 enchantments and other
