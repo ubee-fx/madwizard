@@ -1,10 +1,11 @@
 !w,Cat
 !mono white cats with enchantments
 
-# 1 legendary
-1,1 {
+# 2 legendary
+2,1 {
 Jazal Goldmane
 Prava of the Steel Legion
+Arahbo, the First Fang
 }
 
 # 12 core
@@ -16,8 +17,8 @@ Healer of the Pride
 Leonin Warleader
 }
 
-# 16 cats
-16,1 {
+# 15 cats
+15,1 {
 filter:type=Creature,subtype=Cat,color=w,notext=equip
 }
 
