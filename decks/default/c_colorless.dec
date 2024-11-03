@@ -2,10 +2,11 @@ u,Colorless
 !random colorless cards
 
 # 30 spells
-1,1 {
+2,1 {
 All Is Dust
+Sire of Seven Deaths
 }
-29,2 {
+28,2 {
 filter:type=Artifact,type=Creature,anytype,colorless,notext=devoid
 Transguild Courier
 Scour from Existence
@@ -23,5 +24,5 @@ Sol Ring
 
 # 23 lands
 23,3 {
-filter:type=Land,colorless
+filter:type=Land,colorless,notext=bazaar
 }
