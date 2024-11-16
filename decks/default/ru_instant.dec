@@ -1,0 +1,76 @@
+!ru,Instant
+!red and blue instants
+
+# 18 creatures
+4,1 {
+Tibor and Lumia
+Bria, Riptide Rogue
+Niv-Mizzet, Visionary
+Niv-Mizzet, Dracogenius
+Balmor, Battlemage Captain
+Rite of the Dragoncaller
+}
+14,2 {
+Enigma Drake
+Haughty Djinn
+Spellheart Chimera
+Archmage of Runes
+Stormcatch Mentor
+Storm Skreelix
+Goblin Electromancer
+Mocking Sprite
+Wee Dragonauts
+Mercurial Geists
+Living Lightning
+Smelt-Ward Minotaur
+Festival Crasher
+Kiln Fiend
+Fluxcharger
+Stormsplitter
+Guttersnipe
+Gelectrode
+Thermo-Alchemist
+Unruly Catapult
+Young Pyromancer
+Sprite Dragon
+Stormchaser Mage
+Storm Fleet Sprinter
+Third Path Iconoclast
+Lightning Stormkin
+Archaeomancer
+Ardent Elementalist
+Izzet Chronarch
+Mnemonic Wall
+Shipwreck Dowser
+Scribe of the Mindful
+}
+
+# 16 instants
+16,2 {
+filter:type=Instant,color=r,color=u,anycolor,text=damage
+filter:type=Instant,color=r,color=u,anycolor,text=counter
+filter:type=Instant,color=r,color=u,anycolor,text=return
+filter:type=Instant,color=r,color=u,anycolor,text=create
+filter:type=Instant,color=r,color=u,anycolor,text=draw
+filter:type=Instant,color=r,color=u,anycolor,text=add
+}
+
+# 2 other
+2,1 {
+Firemind's Research
+Call to Mind
+Twincast
+Reverberate
+Narset's Reversal
+}
+
+# 24 lands
+8,8 {
+Mountain
+}
+8,8 {
+Island
+}
+8,2 {
+filter:type=Land,mana=r,mana=u
+}
