@@ -21,6 +21,7 @@ filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,hasx
 Faithful Watchdog
 Adaptive Shimmerer
 Scute Mob
+Hornet Nest
 }
 15,2 {
 filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,ability=flying
