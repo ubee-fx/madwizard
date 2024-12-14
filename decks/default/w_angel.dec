@@ -1,28 +1,25 @@
 !w,Angel
 !mono white angels
 
-# 6 main
-6,2 {
-Angelic Marshal
-Lyra Dawnbringer
+# 8 main
+8,4 {
 Bishop of Wings
+Starnheim Aspirant
 }
 
 # 10 cheap
 10,2 {
-Starnheim Aspirant
 Youthful Valkyrie
 Segovian Angel
-Mirror Entity
-Universal Automaton
-Angelic Curator
 Angelic Page
 Dazzling Angel
 Inspiring Overseer
+Mirror Entity
+Universal Automaton
 }
 
-# 5 mid range
-5,2 {
+# 4 mid range
+4,2 {
 Seraph of the Sword
 Seraph of Dawn
 Serra Advocate
@@ -36,8 +33,9 @@ Shepherd of the Lost
 Shattered Angel
 }
 
-# 5 mid range power
-5,2 {
+# 4 mid range power
+4,2 {
+Lyra Dawnbringer
 Archangel of Thune
 Sublime Archangel
 Emeria Angel
@@ -50,10 +48,11 @@ Serra Redeemer
 }
 
 # 4 expensive
+1,1 {
+Angelic Marshal
+}
 3,1 {
 filter:type=Creature,subtype=Angel,color=w,colorless,mincost=6,notext=phyrexian
-}
-1,1 {
 Parhelion II
 Akroma's Memorial
 }
@@ -67,7 +66,6 @@ filter:type=Sorcery,type=Instant,anytype,color=w,text=exile target creature
 2,1 {
 Angelic Accord
 Angelic Destiny
-Moonsilver Spear
 }
 
 # 24 lands
@@ -77,5 +75,4 @@ Plains
 4,2 {
 Seraph Sanctuary
 Radiant Fountain
-Cathedral of War
 }
