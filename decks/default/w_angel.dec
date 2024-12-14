@@ -9,6 +9,7 @@ Starnheim Aspirant
 
 # 10 cheap
 10,2 {
+Resplendent Angel
 Youthful Valkyrie
 Segovian Angel
 Angelic Page
@@ -48,10 +49,11 @@ Serra Redeemer
 }
 
 # 4 expensive
-1,1 {
+2,1 {
 Angelic Marshal
+Valkyrie Harbinger
 }
-3,1 {
+2,1 {
 filter:type=Creature,subtype=Angel,color=w,colorless,mincost=6,notext=phyrexian
 Parhelion II
 Akroma's Memorial
