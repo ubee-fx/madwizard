@@ -21,8 +21,8 @@ Solphim, Mayhem Dominus
 filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to target player
 filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to target creature or player
 filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to any target
-filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to all
-} 
+filter:type=Instant,type=Sorcery,anytype,colorless,color=r,anycolor,text=damage to each
+}
 
 # 22 lands
 20,20 {
