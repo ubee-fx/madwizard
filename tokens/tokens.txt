@@ -173,3 +173,4 @@ Metallic_Sliver_creature_token=https://scryfall.com/card/ttsr/15/metallic-sliver
 Phyrexian_Mite_creature_token=https://scryfall.com/card/tone/12/phyrexian-mite
 Walker_creature_token=https://scryfall.com/card/sld/151/walker
 Wasp_creature_token=https://scryfall.com/card/t30a/16/wasp
+Koma_s_Coil_creature_token=https://scryfall.com/card/tfdn/11/komas-coil
