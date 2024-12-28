@@ -1,0 +1,74 @@
+!uw,Unblockable
+!blue and white unblockable
+
+# 6 main
+6,2 {
+Godhead of Awe
+Tetsuko Umezawa, Fugitive
+Elesh Norn, Grand Cenobite
+}
+
+# 8 blue creatures
+8,2 {
+Slither Blade
+Invisible Stalker
+Furtive Homunculus
+Phantom Ninja
+Latch Seeker
+Neurok Commando
+Jhessian Thief
+Thieving Otter
+}
+
+# 8 white creatures
+8,2 {
+Healer's Hawk
+Battlefield Raptor
+Auriok Champion
+Fencing Ace
+Brightblade Stoat
+Porcelain Legionnaire
+Mirran Crusader
+Shrike Force
+}
+
+# 8 spells
+8,2 {
+Unsummon
+Disperse
+Reprieve
+Cancel
+Counterspell
+Day of Judgment
+Hop to It
+Release the Dogs
+Not on My Watch
+Swords to Plowshares
+}
+
+# 4 equipment
+4,2 {
+Batterskull
+Loxodon Warhammer
+Silver Shroud Costume
+Sword of Feast and Famine
+}
+
+# 2 enchantment
+2,2 {
+Chivalric Alliance
+Military Intelligence
+Steel of the Godhead
+Aether Tunnel
+}
+
+# 24 lands
+8,8 {
+Plains
+}
+8,8 {
+Island
+}
+8,2 {
+filter:type=Land,mana=u,mana=w
+}
