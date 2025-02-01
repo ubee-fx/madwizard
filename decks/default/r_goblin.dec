@@ -45,6 +45,7 @@ Goblin Trashmaster
 }
 6,1 {
 filter:type=Creature,color=r,anycolor,text=goblin
+Burner Rocket
 }
 
 # 4 enchantment
