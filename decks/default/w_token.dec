@@ -41,7 +41,7 @@ filter:type=Creature,color=w,text=fabricate
 filter:type=Instant,type=Sorcery,type=Enchantment,anytype,color=w,text=create,text=token,notext=gained
 }
 
-# 4 pump enchantments
+# 4 pump
 4,2 {
 Builder's Blessing
 Glorious Anthem
@@ -51,7 +51,7 @@ Eldrazi Monument
 Divine Visitation
 }
 
-# 4 trigger enchantments
+# 4 trigger
 4,2 {
 Cathars' Crusade
 Valor in Akros
@@ -60,6 +60,7 @@ Mantle of Leadership
 Skrelv's Hive
 Chivalric Alliance
 Growing Ranks
+Oketra's Monument
 }
 
 # 23 lands

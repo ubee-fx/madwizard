@@ -139,7 +139,7 @@ Aerial Predation
 Soul's Majesty
 }
 
-# 8 enchantment
+# 8 other
 4,2 {
 Rancor
 Spider Umbra
@@ -153,7 +153,7 @@ Tribute to the World Tree
 Beastmaster Ascension
 Frantic Strength
 }
-4,2 {
+4,1 {
 Bear Umbra
 Gaea's Anthem
 Raking Canopy
@@ -167,6 +167,7 @@ Bone Sabres
 Bramble Armor
 Sylvok Battle-Chair
 Short Bow
+Rhonas's Monument
 }
 
 # 23 lands

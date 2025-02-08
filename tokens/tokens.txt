@@ -11,6 +11,7 @@
 1_1_black_Faerie_Rogue_creature_token_with_flying=https://scryfall.com/card/t2x2/11/faerie-rogue
 1_1_black_Goblin_Rogue_creature_token=https://scryfall.com/card/tmma/6/goblin-rogue
 1_1_black_Rat_creature_token=https://scryfall.com/card/tafc/5/rat
+1_1_black_and_green_Insect_creature_token_with_flying=https://scryfall.com/card/tfdn/21/insect
 1_1_black_and_green_Worm_creature_token=https://scryfall.com/card/t2x2/20/worm
 1_1_blue_Bird_Illusion_creature_token_with_flying=https://scryfall.com/card/tc20/7/bird-illusion
 1_1_blue_Bird_creature_token_with_flying=https://scryfall.com/card/tc16/7/bird
