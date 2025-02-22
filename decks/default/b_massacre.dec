@@ -1,0 +1,52 @@
+!b,Massacre
+!mono black massacre
+
+# 20 creatures
+8,2 {
+Discordant Piper
+Fear of Lost Teeth
+Death's-Head Buzzard
+Nocturnal Feeder
+Wriggling Grub
+Doomed Dissenter
+Zulaport Cutthroat
+Endless Cockroaches
+Weaponcraft Enthusiast
+}
+8,2 {
+Sangromancer
+Orzhov Enforcer
+Vampire Spawn
+Etched Familiar
+Bloodhunter Bat
+Falkenrath Noble
+Enduring Tenacity
+Vindictive Vampire
+}
+4,2 {
+Vein Ripper
+Massacre Wurm
+Harvester of Souls
+Butcher of Malakir
+}
+
+# 4 spells
+4,4 {
+Mutilate
+}
+
+# 12 enchantment
+9,3 {
+Quest for the Gravelord
+Heartless Summoning
+Bastion of Remembrance
+}
+3,2 {
+Dark Prophecy
+Grave Pact
+}
+
+# 24 lands
+24,24 {
+Swamp
+}
