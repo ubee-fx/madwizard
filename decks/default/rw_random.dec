@@ -1,0 +1,46 @@
+!rw,Random RW
+!random red and white multicolor
+
+# 4 core spells
+4,1 {
+filter:colorless,color=r,color=w,anycolor,text=you cast a multicolored
+filter:colorless,color=r,color=w,anycolor,text=you control another multicolored
+filter:colorless,color=r,color=w,anycolor,text=multicolored creature you control
+filter:colorless,color=r,color=w,anycolor,text=multicolored creatures you control
+}
+
+# 18 multicolor spells
+18,2 {
+filter:color=r,color=w,anycolor,multicolor
+}
+
+# 8 monocolored spells
+8,1 {
+filter:type=Creature,type=Instant,type=Sorcery,type=Enchantment,color=r,color=w,anycolor,anytype,monocolor
+}
+
+# 3 equipment
+3,1 {
+filter:subtype=Equipment,color=r,color=w,colorless,anycolor,equipment
+}
+
+# 1 vehicle
+1,1 {
+filter:subtype=Vehicle,color=r,color=w,colorless,anycolor
+}
+
+# 2 artifact
+2,1 {
+filter:type=Artifact,color=r,color=w,colorless,anycolor
+}
+
+# 24 lands
+6,6 {
+Mountain
+}
+6,6 {
+Plains
+}
+12,3 {
+filter:type=Land,mana=r,mana=w
+}
