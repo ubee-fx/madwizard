@@ -1,0 +1,22 @@
+!w,Rabbit
+!mono white rabbit
+
+# 33 creatures
+18,18 {
+Hare Apparent
+}
+15,3 {
+filter:type=Creature,color=w,text=rabbit,notext=hare apparent
+}
+
+# 4 other
+4,2 {
+Ajani's Welcome
+Honor of the Pure
+Mirror Box
+}
+
+# 23 lands
+23,23 {
+Plains
+}
