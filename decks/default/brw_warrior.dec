@@ -1,111 +1,92 @@
 !brw,Warrior
 !black, red and white warrior
 
-# 6 main
-4,2 {
-Ankle Shanker
-Neriv, Heart of the Storm
-}
-2,1 {
-Brion Stoutarm
-Jazal Goldmane
-Oketra the True
-Twinflame Tyrant
-Urabrask the Hidden
-Purphoros, God of the Forge
+# 1 mana
+5,1 {
+Swords to Plowshares
+Lightning Bolt
+Ulcerate
+Goblin Motivator
+Goblin Bushwhacker
+Bloodlust Inciter
+Fanatical Firebrand
+Mothrider Patrol
+Banehound
 }
 
-# 14 warriors
-4,2 {
+# 2 mana
+8,2 {
+Terminate
+Lightning Helix
+Impact Tremors
+Goblin Oriflamme
 Chief of the Edge
 Chief of the Scale
-Kargan Warleader
-}
-4,2 {
-filter:type=Creature,color=b,color=r,color=w,anycolor,text=mobilize
-}
-6,2 {
-Spike Jester
-Mardu Roughrider
-Bloodmark Mentor
+Voice of Victory
 Herald of Dromoka
 Beskir Shieldmate
+Bloodmark Mentor
+Battle Brawler
 Hero of Precinct One
-Ashenmoor Gouger
-Beetleback Chief
-Markov Blademaster
-Falkenrath Marauders
-Chaos Terminator Lord
-Boon-Bringer Valkyrie
+Spike Jester
 }
 
-# 6 haste
-2,1 {
-Banehound
-Goblin Motivator
-Bloodlust Inciter
-Monastery Swiftspear
-Sarpadian Simulacrum
-Fanatical Firebrand
-Goblin Bushwhacker
-}
-2,2 {
+# 3 mana
+10,2 {
+Vindicate
+Oketra's Monument
+Rising of the Day
+Mardu Ascendancy
+Warleader's Call
+Shivan Devastator
+Kargan Warleader
+Dragonback Lancer
+Dalkovan Packbeasts
+Lightning Skelemental
 Tuktuk Rubblefort
+}
+
+# 4 mana
+8,2 {
+Within Range
+Glory of Warfare
+Inevitable Defeat
+Neriv, Heart of the Storm
+Purphoros, God of the Forge
+Bone-Cairn Butcher
+Venerated Stormsinger
+Brion Stoutarm
+Jazal Goldmane
+Spark Trooper
 Ogre Battledriver
 Enduring Courage
-}
-2,1 {
-Spark Trooper
-Ball Lightning
-Lightning Skelemental
-Quaketusk Boar
-Adult Gold Dragon
-Shivan Devastator
-Thundermaw Hellkite
-Razorkin Hordecaller
+Beetleback Chief
 }
 
-# 6 spells
-6,2 {
-Inevitable Defeat
-Lightning Helix
-Terminate
-Vindicate
+# 5 mana
+5,1 {
 Take Up Arms
-}
-
-# 4 other
-4,2 {
-Mass Hysteria
-Rising of the Day
-Glory of Warfare
-Warleader's Call
-Mardu Ascendancy
-Oketra's Monument
-Goblin Oriflamme
-Within Range
-Blood Mist
+Urabrask the Hidden
+Twinflame Tyrant
+Ankle Shanker
+Mardu Roughrider
+Falkenrath Marauders
+Adult Gold Dragon
+Thundermaw Hellkite
+Boon-Bringer Valkyrie
+Razorkin Hordecaller
+Quaketusk Boar
+Balefire Liege
 }
 
 # 24 lands
-4,4 {
-Swamp
-}
-4,4 {
-Mountain
-}
-4,4 {
+24,3 {
 Plains
-}
-3,2 {
-filter:type=Land,mana=b,mana=r
-}
-3,2 {
-filter:type=Land,mana=b,mana=w
-}
-3,2 {
-filter:type=Land,mana=r,mana=w
-}
-3,3 {
-filter:type=Land,mana=b,mana=r,mana=w
+Mountain
+Plateau
+Badlands
+Scrubland
+Forlorn Flats
+Jagged Barrens
+Nomad Outpost
 }
