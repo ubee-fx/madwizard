@@ -52,8 +52,10 @@
 1_1_red_Goblin_Wizard_creature_token_with_prowess=https://scryfall.com/card/tm21/8/goblin-wizard
 1_1_red_Goblin_creature_token=https://scryfall.com/card/tund/2/goblin
 1_1_red_Goblin_creature_token_with_haste=https://scryfall.com/card/tnec/5/goblin
+1_1_red_Gremlin_creature_token=https://scryfall.com/card/tdsk/11/gremlin
 1_1_red_Human_creature_token=https://scryfall.com/card/tvow/10/human
 1_1_red_Phyrexian_Goblin_creature_token=https://scryfall.com/card/tone/3/phyrexian-goblin
+1_1_red_Warrior_creature_token=https://scryfall.com/card/ttdm/13/warrior
 1_1_red_and_green_Goblin_Warrior_creature_token=https://scryfall.com/card/tc20/17/goblin-warrior
 1_1_red_and_white_Goblin_Soldier_creature_token=https://scryfall.com/card/tema/15/goblin-soldier
 1_1_red_and_white_Soldier_creature_token_with_haste=https://scryfall.com/card/tncc/33/soldier

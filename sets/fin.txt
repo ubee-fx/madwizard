@@ -27,8 +27,8 @@ type=Creature
 subtype=Saga
 subtype=Elemental
 stats=4/5
-rule=I, II = Heavenly Strike = Tap target creature an opponent controls. Put a stun counter on it. 
-rule=III = Diamond Dust = Draw a card for each tapped creature your opponents control.
+rule=I, II =  = Tap target creature an opponent controls. Put a stun counter on it. 
+rule=III =  = Draw a card for each tapped creature your opponents control.
 url=https://scryfall.com/card/fin/78/summon:-shiva
 name=Cecil, Dark Knight
 cost={B}
@@ -38,7 +38,7 @@ subtype=Human
 subtype=Knight
 stats=2/3
 rule=Deathtouch
-rule=Darkness = Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.
+rule=Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.
 url=https://scryfall.com/card/fin/91/cecil-dark-knight-cecil-redeemed-paladin
 name2=Cecil, Redeemed Paladin
 cost=
@@ -48,7 +48,7 @@ subtype=Human
 subtype=Knight
 stats=4/4
 rule=Lifelink
-rule=Protect = Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.
+rule=Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.
 url=https://scryfall.com/card/fin/91/cecil-dark-knight-cecil-redeemed-paladin
 name=Tonberry
 cost={B}
@@ -57,14 +57,25 @@ subtype=Salamander
 subtype=Horror
 stats=2/1
 rule=This creature enters tapped with a stun counter on it. 
-rule=Chef's Knife = During your turn, this creature has first strike and deathtouch.
+rule=During your turn, this creature has first strike and deathtouch.
 url=https://scryfall.com/card/fin/122/tonberry
+name=Zell Dincht
+cost={2}{R}
+type=Legendary
+type=Creature
+subtype=Human
+subtype=Monk
+stats=0/3
+rule=You may play an additional land on each of your turns.
+rule=Zell Dincht gets +1/+0 for each land you control.
+rule=At the beginning of your end step, return a land you control to its owner's hand.
+url=https://scryfall.com/card/fin/170/zell-dincht
 name=Jumbo Cactuar
 cost={5}{G}{G}
 type=Creature
 subtype=Plant
 stats=1/7
-rule=10,000 Needles = Whenever this creature attacks, it gets +9999/+0 until end of turn.
+rule=Whenever this creature attacks, it gets +9999/+0 until end of turn.
 url=https://scryfall.com/card/fin/191/jumbo-cactuar
 name=Sazh's Chocobo
 cost={G}
@@ -91,7 +102,7 @@ type=Creature
 subtype=Avatar
 stats=6/6
 rule=Vigilance
-rule=Echo of the Lost = During your turn, you may play cards from your graveyard.
+rule=During your turn, you may play cards from your graveyard.
 rule=If a card or token would be put into your graveyard from anywhere, exile it instead.
 url=https://scryfall.com/card/fin/218/emet-selch-unsundered-hades-sorcerer-of-eld
 name=Garland, Knight of Cornelia
@@ -137,7 +148,7 @@ cost={5}{G}{G}
 type=Creature
 subtype=Plant
 stats=1/7
-rule=10,000 Needles = Whenever this creature attacks, it gets +9999/+0 until end of turn.
+rule=Whenever this creature attacks, it gets +9999/+0 until end of turn.
 url=https://scryfall.com/card/fin/343/jumbo-cactuar
 name=Sin, Spira's Punishment
 cost={4}{B}{G}{U}
@@ -156,8 +167,8 @@ type=Creature
 subtype=Saga
 subtype=Elemental
 stats=4/5
-rule=I, II = Heavenly Strike = Tap target creature an opponent controls. Put a stun counter on it. 
-rule=III = Diamond Dust = Draw a card for each tapped creature your opponents control.
+rule=I, II =  = Tap target creature an opponent controls. Put a stun counter on it. 
+rule=III =  = Draw a card for each tapped creature your opponents control.
 url=https://scryfall.com/card/fin/362/summon:-shiva
 name=Cecil, Dark Knight
 cost={B}
@@ -167,7 +178,7 @@ subtype=Human
 subtype=Knight
 stats=2/3
 rule=Deathtouch
-rule=Darkness = Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.
+rule=Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.
 url=https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin
 name2=Cecil, Redeemed Paladin
 cost=
@@ -177,7 +188,7 @@ subtype=Human
 subtype=Knight
 stats=4/4
 rule=Lifelink
-rule=Protect = Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.
+rule=Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.
 url=https://scryfall.com/card/fin/380/cecil-dark-knight-cecil-redeemed-paladin
 name=Emet-Selch, Unsundered
 cost={1}{U}{B}
@@ -197,7 +208,7 @@ type=Creature
 subtype=Avatar
 stats=6/6
 rule=Vigilance
-rule=Echo of the Lost = During your turn, you may play cards from your graveyard.
+rule=During your turn, you may play cards from your graveyard.
 rule=If a card or token would be put into your graveyard from anywhere, exile it instead.
 url=https://scryfall.com/card/fin/394/emet-selch-unsundered-hades-sorcerer-of-eld
 name=Cecil, Dark Knight
@@ -208,7 +219,7 @@ subtype=Human
 subtype=Knight
 stats=2/3
 rule=Deathtouch
-rule=Darkness = Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.
+rule=Whenever Cecil deals damage, you lose that much life. Then if your life total is less than or equal to half your starting life total, untap Cecil and transform it.
 url=https://scryfall.com/card/fin/445/cecil-dark-knight-cecil-redeemed-paladin
 name2=Cecil, Redeemed Paladin
 cost=
@@ -218,7 +229,7 @@ subtype=Human
 subtype=Knight
 stats=4/4
 rule=Lifelink
-rule=Protect = Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.
+rule=Whenever Cecil attacks, other attacking creatures gain indestructible until end of turn.
 url=https://scryfall.com/card/fin/445/cecil-dark-knight-cecil-redeemed-paladin
 name=Emet-Selch, Unsundered
 cost={1}{U}{B}
@@ -238,7 +249,7 @@ type=Creature
 subtype=Avatar
 stats=6/6
 rule=Vigilance
-rule=Echo of the Lost = During your turn, you may play cards from your graveyard.
+rule=During your turn, you may play cards from your graveyard.
 rule=If a card or token would be put into your graveyard from anywhere, exile it instead.
 url=https://scryfall.com/card/fin/483/emet-selch-unsundered-hades-sorcerer-of-eld
 name=Garland, Knight of Cornelia

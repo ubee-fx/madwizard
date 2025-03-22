@@ -1,0 +1,111 @@
+!brw,Warrior
+!black, red and white warrior
+
+# 6 main
+4,2 {
+Ankle Shanker
+Neriv, Heart of the Storm
+}
+2,1 {
+Brion Stoutarm
+Jazal Goldmane
+Oketra the True
+Twinflame Tyrant
+Urabrask the Hidden
+Purphoros, God of the Forge
+}
+
+# 14 warriors
+4,2 {
+Chief of the Edge
+Chief of the Scale
+Kargan Warleader
+}
+4,2 {
+filter:type=Creature,color=b,color=r,color=w,anycolor,text=mobilize
+}
+6,2 {
+Spike Jester
+Mardu Roughrider
+Bloodmark Mentor
+Herald of Dromoka
+Beskir Shieldmate
+Hero of Precinct One
+Ashenmoor Gouger
+Beetleback Chief
+Markov Blademaster
+Falkenrath Marauders
+Chaos Terminator Lord
+Boon-Bringer Valkyrie
+}
+
+# 6 haste
+2,1 {
+Banehound
+Goblin Motivator
+Bloodlust Inciter
+Monastery Swiftspear
+Sarpadian Simulacrum
+Fanatical Firebrand
+Goblin Bushwhacker
+}
+2,2 {
+Tuktuk Rubblefort
+Ogre Battledriver
+Enduring Courage
+}
+2,1 {
+Spark Trooper
+Ball Lightning
+Lightning Skelemental
+Quaketusk Boar
+Adult Gold Dragon
+Shivan Devastator
+Thundermaw Hellkite
+Razorkin Hordecaller
+}
+
+# 6 spells
+6,2 {
+Inevitable Defeat
+Lightning Helix
+Terminate
+Vindicate
+Take Up Arms
+}
+
+# 4 other
+4,2 {
+Mass Hysteria
+Rising of the Day
+Glory of Warfare
+Warleader's Call
+Mardu Ascendancy
+Oketra's Monument
+Goblin Oriflamme
+Within Range
+Blood Mist
+}
+
+# 24 lands
+4,4 {
+Swamp
+}
+4,4 {
+Mountain
+}
+4,4 {
+Plains
+}
+3,2 {
+filter:type=Land,mana=b,mana=r
+}
+3,2 {
+filter:type=Land,mana=b,mana=w
+}
+3,2 {
+filter:type=Land,mana=r,mana=w
+}
+3,3 {
+filter:type=Land,mana=b,mana=r,mana=w
+}
