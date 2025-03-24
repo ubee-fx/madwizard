@@ -1,0 +1,99 @@
+!buw,Faerie
+!black, blue and white faerie
+
+# 1 mana
+5,2 {
+Pongify
+Cut Down
+Disfigure
+Bounce Off
+Vapor Snag
+Cloud Sprite
+Eye Collector
+Zephyr Sprite
+Oona's Gatewarden
+Nightshade Stinger
+}
+
+# 2 mana
+8,2 {
+Despark
+Reprieve
+Dovin's Veto
+Countersquall
+Vanishing Verse
+Narset's Reversal
+Zealous Persecution
+Bitterblossom
+Angelic Shield
+Mask of Riddles
+Obyra, Dreaming Duelist
+Surveilling Sprite
+Briarberry Cohort
+Faerie Duelist
+Esper Stormblade
+}
+
+# 3 mana
+10,2 {
+Absorb
+Recoil
+Mortify
+Undermine
+Void Rend
+Vindicate
+Death Grasp
+Gift of Orzhova
+Anguished Unmaking
+Invocation of Saint Traft
+Tegwyll, Duke of Splendor
+Thornwind Faeries
+Oko's Accomplices
+Silkbind Faerie
+Mocking Sprite
+Scion of Oona
+Sprite Noble
+Wasp Lancer
+Tome Raider
+}
+
+# 4 mana
+8,2 {
+Utter End
+Aetherize
+Supreme Verdict
+Punish Ignorance
+Rite of Replication
+Wydwen, the Biting Gale
+Alela, Artful Provocateur
+Glen Elendra Archmage
+Glen Elendra Liege
+Glen Elendra Pranksters
+Sentinels of Glen Elendra
+Tower Gargoyle
+}
+
+# 5 or 6 mana
+5,2 {
+Fractured Identity
+Gravitational Shift
+Extravagant Replication
+Campaign of Vengeance
+Fall of the Gavel
+Faerie Invaders
+Puppeteer Clique
+Kiss of the Amesha
+Thoughtweft Gambit
+}
+
+# 24 lands
+24,3 {
+Swamp
+Island
+Tundra
+Scrubland
+Underground Sea
+Isolated Chapel
+Glacial Fortress
+Arcane Sanctum
+}
