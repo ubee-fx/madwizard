@@ -2,7 +2,7 @@
 !black, blue and white faerie
 
 # 1 mana
-5,2 {
+5,1 {
 Pongify
 Cut Down
 Disfigure
@@ -16,7 +16,10 @@ Nightshade Stinger
 }
 
 # 2 mana
-8,2 {
+2,2 {
+Bitterblossom
+}
+2,1 {
 Despark
 Reprieve
 Dovin's Veto
@@ -24,19 +27,21 @@ Countersquall
 Vanishing Verse
 Narset's Reversal
 Zealous Persecution
+}
+1,1 {
 Starlit Mantle
 Angelic Shield
 Mask of Riddles
-Bitterblossom
+}
+3,2 {
 Obyra, Dreaming Duelist
 Surveilling Sprite
 Briarberry Cohort
 Faerie Duelist
-Esper Stormblade
 }
 
 # 3 mana
-10,2 {
+3,1 {
 Absorb
 Recoil
 Mortify
@@ -45,8 +50,12 @@ Void Rend
 Vindicate
 Death Grasp
 Anguished Unmaking
+}
+1,1 {
 Cartouche of Ambition
 Invocation of Saint Traft
+}
+6,2 {
 Tegwyll, Duke of Splendor
 Thornwind Faeries
 Oko's Accomplices
@@ -59,32 +68,39 @@ Tome Raider
 }
 
 # 4 mana
-8,2 {
+3,1 {
 Utter End
 Aetherize
-Supreme Verdict
 Punish Ignorance
 Rite of Replication
+}
+4,2 {
 Wydwen, the Biting Gale
 Alela, Artful Provocateur
 Glen Elendra Archmage
 Glen Elendra Liege
 Glen Elendra Pranksters
 Sentinels of Glen Elendra
+}
+1,1 {
 Tower Gargoyle
 }
 
 # 5 or 6 mana
-5,2 {
+2,1 {
+Fall of the Gavel
+Kiss of the Amesha
 Fractured Identity
+Thoughtweft Gambit
+}
+1,1 {
 Gravitational Shift
 Extravagant Replication
 Campaign of Vengeance
-Fall of the Gavel
+}
+2,2 {
 Faerie Invaders
 Puppeteer Clique
-Kiss of the Amesha
-Thoughtweft Gambit
 }
 
 # 24 lands
