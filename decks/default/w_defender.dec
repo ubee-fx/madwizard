@@ -1,0 +1,74 @@
+!w,Defender
+!mono white defender
+
+# 6 main
+4,4 {
+Felidar Sovereign
+}
+2,2 {
+Test of Endurance
+}
+
+# 10 defender creatures
+3,2 {
+Wingmantle Chaplain
+Perimeter Captain
+}
+7,2 {
+Angelic Wall
+Wall of Omens
+Pride Guardian
+Basilica Guards
+Fortified Rampart
+Dazzling Ramparts
+Clockwork Drawbridge
+Soulbound Guardians
+Wall of Swords
+Roc Egg
+}
+
+# 4 other creatures
+4,2 {
+Dazzling Angel
+Starlight Invoker
+Metropolis Reformer
+Archangel of Thune
+Sunscorch Regent
+Rhox Faithmender
+}
+
+# 10 enchantments
+10,2 {
+Ajani's Welcome
+Angelic Chorus
+Angel's Feather
+Sunspring Expedition
+Authority of the Consuls
+Boon Reflection
+Luminous Wake
+Guard Duty
+Recumbent Bliss
+Pious Interdiction
+Angelic Accord
+Griffin Aerie
+}
+
+# 6 spells
+6,2 {
+Chaplain's Blessing
+Healing Hands
+Silverstrike
+Eriette's Lullaby
+Invoke the Divine
+Not on My Watch
+Expel
+}
+
+# 24 lands
+16,16 {
+Plains
+}
+8,4 {
+Kabira Crossroads
+Radiant Fountain
+}
