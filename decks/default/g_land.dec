@@ -1,0 +1,39 @@
+!g,Land
+!mono green lands
+
+# 24 main
+24,2 {
+filter:color=g,text=play an additional land
+filter:color=g,text=whenever,text=land,text=control,text=enters
+filter:color=g,text=land card,text=graveyard,text=to the battlefield
+filter:color=g,text=mill,text=cards
+filter:color=g,text=draw,text=cards
+Adventuring Gear
+}
+
+# 12 other
+12,2 {
+Scute Mob
+Heroes' Bane
+Dungrove Elder
+Blanchwood Armor
+Mistcutter Hydra
+Wildheart Invoker
+Sylvan Safekeeper
+Chameleon Colossus
+Tribute to the World Tree
+Aerial Predation
+Silklash Spider
+Beast Within
+Whirlwind
+Plummet
+}
+
+# 24 lands
+20,20 {
+Forest
+}
+4,2 {
+Khalni Garden
+Turntimber Grove
+}
