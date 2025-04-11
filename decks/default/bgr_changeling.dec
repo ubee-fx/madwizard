@@ -1,0 +1,67 @@
+!brg,Changeling
+!black, red and green changeling
+
+# 18 changeling
+18,3 {
+Universal Automaton
+Woodland Changeling
+Venomous Changeling
+Taurean Mauler
+Chameleon Colossus
+Cairn Wanderer
+}
+
+# 10 sliver
+10,2 {
+Striking Sliver
+Venom Sliver
+Blade Sliver
+Blur Sliver
+Two-Headed Sliver
+Predatory Sliver
+Syphon Sliver
+Battle Sliver
+Cleaving Sliver
+Might Sliver
+Fury Sliver
+Megantic Sliver
+}
+
+# 8 other
+8,2 {
+Ignoble Hierarch
+Elvish Archdruid
+Canopy Tactician
+Mad Auntie
+Goblin Warchief
+Goblin Chieftain
+Dragonspeaker Shaman
+Chaos Terminator Lord
+Stromkirk Captain
+Sanctum Seeker
+Rakish Heir
+Undead Warchief
+Dragon's Hoard
+Crucible of Fire
+Lathliss, Dragon Queen
+Atarka, World Render
+}
+
+# 24 lands
+12,4 {
+Swamp
+Forest
+Mountain
+}
+3,2 {
+filter:type=Land,mana=b,mana=g
+}
+3,2 {
+filter:type=Land,mana=g,mana=r
+}
+3,2 {
+filter:type=Land,mana=b,mana=r
+}
+3,3 {
+filter:type=Land,mana=b,mana=g,mana=r
+}
