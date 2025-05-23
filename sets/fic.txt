@@ -29,7 +29,7 @@ subtype=Cat
 subtype=Wizard
 stats=2/3
 rule=Lifelink
-rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X+1/+1 counters on it. Do this only once each turn.
+rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X +1/+1 counters on it. Do this only once each turn.
 url=https://scryfall.com/card/fic/3/graha-tia-scion-reborn
 name=Terra, Herald of Hope
 cost={R}{W}{B}
@@ -564,7 +564,7 @@ type=Creature
 subtype=Human
 subtype=Wizard
 stats=1/3
-rule=Sketch and Lore={2}{R}, {T}: Target opponent exiles cards from the top of their library until they exile an instant, sorcery, or creature card. You may cast that card without paying its mana cost. If you cast a creature spell this way, it gains haste and "At the beginning of the end step, sacrifice this creature." Activate only as a sorcery.
+rule=Sketch and Lore = {2}{R}, {T}: Target opponent exiles cards from the top of their library until they exile an instant, sorcery, or creature card. You may cast that card without paying its mana cost. If you cast a creature spell this way, it gains haste and "At the beginning of the end step, sacrifice this creature." Activate only as a sorcery.
 url=https://scryfall.com/card/fic/59/strago-and-relm
 name=Summon: Esper Valigarmanda
 cost={3}{R}
@@ -747,9 +747,9 @@ name=Banon, the Returners' Leader
 cost={R}{W}
 type=Legendary
 type=Creature
-type=Human
-type=Cleric
-type=Rebel
+subtype=Human
+subtype=Cleric
+subtype=Rebel
 stats=1/3
 rule=Pray = Once during each of your turns, you may cast a creature spell from among cards in your graveyard that were put there from anywhere other than the battlefield this turn.
 rule=Whenever you attack, you may pay {1} and discard a card. If you do, draw a card.
@@ -1491,7 +1491,7 @@ type=Creature
 subtype=Human
 subtype=Wizard
 stats=1/3
-rule=Sketch and Lore={2}{R}, {T}: Target opponent exiles cards from the top of their library until they exile an instant, sorcery, or creature card. You may cast that card without paying its mana cost. If you cast a creature spell this way, it gains haste and "At the beginning of the end step, sacrifice this creature." Activate only as a sorcery.
+rule=Sketch and Lore = {2}{R}, {T}: Target opponent exiles cards from the top of their library until they exile an instant, sorcery, or creature card. You may cast that card without paying its mana cost. If you cast a creature spell this way, it gains haste and "At the beginning of the end step, sacrifice this creature." Activate only as a sorcery.
 url=https://scryfall.com/card/fic/155/strago-and-relm
 name=Umaro, Raging Yeti
 cost={5}{R}
@@ -1593,9 +1593,9 @@ name=Banon, the Returners' Leader
 cost={R}{W}
 type=Legendary
 type=Creature
-type=Human
-type=Cleric
-type=Rebel
+subtype=Human
+subtype=Cleric
+subtype=Rebel
 stats=1/3
 rule=Pray = Once during each of your turns, you may cast a creature spell from among cards in your graveyard that were put there from anywhere other than the battlefield this turn.
 rule=Whenever you attack, you may pay {1} and discard a card. If you do, draw a card.
@@ -1673,7 +1673,7 @@ subtype=Cat
 subtype=Wizard
 stats=2/3
 rule=Lifelink
-rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X+1/+1 counters on it. Do this only once each turn.
+rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X +1/+1 counters on it. Do this only once each turn.
 url=https://scryfall.com/card/fic/172/graha-tia-scion-reborn
 name=Hildibrand Manderville
 cost={1}{W}
@@ -2017,7 +2017,7 @@ subtype=Cat
 subtype=Wizard
 stats=2/3
 rule=Lifelink
-rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X+1/+1 counters on it. Do this only once each turn.
+rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X +1/+1 counters on it. Do this only once each turn.
 url=https://scryfall.com/card/fic/203/graha-tia-scion-reborn
 name=Terra, Herald of Hope
 cost={R}{W}{B}
@@ -2102,7 +2102,7 @@ subtype=Cat
 subtype=Wizard
 stats=2/3
 rule=Lifelink
-rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X+1/+1 counters on it. Do this only once each turn.
+rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X +1/+1 counters on it. Do this only once each turn.
 url=https://scryfall.com/card/fic/211/graha-tia-scion-reborn
 name=Terra, Herald of Hope
 cost={R}{W}{B}
@@ -2205,7 +2205,7 @@ subtype=Cat
 subtype=Wizard
 stats=2/3
 rule=Lifelink
-rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X+1/+1 counters on it. Do this only once each turn.
+rule=Throw Wide the Gates = Whenever you cast a noncreature spell, you may pay X life, where X is that spell's mana value. If you do, create a 1/1 colorless Hero creature token and put X +1/+1 counters on it. Do this only once each turn.
 url=https://scryfall.com/card/fic/222/graha-tia-scion-reborn
 name=Terra, Herald of Hope
 cost={R}{W}{B}
