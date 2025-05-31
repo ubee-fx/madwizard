@@ -368,7 +368,7 @@ type=Sorcery
 stats=
 rule=Destroy all artifacts and creatures. End the turn.
 url=https://scryfall.com/card/fin/38/ultima
-name="Venat, Lady of the Light"
+name=Venat, Heart of Hydaelyn
 cost={1}{W}{W}
 type=Legendary
 type=Creature
@@ -376,17 +376,17 @@ subtype=Elder
 subtype=Wizard
 stats=3/3
 rule=Whenever you cast a legendary spell, draw a card. This ability triggers only once each turn.
-rule=The Sundering = {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.
-url=https://scryfall.com/card/fin/39/venat-lady-of-the-light-hydaelyn-mothercrystal
-name2="Hydaelyn, Mothercrystal"
+rule=Hero's Sundering = {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.
+url=https://scryfall.com/card/fin/39/venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal
+name2=Hydaelyn, the Mothercrystal
 cost=
 type=Legendary
 type=Creature
 subtype=God
 stats=4/4
 rule=Indestructible
-rule=Blessing of Light = At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control. Until your next turn, that creature gains indestructible. If it is legendary, draw a card.
-url=https://scryfall.com/card/fin/39/venat-lady-of-the-light-hydaelyn-mothercrystal
+rule=Blessing of Light = At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control. Until your next turn, it gains indestructible. If that creature is legendary, draw a card.
+url=https://scryfall.com/card/fin/39/venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal
 name=Weapons Vendor
 cost={3}{W}
 type=Creature
@@ -1294,7 +1294,7 @@ subtype=Saga
 subtype=Demon
 stats=9/9
 rule=I = Lunge = Ifrit fights up to one other target creature.
-rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield 
+rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield .
 url=https://scryfall.com/card/fin/133/clive-ifrits-dominant-ifrit-warden-of-inferno
 name=Coral Sword
 cost={R}
@@ -1844,6 +1844,14 @@ stats=
 rule=Whenever a land you control enters, put a +1/+1 counter on target creature you control.
 rule={5}{G}{G}: This enchantment becomes a 7/7 Beast creature in addition to its other types.
 url=https://scryfall.com/card/fin/197/ride-the-shoopuf
+name=Rydia's Return
+cost={3}{G}{G}
+type=Sorcery
+stats=
+rule=Choose one =
+rule=Creatures you control get +3/+3 until end of turn.
+rule=Return up to two target permanent cards from your graveyard to your hand.
+url=https://scryfall.com/card/fin/198/rydias-return
 name=Sazh Katzroy
 cost={3}{G}
 type=Legendary
@@ -2316,6 +2324,16 @@ subtype=Noble
 stats=2/4
 rule=Whenever Rufus Shinra attacks, if you don't control a creature named Darkstar, create Darkstar, a legendary 2/2 white and black Dog creature token.
 url=https://scryfall.com/card/fin/238/rufus-shinra
+name=Rydia, Summoner of Mist
+cost={R}{G}
+type=Legendary
+type=Creature
+subtype=Human
+subtype=Shaman
+stats=1/2
+rule=Whenever a land you control enters, you may discard a card. If you do, draw a card.
+rule=Summon = {X}, {T}: Return target Saga card with mana value X from your graveyard to the battlefield with a finality counter on it. It gains haste until end of turn. Activate only as a sorcery.
+url=https://scryfall.com/card/fin/239/rydia-summoner-of-mist
 name=Serah Farron
 cost={1}{G}{W}
 type=Legendary
@@ -2473,7 +2491,7 @@ type=Artifact
 subtype=Vehicle
 stats=3/2
 rule=Flying
-rule=When this Vehicle attacks, draw a card then discard a card.
+rule=Whenever this Vehicle attacks, draw a card then discard a card.
 rule=Crew 2 
 url=https://scryfall.com/card/fin/252/adventurers-airship
 name=Aettir and Priwen
@@ -2485,6 +2503,13 @@ stats=
 rule=Equipped creature has base power and toughness X/X, where X is your life total.
 rule=Equip {5}
 url=https://scryfall.com/card/fin/253/aettir-and-priwen
+name=Blitzball
+cost={3}
+type=Artifact
+stats=
+rule={T}: Add one mana of any color.
+rule=GOOOOAAAALLL! = {T}, Sacrifice this artifact: Draw two cards. Activate only if an opponent was dealt combat damage by a legendary creature this turn.
+url=https://scryfall.com/card/fin/254/blitzball
 name=Buster Sword
 cost={3}
 type=Artifact
@@ -2643,7 +2668,7 @@ type=Land
 subtype=Town
 stats=5/4
 rule=This land enters tapped.
-rule=Add {G} or {U}.
+rule={T}: Add {G} or {U}.
 rule={5}{G}{U}, {T}: Transform this land. This ability costs {1} less to activate for each other Town you control.
 url=https://scryfall.com/card/fin/272/balamb-garden-seed-academy-balamb-garden-airborne
 name2=Balamb Garden, Airborne
@@ -3114,7 +3139,7 @@ subtype=Saga
 subtype=Demon
 stats=9/9
 rule=I = Lunge = Ifrit fights up to one other target creature.
-rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield 
+rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield .
 url=https://scryfall.com/card/fin/318/clive-ifrits-dominant-ifrit-warden-of-inferno
 name=Balthier and Fran
 cost={1}{R}{G}
@@ -3230,7 +3255,7 @@ type=Sorcery
 stats=
 rule=Destroy all artifacts and creatures. End the turn.
 url=https://scryfall.com/card/fin/328/ultima
-name="Venat, Lady of the Light"
+name=Venat, Heart of Hydaelyn
 cost={1}{W}{W}
 type=Legendary
 type=Creature
@@ -3238,17 +3263,17 @@ subtype=Elder
 subtype=Wizard
 stats=3/3
 rule=Whenever you cast a legendary spell, draw a card. This ability triggers only once each turn.
-rule=The Sundering = {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.
-url=https://scryfall.com/card/fin/329/venat-lady-of-the-light-hydaelyn-mothercrystal
-name2="Hydaelyn, Mothercrystal"
+rule=Hero's Sundering = {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.
+url=https://scryfall.com/card/fin/329/venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal
+name2=Hydaelyn, the Mothercrystal
 cost=
 type=Legendary
 type=Creature
 subtype=God
 stats=4/4
 rule=Indestructible
-rule=Blessing of Light = At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control. Until your next turn, that creature gains indestructible. If it is legendary, draw a card.
-url=https://scryfall.com/card/fin/329/venat-lady-of-the-light-hydaelyn-mothercrystal
+rule=Blessing of Light = At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control. Until your next turn, it gains indestructible. If that creature is legendary, draw a card.
+url=https://scryfall.com/card/fin/329/venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal
 name=The Wind Crystal
 cost={2}{W}{W}
 type=Legendary
@@ -3459,7 +3484,7 @@ type=Land
 subtype=Town
 stats=5/4
 rule=This land enters tapped.
-rule=Add {G} or {U}.
+rule={T}: Add {G} or {U}.
 rule={5}{G}{U}, {T}: Transform this land. This ability costs {1} less to activate for each other Town you control.
 url=https://scryfall.com/card/fin/354/balamb-garden-seed-academy-balamb-garden-airborne
 name2=Balamb Garden, Airborne
@@ -3910,7 +3935,7 @@ subtype=Saga
 subtype=Demon
 stats=9/9
 rule=I = Lunge = Ifrit fights up to one other target creature.
-rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield 
+rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield .
 url=https://scryfall.com/card/fin/385/clive-ifrits-dominant-ifrit-warden-of-inferno
 name=Firion, Wild Rose Warrior
 cost={2}{R}
@@ -4470,6 +4495,35 @@ stats=1/2
 rule=Lifelink
 rule={2}, {T}: Target opponent gains control of another target permanent you control. If they do, you draw a card.
 url=https://scryfall.com/card/fin/433/stiltzkin-moogle-merchant
+name=Venat, Heart of Hydaelyn
+cost={1}{W}{W}
+type=Legendary
+type=Creature
+subtype=Elder
+subtype=Wizard
+stats=3/3
+rule=Whenever you cast a legendary spell, draw a card. This ability triggers only once each turn.
+rule=Hero's Sundering = {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.
+url=https://scryfall.com/card/fin/434/venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal
+name2=Hydaelyn, the Mothercrystal
+cost=
+type=Legendary
+type=Creature
+subtype=God
+stats=4/4
+rule=Indestructible
+rule=Blessing of Light = At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control. Until your next turn, it gains indestructible. If that creature is legendary, draw a card.
+url=https://scryfall.com/card/fin/434/venat-heart-of-hydaelyn-hydaelyn-the-mothercrystal
+name=Zack Fair
+cost={W}
+type=Legendary
+type=Creature
+subtype=Human
+subtype=Soldier
+stats=0/1
+rule=Zack Fair enters with a +1/+1 counter on it.
+rule={1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.
+url=https://scryfall.com/card/fin/435/zack-fair
 name=Edgar, King of Figaro
 cost={4}{U}{U}
 type=Legendary
@@ -4758,6 +4812,16 @@ rule=Indestructible
 rule=When Zodiark enters, each player sacrifices half the non-God creatures they control of their choice, rounded down.
 rule=Whenever a player sacrifices another creature, put a +1/+1 counter on Zodiark.
 url=https://scryfall.com/card/fin/456/zodiark-umbral-god
+name=Barret Wallace
+cost={3}{R}
+type=Legendary
+type=Creature
+subtype=Human
+subtype=Rebel
+stats=4/4
+rule=Reach
+rule=Whenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player.
+url=https://scryfall.com/card/fin/457/barret-wallace
 name=Clive, Ifrit's Dominant
 cost={4}{R}{R}
 type=Legendary
@@ -4778,7 +4842,7 @@ subtype=Saga
 subtype=Demon
 stats=9/9
 rule=I = Lunge = Ifrit fights up to one other target creature.
-rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield 
+rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield .
 url=https://scryfall.com/card/fin/458/clive-ifrits-dominant-ifrit-warden-of-inferno
 name=Firion, Wild Rose Warrior
 cost={2}{R}
@@ -5063,6 +5127,26 @@ subtype=Wizard
 stats=3/3
 rule=Starfall = Whenever The Lord Master of Hell attacks, it deals X damage to each opponent, where X is the number of noncreature, nonland cards in your graveyard.
 url=https://scryfall.com/card/fin/484/the-emperor-of-palamecia-the-lord-master-of-hell
+name=Exdeath, Void Warlock
+cost={1}{B}{G}
+type=Legendary
+type=Creature
+subtype=Spirit
+subtype=Warlock
+stats=3/3
+rule=When Exdeath enters, you gain 3 life.
+rule=At the beginning of your end step, if there are six or more permanent cards in your graveyard, transform Exdeath.
+url=https://scryfall.com/card/fin/485/exdeath-void-warlock-neo-exdeath-dimensions-end
+name2=Neo Exdeath, Dimension's End
+cost=
+type=Legendary
+type=Creature
+subtype=Spirit
+subtype=Avatar
+stats=*/3
+rule=Trample
+rule=Neo Exdeath's power is equal to the number of permanent cards in your graveyard.
+url=https://scryfall.com/card/fin/485/exdeath-void-warlock-neo-exdeath-dimensions-end
 name=Garland, Knight of Cornelia
 cost={B}{R}
 type=Legendary
@@ -5284,6 +5368,16 @@ subtype=Noble
 stats=2/4
 rule=Whenever Rufus Shinra attacks, if you don't control a creature named Darkstar, create Darkstar, a legendary 2/2 white and black Dog creature token.
 url=https://scryfall.com/card/fin/503/rufus-shinra
+name=Rydia, Summoner of Mist
+cost={R}{G}
+type=Legendary
+type=Creature
+subtype=Human
+subtype=Shaman
+stats=1/2
+rule=Whenever a land you control enters, you may discard a card. If you do, draw a card.
+rule=Summon = {X}, {T}: Return target Saga card with mana value X from your graveyard to the battlefield with a finality counter on it. It gains haste until end of turn. Activate only as a sorcery.
+url=https://scryfall.com/card/fin/504/rydia-summoner-of-mist
 name=Sephiroth, Planet's Heir
 cost={4}{U}{B}
 type=Legendary
@@ -5666,7 +5760,7 @@ subtype=Saga
 subtype=Demon
 stats=9/9
 rule=I = Lunge = Ifrit fights up to one other target creature.
-rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield 
+rule=II, III = Brimstone = Add {R}{R}{R}{R}. If Ifrit has three or more lore counters on it, exile it, then return it to the battlefield .
 url=https://scryfall.com/card/fin/530/clive-ifrits-dominant-ifrit-warden-of-inferno
 name=Firion, Wild Rose Warrior
 cost={2}{R}
