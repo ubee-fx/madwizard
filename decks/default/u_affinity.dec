@@ -23,6 +23,8 @@ Etherium Sculptor
 Foundry Inspector
 Steel Overseer
 Filigree Attendant
+Cyberdrive Awakener
+Emissary Escort
 }
 
 # 19 affinity
@@ -43,6 +45,7 @@ Thoughtcast
 # 6 cheap artifacts
 6,1 {
 filter:type=Artifact,color=u,colorless,maxCost=0,notext=mox,notext=lotus
+Insight Engine
 }
 
 # 22 lands
