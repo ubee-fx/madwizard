@@ -1,0 +1,53 @@
+!rw,Artifact RW
+!red and white artifact
+
+# 4 main
+4,2 {
+Sami, Wildcat Captain
+Akiri, Line-Slinger
+}
+
+# 16 creatures
+7,1 {
+filter:type=Creature,color=r,text=artifact,notext=destroy
+}
+7,1 {
+filter:type=Creature,color=w,text=artifact,notext=destroy,notext=tap,notext=protection from artifacts
+}
+2,1 {
+filter:type=Creature,color=r,color=w,anycolor,text=equip
+}
+
+# 8 equipment
+4,1 {
+filter:subtype=Equipment,equipment,color=r
+}
+4,1 {
+filter:subtype=Equipment,equipment,color=w
+}
+
+# 8 other
+8,2 {
+Sol Ring
+Pearl Medallion
+Ruby Medallion
+Lightning Helix
+Warleader's Helix
+Tempered Steel
+All That Glitters
+Mechanized Warfare
+Hammer of Purphoros
+Lens Flare
+Plated Onslaught
+Nettlecyst
+}
+
+# 24 lands
+24,4 {
+Plains
+Mountain
+Ancient Den
+Great Furnace
+Rustvale Bridge
+Clifftop Retreat
+}
