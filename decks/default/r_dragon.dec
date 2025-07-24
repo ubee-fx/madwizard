@@ -75,6 +75,7 @@ The Fire Crystal
 4,2 {
 filter:type=Instant,color=r,maxCost=2,text=gets +
 filter:type=Instant,type=Sorcery,anytype,color=r,text=gain,text=double strike
+Double Trouble
 Seething Song
 Pyretic Ritual
 }
