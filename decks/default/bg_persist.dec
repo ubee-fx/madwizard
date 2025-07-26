@@ -18,6 +18,7 @@ filter:color=b,color=g,color=w,color=r,anycolor,multicolor,text=persist
 # 10 counter
 10,2 {
 filter:color=b,color=g,anycolor,text=+1/+1 counter,text=target creature
+Web-Warriors
 }
 
 # 6 other spells
