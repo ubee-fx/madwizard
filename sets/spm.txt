@@ -5,7 +5,8 @@ type=Creature
 subtype=Symbiote
 subtype=Hero
 stats=5/5
-rule=When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield. If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.
+rule=When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+rule=If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.
 url=https://scryfall.com/card/spm/1/anti-venom-horrifying-healer
 name=Aunt May
 cost={W}
@@ -231,6 +232,18 @@ type=Instant
 stats=
 rule=Target creature gets -3/-3 until end of turn.
 url=https://scryfall.com/card/spm/65/scorpions-sting
+name=The Soul Stone
+cost={1}{B}
+type=Legendary
+type=Artifact
+subtype=Infinity
+subtype=Stone
+stats=
+rule=Indestructible
+rule={T}: Add {B}.
+rule={6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. 
+rule=∞ = At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+url=https://scryfall.com/card/spm/66/the-soul-stone
 name=Spider-Man Noir
 cost={4}{B}
 type=Legendary
@@ -423,6 +436,15 @@ subtype=Villain
 stats=2/2
 rule={2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
 url=https://scryfall.com/card/spm/104/kravens-cats
+name=Kraven's Last Hunt
+cost={3}{G}
+type=Enchantment
+subtype=Saga
+stats=
+rule=I = Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.
+rule=II = Target creature you control gets +2/+2 until end of turn.
+rule=III = Return target creature card from your graveyard to your hand.
+url=https://scryfall.com/card/spm/105/kravens-last-hunt
 name=Lurking Lizards
 cost={1}{G}
 type=Creature
@@ -900,6 +922,15 @@ rule=I = Create a 2/1 green Spider creature token with reach.
 rule=II = Put a +1/+1 counter on target creature you control. It becomes a legendary Spider Hero in addition to its other types.
 rule=III = Target creature you control gains double strike until end of turn.
 url=https://scryfall.com/card/spm/218/origin-of-spider-man
+name=Kraven's Last Hunt
+cost={3}{G}
+type=Enchantment
+subtype=Saga
+stats=
+rule=I = Mill five cards. When you do, this Saga deals damage equal to the greatest power among creature cards in your graveyard to target creature.
+rule=II = Target creature you control gets +2/+2 until end of turn.
+rule=III = Return target creature card from your graveyard to your hand.
+url=https://scryfall.com/card/spm/226/kravens-last-hunt
 name=Doctor Octopus, Master Planner
 cost={5}{U}{B}
 type=Legendary
@@ -957,6 +988,30 @@ rule=First strike, haste
 rule=Camouflage = {2}: Put a +1/+1 counter on Ultimate Spider-Man. He gains hexproof and becomes colorless until end of turn.
 rule=Whenever you attack, double the number of each kind of counter on each Spider and legendary creature you control.
 url=https://scryfall.com/card/spm/234/miles-morales-ultimate-spider-man
+name=The Soul Stone
+cost={1}{B}
+type=Legendary
+type=Artifact
+subtype=Infinity
+subtype=Stone
+stats=
+rule=Indestructible
+rule={T}: Add {B}.
+rule={6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. 
+rule=∞ = At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+url=https://scryfall.com/card/spm/242/the-soul-stone
+name=The Soul Stone
+cost={1}{B}
+type=Legendary
+type=Artifact
+subtype=Infinity
+subtype=Stone
+stats=
+rule=Indestructible
+rule={T}: Add {B}.
+rule={6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. 
+rule=∞ = At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+url=https://scryfall.com/card/spm/243/the-soul-stone
 name=Anti-Venom, Horrifying Healer
 cost={W}{W}{W}{W}{W}
 type=Legendary
@@ -964,7 +1019,8 @@ type=Creature
 subtype=Symbiote
 subtype=Hero
 stats=5/5
-rule=When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield. If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.
+rule=When Anti-Venom enters, if he was cast, return target creature card from your graveyard to the battlefield.
+rule=If damage would be dealt to Anti-Venom, prevent that damage and put that many +1/+1 counters on him.
 url=https://scryfall.com/card/spm/244/anti-venom-horrifying-healer
 name=Iron Spider, Stark Upgrade
 cost={3}
@@ -978,3 +1034,25 @@ rule=Vigilance
 rule={T}: Put a +1/+1 counter on each artifact creature and/or Vehicle you control.
 rule={2}, Remove two +1/+1 counters from among artifacts you control: Draw a card.
 url=https://scryfall.com/card/spm/279/iron-spider-stark-upgrade
+name=Gwenom, Remorseless
+cost={3}{B}{B}
+type=Legendary
+type=Creature
+subtype=Symbiote
+subtype=Spider
+subtype=Hero
+stats=4/4
+rule=Deathtouch, lifelink
+rule=Whenever Gwenom attacks, until end of turn you may look at the top card of your library any time and you may play cards from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
+url=https://scryfall.com/card/spm/9998/gwenom-remorseless
+name=Carnage, Crimson Chaos
+cost={2}{B}{R}
+type=Legendary
+type=Creature
+subtype=Symbiote
+subtype=Villain
+stats=4/3
+rule=Trample
+rule=When Carnage enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains "This creature attacks each combat if able" and "When this creature deals combat damage to a player, sacrifice it."
+rule=Mayhem {B}{R}
+url=https://scryfall.com/card/spm/9999/carnage-crimson-chaos
