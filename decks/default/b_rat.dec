@@ -1,9 +1,12 @@
 !b,Rat
 !mono black rat
 
-# 33 rats
-33,33 {
+# 33 creatures
+30,30 {
 Rat Colony
+}
+3,3 {
+Mai, Scornful Striker
 }
 
 # 4 artifacts
