@@ -8,6 +8,7 @@ Archon of Redemption
 Githzerai Monk
 Serra Redeemer
 Sun Titan
+Meteor Golem
 }
 7,2 {
 filter:type=Creature,color=w,text=enters,text=you gain,text=life,notext=another,notext=kicked
