@@ -105,7 +105,7 @@ cost={2}{W}{W}
 type=Sorcery
 stats=
 rule=Choose up to one target creature, then airbend all other creatures. 
-rule=Until your next turn, your opponents can't cast spells from anywhere other than their hand.
+rule=Until your next turn, your opponents can't cast spells from anywhere other than their hands.
 rule=Exile Avatar's Wrath.
 url=https://scryfall.com/card/tla/12/avatars-wrath
 name=Compassionate Healer
@@ -423,7 +423,7 @@ cost={U}{U}
 type=Sorcery
 stats=
 rule=As an additional cost to cast this spell, waterbend {X}. 
-rule=Tap up to X target creatures, then distribute three stun counters among tapped creatures your opponents control. 
+rule=Tap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. 
 url=https://scryfall.com/card/tla/47/crashing-wave
 name=Ember Island Production
 cost={3}{U}{U}
@@ -552,8 +552,7 @@ type=Enchantment
 subtype=Saga
 stats=4/3
 rule=I, II = Scry 2, then draw a card.
-rule=III = Exile this Saga, then return it to the battlefield
-rule=transformed under your control.
+rule=III = Exile this Saga, then return it to the battlefield transformed under your control.
 url=https://scryfall.com/card/tla/61/the-legend-of-kuruk-avatar-kuruk
 name2=Avatar Kuruk
 cost=
@@ -710,8 +709,8 @@ type=Creature
 subtype=Serpent
 stats=5/5
 rule=Flash
-rule=Ward=Waterbend {4} 
-rule=Whenever an opponent draws their second card each turn, draw two cards.
+rule=Ward=Waterbend {4}. 
+rule=Whenever an opponent draws their second card each turn, you draw two cards.
 url=https://scryfall.com/card/tla/77/the-unagi-of-kyoshi-island
 name=Wan Shi Tong, Librarian
 cost={X}{U}{U}
@@ -762,7 +761,7 @@ subtype=Spirit
 subtype=Ally
 stats=3/3
 rule=Flying, vigilance
-rule=Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost.
+rule=Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. 
 url=https://scryfall.com/card/tla/83/yue-the-moon-spirit
 name=Azula Always Lies
 cost={1}{B}
@@ -1279,7 +1278,7 @@ subtype=Rebel
 subtype=Ally
 stats=2/3
 rule=Firebending 1 
-rule=Exhaust = {3}: Put a +1/+1 counter on Jeong Jeong. When you next cast a Lesson spell this turn, copy it and you may choose new targets for the copy.
+rule=Exhaust = {3}: Put a +1/+1 counter on Jeong Jeong. When you next cast a Lesson spell this turn, copy it and you may choose new targets for the copy. 
 url=https://scryfall.com/card/tla/142/jeong-jeong-the-deserter
 name=Jet's Brainwashing
 cost={R}
@@ -1301,7 +1300,6 @@ cost={2}{R}{R}
 type=Enchantment
 subtype=Saga
 stats=4/4
-rule=step, add a lore counter.)</i>
 rule=I = Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
 rule=II = Add one mana of any color.
 rule=III = Exile this Saga, then return it to the battlefield transformed under your control.
@@ -1680,7 +1678,6 @@ cost={4}{G}{G}
 type=Enchantment
 subtype=Saga
 stats=5/4
-rule=step, add a lore counter.)</i>
 rule=I = Draw cards equal to the greatest power among creatures you control.
 rule=II = Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.
 rule=III = Exile this Saga, then return it to the battlefield transformed under your control.
@@ -1813,7 +1810,7 @@ type=Creature
 subtype=Human
 subtype=Citizen
 stats=2/2
-rule=When this creature enters, create a Food token.
+rule=When this creature enters, create a Food token. 
 rule=Whenever you sacrifice a Food, you may search your library for a basic land card and put it onto the battlefield tapped. If you search your library this way, put this creature on the bottom of its owner's library, then shuffle.
 url=https://scryfall.com/card/tla/201/unlucky-cabbage-merchant
 name=Walltop Sentries
@@ -1906,7 +1903,7 @@ subtype=Avatar
 subtype=Ally
 stats=6/6
 rule=Flying
-rule=Spells you cast cost {W}{U}{B}{R}{G} less to cast.
+rule=Spells you cast cost {W}{U}{B}{R}{G} less to cast. 
 rule=At the beginning of each upkeep, you may transform Aang, Master of Elements. If you do, you gain 4 life, draw four cards, put four +1/+1 counters on him, and he deals 4 damage to each opponent.
 url=https://scryfall.com/card/tla/207/avatar-aang-aang-master-of-elements
 name=Azula, Cunning Usurper
@@ -2757,7 +2754,7 @@ cost={U}{U}
 type=Sorcery
 stats=
 rule=As an additional cost to cast this spell, waterbend {X}. 
-rule=Tap up to X target creatures, then distribute three stun counters among tapped creatures your opponents control. 
+rule=Tap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. 
 url=https://scryfall.com/card/tla/300/crashing-wave
 name=Combustion Technique
 cost={1}{R}
@@ -2859,7 +2856,7 @@ subtype=Avatar
 subtype=Ally
 stats=6/6
 rule=Flying
-rule=Spells you cast cost {W}{U}{B}{R}{G} less to cast.
+rule=Spells you cast cost {W}{U}{B}{R}{G} less to cast. 
 rule=At the beginning of each upkeep, you may transform Aang, Master of Elements. If you do, you gain 4 life, draw four cards, put four +1/+1 counters on him, and he deals 4 damage to each opponent.
 url=https://scryfall.com/card/tla/308/avatar-aang-aang-master-of-elements
 name=Sozin's Comet
@@ -2963,8 +2960,8 @@ type=Creature
 subtype=Serpent
 stats=5/5
 rule=Flash
-rule=Ward=Waterbend {4} 
-rule=Whenever an opponent draws their second card each turn, draw two cards.
+rule=Ward=Waterbend {4}. 
+rule=Whenever an opponent draws their second card each turn, you draw two cards.
 url=https://scryfall.com/card/tla/319/the-unagi-of-kyoshi-island
 name=Wan Shi Tong, Librarian
 cost={X}{U}{U}
@@ -3147,7 +3144,7 @@ subtype=Spirit
 subtype=Ally
 stats=3/3
 rule=Flying, vigilance
-rule=Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost.
+rule=Waterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. 
 url=https://scryfall.com/card/tla/338/yue-the-moon-spirit
 name=Foggy Swamp Visions
 cost={1}{B}{B}
@@ -3348,8 +3345,7 @@ type=Enchantment
 subtype=Saga
 stats=4/3
 rule=I, II = Scry 2, then draw a card.
-rule=III = Exile this Saga, then return it to the battlefield
-rule=transformed under your control.
+rule=III = Exile this Saga, then return it to the battlefield transformed under your control.
 url=https://scryfall.com/card/tla/355/the-legend-of-kuruk-avatar-kuruk
 name2=Avatar Kuruk
 cost=
@@ -3384,7 +3380,6 @@ cost={2}{R}{R}
 type=Enchantment
 subtype=Saga
 stats=4/4
-rule=step, add a lore counter.)</i>
 rule=I = Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
 rule=II = Add one mana of any color.
 rule=III = Exile this Saga, then return it to the battlefield transformed under your control.
@@ -3403,7 +3398,6 @@ cost={4}{G}{G}
 type=Enchantment
 subtype=Saga
 stats=5/4
-rule=step, add a lore counter.)</i>
 rule=I = Draw cards equal to the greatest power among creatures you control.
 rule=II = Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.
 rule=III = Exile this Saga, then return it to the battlefield transformed under your control.
@@ -3492,7 +3486,7 @@ subtype=Avatar
 subtype=Ally
 stats=6/6
 rule=Flying
-rule=Spells you cast cost {W}{U}{B}{R}{G} less to cast.
+rule=Spells you cast cost {W}{U}{B}{R}{G} less to cast. 
 rule=At the beginning of each upkeep, you may transform Aang, Master of Elements. If you do, you gain 4 life, draw four cards, put four +1/+1 counters on him, and he deals 4 damage to each opponent.
 url=https://scryfall.com/card/tla/363/avatar-aang-aang-master-of-elements
 name=Airbender Ascension
@@ -3508,7 +3502,7 @@ cost={2}{W}{W}
 type=Sorcery
 stats=
 rule=Choose up to one target creature, then airbend all other creatures. 
-rule=Until your next turn, your opponents can't cast spells from anywhere other than their hand.
+rule=Until your next turn, your opponents can't cast spells from anywhere other than their hands.
 rule=Exile Avatar's Wrath.
 url=https://scryfall.com/card/tla/365/avatars-wrath
 name=Hakoda, Selfless Commander
