@@ -5,7 +5,7 @@ type=Creature
 subtype=Elemental
 subtype=Sorcerer
 stats=2/3
-rule=Elemental spells you cast from your hand have evoke {4}. 
+rule=Elemental permanent spells you cast from your hand gain evoke {4} as you cast them. 
 rule=Whenever you sacrifice a nontoken Elemental, create a token that's a copy of it. The token gains haste until end of turn. At the beginning of your next end step, sacrifice it unless you pay {W}{U}{B}{R}{G}.
 url=https://scryfall.com/card/ecc/1/ashling-the-limitless
 name=Auntie Ool, Cursewretch
@@ -123,7 +123,7 @@ name=Elemental Spectacle
 cost={5}{G}
 type=Sorcery
 stats=
-rule=Vivid = Create a number of 5/5 red and green Elemental creature tokens equal to the number of colors among permanents you control. Then you gain life equal to the number of creatures you control.
+rule=Create a number of 5/5 red and green Elemental creature tokens equal to the number of colors among permanents you control. Then you gain life equal to the number of creatures you control.
 url=https://scryfall.com/card/ecc/15/elemental-spectacle
 name=Ferrafor, Young Yew
 cost={6}{G}
@@ -285,7 +285,7 @@ name=Elemental Spectacle
 cost={5}{G}
 type=Sorcery
 stats=
-rule=Vivid = Create a number of 5/5 red and green Elemental creature tokens equal to the number of colors among permanents you control. Then you gain life equal to the number of creatures you control.
+rule=Create a number of 5/5 red and green Elemental creature tokens equal to the number of colors among permanents you control. Then you gain life equal to the number of creatures you control.
 url=https://scryfall.com/card/ecc/35/elemental-spectacle
 name=Ferrafor, Young Yew
 cost={6}{G}
