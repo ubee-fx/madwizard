@@ -1,0 +1,67 @@
+!bgw,Toughness
+!black, green and white toughness
+
+# 6 main
+4,4 {
+Doran, Besieged by Time
+}
+2,2 {
+Jaws of Defeat
+}
+
+# 12 toughness creatures
+12,2 {
+Yoked Ox
+Tasseled Dromedary
+Great Forest Druid
+Nyx-Fleece Ram
+Dalkovan Packbeasts
+Indomitable Ancients
+Looming Altisaur
+Grizzled Leotau
+Unhallowed Phalanx
+}
+
+# 2 power creatures
+2,1 {
+Nylea's Forerunner
+Yargle, Glutton of Urborg
+Yargle and Multani
+}
+
+# 8 defender creatures
+8,2 {
+Perimeter Captain
+Steel Wall
+Angelic Wall
+Vine Trellis
+Wall of Omens
+Wall of Blossoms
+Towering Viewpoint
+Crashing Drawbridge
+Fortified Rampart
+Tree of Redemption
+}
+
+# 8 other
+8,2 {
+Stoneskin
+Eland Umbra
+Primal Rage
+Spidersilk Armor
+Tower Defense
+Angelic Chorus
+Zealous Persecution
+}
+
+# 24 lands
+12,6 {
+Plains
+Forest
+}
+6,2 {
+filter:type=Land,mana=b,mana=g
+}
+6,2 {
+filter:type=Land,mana=b,mana=w
+}
