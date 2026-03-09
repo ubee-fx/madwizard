@@ -1,0 +1,72 @@
+!ru,Artifact RU
+!red and blue artifact
+
+# 4 main
+4,2 {
+Baxter Stockman
+Enthusiastic Mechanaut
+Mm'menon, Uthros Exile
+}
+
+# 8 artifact
+8,1 {
+Atog
+Megatog
+Esperzoa
+Pia Nalaar
+Ornithopter
+Chrome Dome
+Orcish Vandal
+Steel Overseer
+Research Thief
+Emissary Escort
+Etherium Spinner
+Thopter Engineer
+Etherium Sculptor
+Foundry Inspector
+Ravenous Intruder
+Master of Etherium
+Reckless Fireweaver
+Cyberdrive Awakener
+Pia and Kiran Nalaar
+Slobad, Goblin Tinkerer
+Donatello, Way with Machines
+}
+
+# 16 affinity
+16,2 {
+filter:type=Creature,type=Sorcery,type=Instant,type=Artifact,anytype,color=u,color=r,anycolor,colorless,text=affinity for artifacts
+}
+
+# 8 other spells
+8,1 {
+Spellbook
+Bone Saw
+Embercleave
+Coral Sword
+Twin Blades
+Boots of Speed
+Improvised Arsenal
+Insight Engine
+Mechanized Warfare
+Hammer of Purphoros
+Nettlecyst
+Black Lotus
+Mox Sapphire
+Mox Ruby
+Sol Ring
+Ruby Medallion
+Sapphire Medallion
+Ancestral Recall
+Time Walk
+}
+
+# 24 lands
+24,4 {
+Plains
+Mountain
+Seat of the Synod
+Great Furnace
+Silverbluff Bridge
+Sulfur Falls
+}
