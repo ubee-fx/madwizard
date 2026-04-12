@@ -86,6 +86,7 @@
 1_1_white_Vampire_creature_token_with_lifelink=https://scryfall.com/card/t2x2/9/vampire
 1_1_white_Warrior_creature_token=https://scryfall.com/card/tktk/4/warrior
 1_1_white_Warrior_creature_token_with_vigilance=https://scryfall.com/card/tdmc/4/warrior
+1_1_white_and_black_Inkling_creature_token_with_flying=https://scryfall.com/card/tsos/7/inkling
 1_1_white_and_black_Spirit_creature_token_with_flying=https://scryfall.com/card/tc21/21/spirit
 1_2_black_Phyrexian_Wurm_artifact_creature_token_with_deathtouch=https://scryfall.com/card/tmh3/17/phyrexian-wurm
 1_2_green_Spider_creature_token_with_reach=https://scryfall.com/card/t2x2/18/spider
