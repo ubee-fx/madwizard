@@ -19,6 +19,7 @@ Anthem of Champions
 12,2 {
 filter:type=Creature,color=w,color=g,anycolor,colorless,maxCost=1,hasx
 Wilson, Refined Grizzly
+Medusa, Inhuman Queen
 Faithful Watchdog
 Adaptive Shimmerer
 Scute Mob
